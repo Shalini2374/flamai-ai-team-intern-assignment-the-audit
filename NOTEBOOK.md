@@ -525,8 +525,7 @@ production traffic. Therefore the measured token premium may differ from
 production traffic.
 
 ### Deliverable
-
-The full recommendation memo is in `partA/memo.md`.
+The full recommendation memo is in `partA/A4_recommendation_memo.md`.
 
 ### A4 complete.
 
