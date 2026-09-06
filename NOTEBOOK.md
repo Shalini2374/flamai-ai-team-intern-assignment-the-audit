@@ -351,7 +351,7 @@ which currently uses Python `len()`, is an appropriate
 language-neutral denominator.
 ---
 
-## Experiment 7 — quantifying fertility shifts (split, lowercase, NFC)
+## Experiment 6 — quantifying fertility shifts (split, lowercase, NFC)
 
 ### Goal
 Move from "how many lines changed" to "how much did the final fertility
@@ -380,7 +380,7 @@ each on average, not dramatically. All three are real, quantified, and
 none individually explains the large GPT-2 cross-language gap. 
 ---
 
-## Experiment 8 — random.seed(1337): suspicious but fine
+## Experiment 7 — random.seed(1337): suspicious but fine
 
 ### Hypothesis
 fertility.py imports random and sets random.seed(1337) with a comment
@@ -407,13 +407,13 @@ assignment's -5 penalty for unverified claims.
 ## A2 — Complete
 
 All required elements are now evidenced:
-- Code bugs: split(" ") phantom words (Exp 1, 7), per-line averaging
+- Code bugs: split(" ") phantom words (Exp 1, 6), per-line averaging
   (Exp 2)
 - Conceptual bug: tokenizer choice, not language, drives most of the
   cross-language gap (Exp 5)
-- Preprocessing issues with measured impact: lowercasing (Exp 3, 7),
-  NFC normalization (Exp 4, 7)
-- Suspicious-but-fine: random.seed(1337) (Exp 8)
+- Preprocessing issues with measured impact: lowercasing (Exp 3, 6),
+  NFC normalization (Exp 4, 6)
+- Suspicious-but-fine: random.seed(1337) (Exp 7)
 
 Moving to A3: corrected cross-language comparison using the A1 corpus,
 multiple tokenizers, and multiple denominators. 
@@ -526,10 +526,7 @@ production traffic.
 
 ### Deliverable
 The full recommendation memo is in `partA/A4_recommendation_memo.md`.
-<<<<<<< HEAD
-=======
 
->>>>>>> 84ec59eb11087c490f36d5196dfb7652095a1463
 ### A4 complete.
 
 ## Session 3 — Part B: Capacity reconciliation
