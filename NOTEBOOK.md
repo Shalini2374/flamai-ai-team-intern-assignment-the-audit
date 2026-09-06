@@ -526,6 +526,10 @@ production traffic.
 
 ### Deliverable
 The full recommendation memo is in `partA/A4_recommendation_memo.md`.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 84ec59eb11087c490f36d5196dfb7652095a1463
 ### A4 complete.
 
 ## Session 3 — Part B: Capacity reconciliation
