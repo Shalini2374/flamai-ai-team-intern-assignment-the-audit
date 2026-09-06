@@ -1,0 +1,801 @@
+sentence_id,lang,flores_code,text,domain,topic
+0,eng,eng_Latn,"On Monday, scientists from the Stanford University School of Medicine announced the invention of a new diagnostic tool that can sort cells by type: a tiny printable chip that can be manufactured using standard inkjet printers for possibly about one U.S. cent each.",wikinews,health
+1,eng,eng_Latn,"Lead researchers say this may bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for illnesses such as breast cancer can be half those of richer countries.",wikinews,health
+2,eng,eng_Latn,"The JAS 39C Gripen crashed onto a runway at around 9:30 am local time (0230 UTC) and exploded, closing the airport to commercial flights.",wikinews,accident
+3,eng,eng_Latn,The pilot was identified as Squadron Leader Dilokrit Pattavee.,wikinews,accident
+4,eng,eng_Latn,Local media reports an airport fire vehicle rolled over while responding.,wikinews,accident
+5,eng,eng_Latn,"28-year-old Vidal had joined Barça three seasons ago, from Sevilla.",wikinews,sports
+6,eng,eng_Latn,"Since moving to the Catalan-capital, Vidal had played 49 games for the club.",wikinews,sports
+7,eng,eng_Latn,"The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence.",wikinews,politics
+8,eng,eng_Latn,"Just after 11:00, protesters blocked traffic on the northbound carriage in Whitehall.",wikinews,politics
+9,eng,eng_Latn,"At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.",wikinews,politics
+10,eng,eng_Latn,"Around 11:29, the protest moved up Whitehall, past Trafalgar Square, along the Strand, passing by Aldwych and up Kingsway towards Holborn where the Conservative Party were holding their Spring Forum in the Grand Connaught Rooms hotel.",wikinews,politics
+11,eng,eng_Latn,Nadal's head to head record against the Canadian is 7–2.,wikinews,sports
+12,eng,eng_Latn,He recently lost against Raonic in the Brisbane Open.,wikinews,sports
+13,eng,eng_Latn,Nadal bagged 88% net points in the match winning 76 points in the first serve.,wikinews,sports
+14,eng,eng_Latn,"After the match, King of Clay said, ""I am just excited about being back in the final rounds of the most important events. I am here to try to win this.""",wikinews,sports
+15,eng,eng_Latn,"""Panama Papers"" is an umbrella term for roughly ten million documents from Panamanian law firm Mossack Fonseca, leaked to the press in spring 2016.",wikinews,crime
+16,eng,eng_Latn,The documents showed fourteen banks helped wealthy clients hide billions of US dollars of wealth to avoid taxes and other regulations.,wikinews,crime
+17,eng,eng_Latn,British newspaper The Guardian suggested Deutsche Bank controlled roughly a third of the 1200 shell companies used to accomplish this.,wikinews,crime
+18,eng,eng_Latn,"There were protests worldwide, several criminal prosecutions, and the leaders of the governments of Iceland and Pakistan both resigned.",wikinews,crime
+19,eng,eng_Latn,"Born in Hong Kong, Ma studied at New York University and Harvard Law School and once held an American permanent resident ""green card"".",wikinews,Politics and conflicts
+20,eng,eng_Latn,Hsieh implied during the election that Ma might flee the country during a time of crisis.,wikinews,Politics and conflicts
+21,eng,eng_Latn,Hsieh also argued that the photogenic Ma was more style than substance.,wikinews,Politics and conflicts
+22,eng,eng_Latn,"Despite these accusations, Ma won handily on a platform advocating closer ties with the Chinese mainland.",wikinews,
+23,eng,eng_Latn,Today's Player of the Day is Alex Ovechkin of the Washington Capitals.,wikinews,sports
+24,eng,eng_Latn,He had 2 goals and 2 assists in Washington's 5-3 win over the Atlanta Thrashers.,wikinews,sports
+25,eng,eng_Latn,Ovechkin's first assist of the night was on the game-winning goal by rookie Nicklas Backstrom;,wikinews,sports
+26,eng,eng_Latn,"his second goal of the night was his 60th of the season, becoming the first player to score 60 or more goals in a season since 1995-96, when Jaromir Jagr and Mario Lemieux each reached that milestone.",wikinews,sports
+27,eng,eng_Latn,Batten was ranked 190th on the 2008 400 Richest Americans list with an estimated fortune of $2.3 billion.,wikinews,Television
+28,eng,eng_Latn,He graduated from the College of Arts & Sciences of the University of Virginia in 1950 and was a significant donor to that institution.,wikinews,Television
+29,eng,eng_Latn,Iraq's Abu Ghraib prison has been set alight during a riot.,wikinews,crime
+30,eng,eng_Latn,The jail became notorious after prisoner abuse was discovered there after US forces took over.,wikinews,crime
+31,eng,eng_Latn,"Piquet Jr. crashed in the 2008 Singapore Grand Prix just after an early pit stop for Fernando Alonso, bringing out the safety car.",wikinews,crime
+32,eng,eng_Latn,"As the cars ahead of Alonso went in for fuel under the safety car, he moved up the pack to take victory.",wikinews,crime
+33,eng,eng_Latn,Piquet Jr. was sacked after the 2009 Hungarian Grand Prix.,wikinews,crime
+34,eng,eng_Latn,"At exactly 8:46 a.m. a hush fell across the city, marking the exact moment the first jet struck its target.",wikinews,accident
+35,eng,eng_Latn,Two beams of light have been rigged up to point skywards overnight.,wikinews,accident
+36,eng,eng_Latn,"Construction is ongoing for five new skyscrapers at the site, with a transportation center and memorial park in the middle.",wikinews,accident
+37,eng,eng_Latn,"The PBS show has more than two-dozen Emmy awards, and its run is shorter only than Sesame Street and Mister Rogers' Neighborhood.",wikinews,television
+38,eng,eng_Latn,Each episode of the show would focus on a theme in a specific book and then explore that theme through multiple stories.,wikinews,television
+39,eng,eng_Latn,Each show would also provide recommendations for books that children should look for when they went to their library.,wikinews,television
+40,eng,eng_Latn,"John Grant, from WNED Buffalo (Reading Rainbow's home station) said ""Reading Rainbow taught kids why to read,... the love of reading — [the show] encouraged kids to pick up a book and to read.""",wikinews,television
+41,eng,eng_Latn,"It is believed by some, including John Grant, that both the funding crunch and a shift in the philosophy of educational television programming contributed to ending the series.",wikinews,television
+42,eng,eng_Latn,"The storm, situated about 645 miles (1040 km) west of the Cape Verde islands, is likely to dissipate before threatening any land areas, forecasters say.",wikinews,disaster
+43,eng,eng_Latn,Fred currently has winds of 105 miles per hour (165 km/h) and is moving towards the northwest.,wikinews,disaster
+44,eng,eng_Latn,"Fred is the strongest tropical cyclone ever recorded so far south and east in the Atlantic since the advent of satellite imagery, and only the third major hurricane on record east of 35°W.",wikinews,disaster
+45,eng,eng_Latn,"On September 24, 1759, Arthur Guinness signed a 9,000 year lease for the St James' Gate Brewery in Dublin, Ireland.",wikinews,culture
+46,eng,eng_Latn,"250 years later, Guinness has grown to a global business that turns over 10 billion euros (US$14.7 billion) every year.",wikinews,culture
+47,eng,eng_Latn,"Jonny Reid, co-driver for the A1GP New Zealand team, today made history by driving the fastest over the 48-year-old Auckland Harbour Bridge, New Zealand, legally.",wikinews,Sports
+48,eng,eng_Latn,"Mr Reid managed to drive the New Zealand's A1GP car, Black Beauty at speeds over 160km/h seven times over the bridge.",wikinews,Sports
+49,eng,eng_Latn,"The New Zealand police had trouble using their speed radar guns to see how fast Mr Reid was going because of how low Black Beauty is, and the only time the police managed to clock Mr Reid was when he slowed down to 160km/h.",wikinews,Sports
+50,eng,eng_Latn,"In the last 3 months, over 80 arrestees were released from the Central Booking facility without being formally charged.",wikinews,Crime and Law
+51,eng,eng_Latn,"In April this year, a temporary restaining order was issued by Judge Glynn against the facility to enforce the release of those held more than 24 hours after their intake who did not receive a hearing by a court commissioner.",wikinews,Crime and Law
+52,eng,eng_Latn,"The commissioner sets bail, if granted, and formalizes the charges filed by the arresting officer. The charges are then entered into the state's computer system where the case is tracked.",wikinews,Crime and Law
+53,eng,eng_Latn,The hearing also marks the date for the suspect’s right to a speedy trial.,wikinews,Crime and Law
+54,eng,eng_Latn,"Peter Costello, Australian treasurer and the man most likely to succeed Prime Minister John Howard as Liberal party leader has thrown his support behind a nuclear power industry in Australia.",wikinews,Politics
+55,eng,eng_Latn,"Mr Costello said that when nuclear power generation becomes economically viable, Australia should pursue its use.",wikinews,Politics
+56,eng,eng_Latn,"""If it becomes commercial, we should have it. That is, there's no in-principle objection to nuclear energy"" Mr Costello said.",wikinews,Politics
+57,eng,eng_Latn,"According to Ansa, ""police were concerned by a couple of top-level hits they feared might spark a full-blown war of succession.",wikinews,Crime and Law
+58,eng,eng_Latn,Police said Lo Piccolo had the upper hand because he had been Provenzano's right-hand man in Palermo and his greater experience won him the respect of the older generation of bosses as they pursued Provenzano's policy of keeping as low as possible while strengthening their power network.,wikinews,Crime and Law
+59,eng,eng_Latn,"These bosses had been reined in by Provenzano when he put an end to the Riina-driven war against the state that claimed the lives of Mafia crusaders Giovanni Falcone and Paolo Borsellino in 1992.""",wikinews,Crime and Law
+60,eng,eng_Latn,Apple CEO Steve Jobs unveiled the device by walking onto the stage and taking the iPhone out of his jeans pocket.,wikinews,Economy and business
+61,eng,eng_Latn,"During his 2 hour speech he stated that ""Today Apple is going to reinvent the phone, We are going to make history today"".",wikinews,Economy and business
+62,eng,eng_Latn,"Brazil is the largest Roman Catholic country on Earth, and the Roman Catholic Church has consistently opposed the legalization of same-sex marriage in the country.",wikinews,Crime and Law
+63,eng,eng_Latn,"The National Congress of Brazil has debated legalization for 10 years, and such civil marriages are currently only legal in Rio Grande do Sul.",wikinews,Crime and Law
+64,eng,eng_Latn,"The original bill was drafted by former mayor of São Paulo, Marta Suplicy. The proposed legislation, after being amended, is now in the hands of Roberto Jefferson.",wikinews,Crime and Law
+65,eng,eng_Latn,Protesters hope to collect a petition of 1.2 million signatures to present to the National Congress in November.,wikinews,Crime and Law
+66,eng,eng_Latn,"After it became apparent that many families were seeking legal help to fight the evictions, a meeting was held on March 20 at the East Bay Community Law Center for the victims of the housing scam.",wikinews,Crime and Law
+67,eng,eng_Latn,"When the tenants started sharing what had occurred to them, most of the families involved suddenly realized that Carolyn Wilson of the OHA had stolen their security deposits, and skipped out of town.",wikinews,Crime and Law
+68,eng,eng_Latn,"Tenants at Lockwood Gardens believe that there may be another 40 families or more to face eviction, since they learned that OHA police are also investigating other public housing properties in Oakland that may be caught up in the housing scam.",wikinews,Crime and Law
+69,eng,eng_Latn,"The band canceled the show at Maui's War Memorial Stadium, which was set to be attended by 9,000 people, and apologized to fans.",wikinews,Crime and Law
+70,eng,eng_Latn,"The band's management company, HK Management Inc., gave no initial reason when they canceled on September 20, but blamed logistical reasons by the next day.",wikinews,Crime and Law
+71,eng,eng_Latn,"The famous Greek lawyers, Sakis Kechagioglou and George Nikolakopoulos have been imprisoned in the Athens' jail of Korydallus, as they were found guilty of graft and corruption.",wikinews,Crime and Law
+72,eng,eng_Latn,"As a result of this, a big scandal within the Greek legal community has been raised through the exposure of illegal actions that judges, lawyers, solicitors and attorneys have done during the previous years.",wikinews,Crime and Law
+73,eng,eng_Latn,"A few weeks ago, after the information published by the journalist Makis Triantafylopoulos in his popular Television show ""Zoungla"" in Alpha TV, the member of Parliament and lawyer, Petros Mantouvalos was abdicated as members of his office had been involved in illegal graft and corruption.",wikinews,Crime and Law
+74,eng,eng_Latn,"Moreover, top judge Evangelos Kalousis is imprisoned as he found guilty of corruption and degenerate behaviour.",wikinews,Crime and Law
+75,eng,eng_Latn,"Roberts flatly refused to say about when he believes life begins, an important question when considering the ethics of abortion, saying that it would be unethical to comment on the specifics of likely cases.",wikinews,Politics
+76,eng,eng_Latn,"He did, however, reiterate his earlier statement that Roe v. Wade was the ""settled law of the land"", emphasizing the importance of consistent Supreme Court rulings.",wikinews,Politics
+77,eng,eng_Latn,He also confirmed that he believed in the implied right to privacy which the Roe decision depended upon.,wikinews,Politics
+78,eng,eng_Latn,"Maroochydore had finished on top of the ladder, six points clear of Noosa in second.",wikinews,Sport
+79,eng,eng_Latn,The two sides would meet in the major semi final where Noosa ran out winners by 11 points.,wikinews,Sport
+80,eng,eng_Latn,Maroochydore then defeated Caboolture in the Preliminary Final.,wikinews,Sport
+81,eng,eng_Latn,Hesperonychus elizabethae is a species of the family Dromaeosauridae and is a cousin of Velociraptor .,wikinews,science
+82,eng,eng_Latn,"This fully feathered, warm blooded bird of prey was believed to have walked upright on two legs with claws like the Velociraptor.",wikinews,science
+83,eng,eng_Latn,"Its second claw was larger, giving rise to the name Hesperonychus which means ""western claw.""",wikinews,Science
+84,eng,eng_Latn,"In addition to the crushing ice, extreme weather conditions have been hampering rescue efforts.",wikinews,Weather
+85,eng,eng_Latn,Pittman suggested that conditions wouldn't improve until sometime next week.,wikinews,Weather
+86,eng,eng_Latn,"The amount and thickness of the pack ice, according to Pittman, is the worst it has been for sealers in the past 15 years.",wikinews,Weather
+87,eng,eng_Latn,News spread in the Red Lake community today as funerals for Jeff Weise and three of the nine victims were held that another student was arrested in connection with the school shootings of March 21.,wikinews,Crime and law
+88,eng,eng_Latn,Authorities said little officially beyond confirming today's arrest.,wikinews,Crime and law
+89,eng,eng_Latn,"However, a source with knowledge of the investigation told the Minneapolis Star-Tribune that it was Louis Jourdain, 16-year old son of Red Lake Tribal Chairman Floyd Jourdain.",wikinews,Crime and law
+90,eng,eng_Latn,It is not known at this time what charges will be laid or what led authorities to the boy but juvenile proceedings have begun in federal court.,wikinews,Crime and law
+91,eng,eng_Latn,Lodin also said officials decided to cancel the runoff in order to save Afghans the expense and security risk of another election.,wikinews,Politics
+92,eng,eng_Latn,Diplomats said that they had found enough ambiguity in the Afghan constitution to determine the runoff as unnecessary.,wikinews,Politics
+93,eng,eng_Latn,"This contradicts earlier reports, which said that cancelling the runoff would have been against the constitution.",wikinews,Politics
+94,eng,eng_Latn,The aircraft had been headed to Irkutsk and was being operated by interior troops.,wikinews,Tragety
+95,eng,eng_Latn,An inquiry was established to investigate.,wikinews,Tragety
+96,eng,eng_Latn,"The Il-76 has been a major component of both the Russian and Soviet military since the 1970s, and had already seen a serious accident in Russia last month.",wikinews,Tragety
+97,eng,eng_Latn,"On October 7 an engine separated on takeoff, without injuries. Russia briefly grounded Il-76s after that accident.",wikinews,Tragety
+98,eng,eng_Latn,"800 miles of the Trans-Alaska Pipeline System were closed down following a spill of thousands of barrels of crude oil south of Fairbanks, Alaska.",wikinews,Disaster
+99,eng,eng_Latn,A power failure following a routine fire-command system test caused relief valves to open and crude oil overflowed near the Fort Greely pump station 9.,wikinews,Disaster
+100,eng,eng_Latn,"The valves opening allowed a pressure release for the system and oil flowed on a pad to a tank that can hold 55,000 barrels (2.3 million gallons).",wikinews,Disaster
+101,eng,eng_Latn,"As of Wednesday afternoon, the tank vents were still leaking probably from thermal expansion inside the tank.",wikinews,Disaster
+102,eng,eng_Latn,"Another secondary containment area below the tanks capable of holding 104,500 barrels was not yet filled to capacity.",wikinews,Disaster
+103,eng,eng_Latn,"The comments, live on television, were the first time that senior Iranian sources have admitted that the sanctions are having any effect.",wikinews,Politics
+104,eng,eng_Latn,"They include financial restrictions and a ban by the European Union on the export of crude oil, from which the Iranian economy receives 80% of its foreign income.",wikinews,Politics
+105,eng,eng_Latn,"In its most recent monthly report, OPEC said exports of crude had fallen to their lowest level for two decades at 2.8 million barrels per day.",wikinews,Politics
+106,eng,eng_Latn,"The country's supreme leader, Ayatollah Ali Khamenei, has described the dependency on oil as ""a trap"" dating from before Iran's Islamic revolution in 1979 and from which the country should free itself.",wikinews,Politics
+107,eng,eng_Latn,"When the capsule gets to Earth and enters the atmosphere, at about 5am (eastern time), it is expected to put on quite a light show for folks in Northern California, Oregon, Nevada, and Utah.",wikinews,Science
+108,eng,eng_Latn,The capsule will look much like a shooting star going across the sky.,wikinews,Science
+109,eng,eng_Latn,"The capsule will be traveling at about 12.8 km or 8 miles per second, fast enough to go from San Francisco to Los Angeles in one minute.",wikinews,Science
+110,eng,eng_Latn,"Stardust will set a new all-time record for being the fastest spacecraft to return to Earth, breaking the previous record set in May of 1969 during the return of the Apollo X command module.",wikinews,Science
+111,eng,eng_Latn,"“It will move over the west coast of northern California and will light the sky from California through central Oregon and on through Nevada and Idaho and into Utah,” Tom Duxbury, Stardust's project manager said.",wikinews,Science
+112,eng,eng_Latn,"Mr. Rudd's decision to sign the Kyoto climate accord isolates the United States, which will now be the only developed nation not to ratify the agreement.",wikinews,climate
+113,eng,eng_Latn,"Australia's former conservative government refused to ratify Kyoto, saying it would damage the economy with its heavy reliance on coal exports, while countries like India and China were not bound by emissions targets.",wikinews,climate
+114,eng,eng_Latn,It is the biggest acquisition in eBay's history.,wikinews,Science and technology
+115,eng,eng_Latn,"The company hopes to diversify its profit sources and gain popularity in areas where Skype holds a strong position, such as China, Eastern Europe, and Brazil.",wikinews,Science and technology
+116,eng,eng_Latn,Scientists have suspected Enceladus as geologically active and a possible source of Saturn's icy E ring.,wikinews,Science and technology
+117,eng,eng_Latn,"Enceladus is the most reflective object in the solar system, reflecting about 90 percent of the sunlight that hits it.",wikinews,Science and technology
+118,eng,eng_Latn,The game publisher Konami stated today in a Japanese newspaper that they will not be releasing the game Six Days in Fallujah.,wikinews,Culture and entertainment
+119,eng,eng_Latn,"The game is based on the Second Battle of Fallujah, a vicious battle between American and Iraqi forces.",wikinews,Culture and entertainment
+120,eng,eng_Latn,"The ACMA also found that despite the video being streamed on the Internet, Big Brother had not breached online content censorship laws as the media had not been stored on Big Brother's website.",wikinews,Politics and conflicts
+121,eng,eng_Latn,"The Broadcasting Services Act provides for the regulation of Internet content, however to be considered Internet content, it must physically reside on a server.",wikinews,Politics and conflicts
+122,eng,eng_Latn,"The United States embassy located in Nairobi, Kenya has issued a warning that ""extremists from Somalia"" are planning to launch suicide bomb attacks in Kenya and Ethiopia.",wikinews,Politics and conflicts
+123,eng,eng_Latn,"The U.S. says it has received information from an undisclosed source that specifically mentions the use of suicide bombers to will blow up ""prominent landmarks"" in Ethiopia and Kenya.",wikinews,Politics and conflicts
+124,eng,eng_Latn,"Long before The Daily Show and The Colbert Report, Heck and Johnson envisioned a publication that would parody the news—and news reporting—when they were students at UW in 1988.",wikinews,entertainment
+125,eng,eng_Latn,"Since its inception, The Onion has become a veritable news parody empire, with a print edition, a website that drew 5,000,000 unique visitors in the month of October, personal ads, a 24 hour news network, podcasts, and a recently launched world atlas called Our Dumb World.",wikinews,entertainment
+126,eng,eng_Latn,Al Gore and General Tommy Franks casually rattle off their favorite headlines (Gore's was when The Onion reported he and Tipper were having the best sex of their lives after his 2000 Electoral College defeat).,wikinews,entertainment
+127,eng,eng_Latn,Many of their writers have gone on to wield great influence on Jon Stewart and Stephen Colbert's news parody shows.,wikinews,entertainment
+128,eng,eng_Latn,The artistic event is also part of a campaign by the Bucharest City Hall that seeks to relaunch the image of the Romanian capital as a creative and colourful metropolis.,wikinews,entertainment
+129,eng,eng_Latn,"The city will be the first in southeastern Europe to host CowParade, the world's largest public art event, between June and August this year.",wikinews,entertainment
+130,eng,eng_Latn,Today's announcement also extended the government's commitment made in March of this year to fund extra carriages.,wikinews,politics
+131,eng,eng_Latn,"An additional 300 brings the total to 1,300 carriages to be acquired to relieve overcrowding.",wikinews,politics
+132,eng,eng_Latn,"Christopher Garcia, a spokesperson of the Los Angeles Police Department, said the suspected male offender is being investigated for trespassing rather than vandalism.",wikinews,crime
+133,eng,eng_Latn,"The sign was not physically damaged; the modification was done using black tarpaulins decorated with signs of peace and heart to alter the ""O"" to read lowercase ""e"".",wikinews,crime
+134,eng,eng_Latn,"Red tide is caused by a higher than normal concentration of Karenia brevis, a naturally-occurring single-celled marine organism.",wikinews,environment
+135,eng,eng_Latn,"Natural factors can intersect to produce ideal conditions, allowing this algae to increase in number dramatically.",wikinews,environment
+136,eng,eng_Latn,The algae produces a neurotoxin that can disable nerves in both humans and fish.,wikinews,environment
+137,eng,eng_Latn,Fish often die because of the high concentrations of the toxin in the waters.,wikinews,environment
+138,eng,eng_Latn,Humans can be affected by breathing affected water taken into the air by wind and waves.,wikinews,environment
+139,eng,eng_Latn,"At its peak, Tropical Cyclone Gonu, named for a bag of palm leaves in the language of the Maldives, reached sustained winds of 240 kilometers an hour (149 miles per hour) .",wikinews,environment
+140,eng,eng_Latn,"By early today, winds were around 83 km/h, and it was expect to keep weakening.",wikinews,environment
+141,eng,eng_Latn,"On Wednesday, the United States' National Basketball Association (NBA) suspended its professional basketball season due to concerns regarding COVID-19.",wikinews,sport
+142,eng,eng_Latn,The NBA's decision followed a Utah Jazz player testing positive for the COVID-19 virus.,wikinews,sport
+143,eng,eng_Latn,"""Based on this fossil, that means the split is much earlier than has been anticipated by the molecular evidence.",wikinews,science
+144,eng,eng_Latn,"That means everything has to be put back,"" said researcher at the Rift Valley Research Service in Ethiopia and a co-author of the study, Berhane Asfaw.",wikinews,science
+145,eng,eng_Latn,"Until now, AOL has been able to move and develop the IM market at its own pace, due to its widespread use within the United States.",wikinews,business
+146,eng,eng_Latn,"With this arrangement in place, this freedom might end.",wikinews,business
+147,eng,eng_Latn,The number of users of the Yahoo! and Microsoft services combined will rival the number of AOL's customers.,wikinews,business
+148,eng,eng_Latn,The Northern Rock bank had been nationalised in 2008 following the revelation that the company had received emergency support from the UK Government.,wikinews,business
+149,eng,eng_Latn,Northern Rock had required support due to its exposure during the subprime mortgage crisis in 2007.,wikinews,business
+150,eng,eng_Latn,Sir Richard Branson's Virgin Group had a bid for the bank rejected prior to the bank’s nationalisation.,wikinews,business
+151,eng,eng_Latn,"In 2010, while nationalised, the current high street bank Northern Rock plc was split from the ‘bad bank’, Northern Rock (Asset Management).",wikinews,business
+152,eng,eng_Latn,"Virgin have only purchased the ‘good bank’ of Northern Rock, not the asset management company.",wikinews,business
+153,eng,eng_Latn,This is believed to be the fifth time in history that people have observed what turned out to be chemically confirmed martian material falling to Earth.,wikinews,Science
+154,eng,eng_Latn,"Out of the approximately 24,000 known meteorites to have fallen to Earth, only about 34 have been verified to be martian in origin.",wikinews,Science
+155,eng,eng_Latn,Fifteen of these rocks are attributed to the meteorite shower last July.,wikinews,Science
+156,eng,eng_Latn,"Some of the rocks, which are very rare on Earth, are being sold from US$11,000 to $22,500 per ounce, which is about ten times more than the cost of gold.",wikinews,Science
+157,eng,eng_Latn,"Following the race, Keselowski remains the Drivers' Championship leader with 2,250 points.",wikinews,Sport
+158,eng,eng_Latn,"Seven points behind, Johnson is second with 2,243.",wikinews,Sport
+159,eng,eng_Latn,"In third, Hamlin is twenty points behind, but five ahead of Bowyer. Kahne and Truex, Jr. are fifth and sixth respectively with 2,220 and 2,207 points.",wikinews,Sport
+160,eng,eng_Latn,"Stewart, Gordon, Kenseth, and Harvick round out the top-ten positions for the Drivers' Championship with four races remaining in the season.",wikinews,Sport
+161,eng,eng_Latn,The US Navy also said they were investigating the incident.,wikinews,Accident
+162,eng,eng_Latn,"They also said in a statement, ""The crew is currently working to determine the best method of safely extracting the ship"".",wikinews,Accident
+163,eng,eng_Latn,"An Avenger class mine countermeasures ship, the ship was on its way to Puerto Princesa in Palawan.",wikinews,Accident
+164,eng,eng_Latn,"It is assigned to the U.S. Navy’s Seventh Fleet and based in Sasebo, Nagasaki in Japan.",wikinews,Accident
+165,eng,eng_Latn,"The Mumbai attackers arrived via boat on Novemeber 26, 2008, bringing with them grenades, automatic weapons and hit multiple targets including the crowded Chhatrapati Shivaji Terminus railway station and the famous Taj Mahal Hotel.",wikinews,Law and crime
+166,eng,eng_Latn,David Headley's scouting and information gathering had helped to enable the operation by the 10 gunmen from the Pakistani militant group Laskhar-e-Taiba.,wikinews,Law and crime
+167,eng,eng_Latn,The attack put a huge strain on relations between India and Pakistan.,wikinews,Law and crime
+168,eng,eng_Latn,"Accompanied by those officials, he assured Texas citizens that steps were being taken to protect the public's safety.",wikinews,Politics
+169,eng,eng_Latn,"Perry specifically said, ""There are few places in the world better equipped to meet the challenge that is posed in this case.""",wikinews,Politics
+170,eng,eng_Latn,"The governor also stated, ""Today, we learned that some school aged children have been identified as having had contact with the patient.""",wikinews,Politics
+171,eng,eng_Latn,"He went on to say, ""This case is serious. Rest assured that our system is working as well as it should.""",wikinews,Politics
+172,eng,eng_Latn,"If confirmed, the find completes Allen's eight-year search for the Musashi.",wikinews,Discovery
+173,eng,eng_Latn,Following seabed mapping the wreck was found using an ROV.,wikinews,Discovery
+174,eng,eng_Latn,"One of the world's richest people, Allen has reportedly invested much of his wealth in marine exploration and began his quest to find the Musashi out of a lifelong interest in the war.",wikinews,Discovery
+175,eng,eng_Latn,She gained critical acclaim during her time in Atlanta and was recognized for innovative urban education.,wikinews,
+176,eng,eng_Latn,In 2009 she was awarded the title of National Superintendent of the Year.,wikinews,Law and crime
+177,eng,eng_Latn,"At the time of the award, Atlanta schools had seen a large improvement on test scores.",wikinews,Law and crime
+178,eng,eng_Latn,"Shortly after, The Atlanta Journal-Constitution published a report showing problems with test results.",wikinews,Law and crime
+179,eng,eng_Latn,"The report showed test scores had increased implausibly fast, and alleged the school internally detected problems but didn't act on the findings.",wikinews,Law and crime
+180,eng,eng_Latn,"Evidence thereafter indicated test papers were tampered with Hall, along with 34 other education officials, was indicted in 2013.",wikinews,Law and crime
+181,eng,eng_Latn,The Irish government is stressing the urgency of parliamentary legislation to rectify the situation.,wikinews,Health
+182,eng,eng_Latn,"""It is now important from both a public health and criminal justice perspective that the legislation be enacted as soon as possible"", said a government spokesperson.",wikinews,Health
+183,eng,eng_Latn,"The Health Minister expressed concern both for the welfare of individuals taking advantage of the temporary legality of the substances involved, and for drug-related convictions handed down since the now-unconstitutional changes came into effect.",wikinews,Health
+184,eng,eng_Latn,Jarque was practicing during pre-season training at Coverciano in Italy earlier in the day. He was staying in the team hotel ahead of a match planned for Sunday against Bolonia.,wikinews,Sports
+185,eng,eng_Latn,He was staying in the team hotel ahead of a match planned for Sunday against Bolonia.,wikinews,Sports
+186,eng,eng_Latn,The bus was headed to Six Flags St. Louis in Missouri for the band to play to a sold-out crowd.,wikinews,Disasters and accidents
+187,eng,eng_Latn,"At 1:15 a.m. Saturday, according to witnesses, the bus was going through a green light when the car made a turn in front of it.",wikinews,Disasters and accidents
+188,eng,eng_Latn,"As of the night of August 9, the eye of Morakot was about seventy kilometres away from the Chinese province of Fujian.",wikinews,Disasters and accidents
+189,eng,eng_Latn,The typhoon is estimated to be moving toward China at eleven kph.,wikinews,Disasters and accidents
+190,eng,eng_Latn,Passengers were given water as they waited in 90(F)-degree heat.,wikinews,Culture and entertainment
+191,eng,eng_Latn,"Fire captain Scott Kouns said, ""It was a hot day in the Santa Clara with temperatures in the 90s.",wikinews,Culture and entertainment
+192,eng,eng_Latn,"Any length of time trapped on a roller coaster would be uncomfortable, to say the least, and it took at least an hour to get the first person off the ride.""",wikinews,Culture and entertainment
+193,eng,eng_Latn,"Schumacher who retired in 2006 after winning the Formula 1 championship seven times, was due to replace the injured Felipe Massa.",wikinews,Sports
+194,eng,eng_Latn,The Brazilian suffered a serious head injury after a crash during the 2009 Hungarian Grand Prix.,wikinews,Sports
+195,eng,eng_Latn,Massa is due to be out for at least the rest of the 2009 season.,wikinews,Sports
+196,eng,eng_Latn,"Arias tested positive for a mild case of the virus, Presidential Minister Rodrigo Arias said.",wikinews,Disease
+197,eng,eng_Latn,"The president's condition is stable, though he will be isolated at home for several days.",wikinews,Disease
+198,eng,eng_Latn,"""Apart from the fever and a sore throat, I feel well and in good shape to carry out my work by telecommuting.",wikinews,Disease
+199,eng,eng_Latn,"I expect to return to all my duties on Monday,"" Arias said in a statement.",wikinews,Disease
+0,hin,hin_Deva,"सोमवार को, स्टैनफ़ोर्ड यूनिवर्सिटी स्कूल ऑफ़ मेडिसिन के वैज्ञानिकों ने एक नए डायग्नोस्टिक उपकरण के आविष्कार की घोषणा की जो कोशिकाओं को उनके प्रकार के आधार पर छाँट सकता है: एक छोटी प्रिंट करने योग्य चिप जिसे स्टैण्डर्ड इंकजेट प्रिंटर का उपयोग करके लगभग एक अमेरिकी सेंट के लिए निर्मित किया जा सकता है.",wikinews,health
+1,hin,hin_Deva,"शोधकर्ताओं ने कहा है कि यह अल्प आय वाले देशों में कैंसर, टीवी, एचआईवी और मलेरिया के रोगियों की आसानी से पहचान करेगा, जहाँ अमीर देशों की तुलना में स्तन कैंसर जैसी बीमारी में जीवित रहने की दर आधी हो सकती है.",wikinews,health
+2,hin,hin_Deva,"स्थानीय समय (0230 UTC) के मुताबिक करीब 9:30 बजे JAS 39C Gripen रनवे पर धमाके के साथ दुर्घटनाग्रस्त हो गया, जिसकी वजह से वाणिज्यिक उड़ानों के लिए हवाई अड्डे को बंद कर दिया गया.",wikinews,accident
+3,hin,hin_Deva,पायलट की पहचान स्क्वाड्रन लीडर दिलोकृत पटावी के रूप में की गई.,wikinews,accident
+4,hin,hin_Deva,स्थानीय मीडिया ने बताया है कि कार्रवाई करने के दौरान एयरपोर्ट का अग्निशामक वाहन लुढ़क गया था.,wikinews,accident
+5,hin,hin_Deva,28 वर्षीय विडाल तीन सीजन पहले सेविला से बारका में शामिल हुए थे।,wikinews,sports
+6,hin,hin_Deva,"कातलान की राजधानी (बार्सिलोना) में जाने के बाद से, विडाल ने क्लब के लिए 49 गेम खेले थे.",wikinews,sports
+7,hin,hin_Deva,"व्हाइटहॉल पर लगभग 11:00 बजे स्थानीय समय (यूटीसी + 1) पर विरोध शुरू हुआ, जो प्रधानमंत्री के आधिकारिक आवास डाउनिंग स्ट्रीट के पुलिस-पहरेदार के दरवाजे के सामने था।",wikinews,politics
+8,hin,hin_Deva,"ठीक 11:00 बजे के बाद, व्हाइटहॉल में उत्तर की ओर जाने वाले ट्रैफ़िक को प्रदर्शनकारियों ने रोक दिया.",wikinews,politics
+9,hin,hin_Deva,"11:20 पर, पुलिस ने प्रदर्शनकारियों को यह कहते हुए फ़ुटपाथ पर वापस जाने के लिए कहा कि उन्हें भीड़ इकट्ठा करने के साथ विरोध करने के अधिकार को संतुलित करने की ज़रूरत है.",wikinews,politics
+10,hin,hin_Deva,"11:29 बजे के आस-पास, विरोध करने वाले लोग व्हाइटहॉल की ओर बढ़ गए. इसके बाद, वे किनारे-किनारे चलते हुए ट्राफ़ल्गर स्क्वायर, एल्डविच, किंग्सवे से गुजरते हुए होलबर्न की ओर बढ़ गए, जहाँ कंजरवेटिव पार्टी, ग्रैंड कनॉट रूम होटल में अपने स्प्रिंग फ़ोरम का आयोजन कर रही थी.",wikinews,politics
+11,hin,hin_Deva,कनाडियन के खिलाफ नडाल का सीधा रिकॉर्ड 7-2 है।,wikinews,sports
+12,hin,hin_Deva,वे हाल ही में ब्रिस्बेन ओपन में रोनिक के खिलाफ हार गए थे.,wikinews,sports
+13,hin,hin_Deva,फ़र्स्ट सर्व में नडाल को 76 मैच विनिंग पॉइंट्स में 88% नेट पॉइंट्स मिले.,wikinews,sports
+14,hin,hin_Deva,"मैच के बाद, क्ले के राजा ने कहा, “मैं सबसे महत्वपूर्ण इवेंट के अंतिम दौर में वापस आने को लेकर उत्साहित हूँं। मैं यहाँ इसे जीतने का प्रयास कर रहा हूँं।”",wikinews,sports
+15,hin,hin_Deva,“पनामा पेपर्स” पनामा की कानूनी फर्म मोसाक फोंसेका से लगभग दस मिलियन दस्तावेजों के लिए एक शब्द युग्म है जिसे सन 2016 के वसंत में प्रेस को लीक कर दिया गया था।,wikinews,crime
+16,hin,hin_Deva,दस्तावेजों से पता चलता है कि चौदह बैंकों ने अमीर ग्राहकों को कर और अन्य नियमों से बचने के लिए अरबों अमेरिकी डॉलर की संपत्ति छिपाने में मदद की।,wikinews,crime
+17,hin,hin_Deva,ब्रिटिश अख़बार द गार्जियन के अनुसार ड्यूश बैंक ने इसे पूरा करने के लिए इस्तेमाल की जाने वाली 1200 शेल कंपनियों में से एक तिहाई को मोटे तौर पर नियंत्रित किया.,wikinews,crime
+18,hin,hin_Deva,"दुनिया भर में विरोध प्रदर्शन हुए, कई आपराधिक मुकदमे दर्ज हुए और आइसलैंड और पाकिस्तान की सरकारों के कई नेताओं ने इस्तीफा दे दिया।",wikinews,crime
+19,hin,hin_Deva,"मा का जन्म हांगकांग में हुआ था, उन्होंने न्यूयॉर्क विश्वविद्यालय और हार्वर्ड लॉ स्कूल में अध्ययन किया और उनके पास अमेरिका की स्थाई नागरिकता वाला “ग्रीन कार्ड” भी था.",wikinews,Politics and conflicts
+20,hin,hin_Deva,चुनाव के दौरान साइह ने जताया कि संकट के दौर में मा देश छोड़कर भाग सकते हैं.,wikinews,Politics and conflicts
+21,hin,hin_Deva,शय ने यह भी तर्क दिया कि फ़ोटोजेनिक मा हक़ीक़त की तुलना में ज़्यादा बनावटी थे.,wikinews,Politics and conflicts
+22,hin,hin_Deva,"इन आरोपों के बावजूद, मा ने चीनी महाद्वीप के साथ घनिष्ठ संबंधों की वकालत करते हुए एक मंच पर जीत हासिल की.",wikinews,
+23,hin,hin_Deva,आज के खिलाड़ी वॉशिगंटन कैपिटल्स के एलेक्स ओवेचकिन हैं.,wikinews,sports
+24,hin,hin_Deva,अटलांटा थ्रैशर्स पर वाशिंगटन की 5-3 की जीत में उन्होंने 2 गोल और 2 असिस्ट किए थे.,wikinews,sports
+25,hin,hin_Deva,उस रात रूकी निकल्स बैकस्ट्रॉम के खेल जिताने वाले गोल से ओवेचकिन को सबसे पहली मदद मिली.,wikinews,sports
+26,hin,hin_Deva,"रात का उनका दूसरा गोल सीज़न का उनका 60वाँ गोल था, जिससे 1995-96 से लेकरजब जोरोमिर जागर और मारियो लेमिएक्स ने इतने गोल किए थे उसके बाद वह एक सीज़न में 60 या इससे अधिक गोल करने वाले पहले खिलाड़ी बन गए हैं.",wikinews,sports
+27,hin,hin_Deva,2008 के 400 सबसे अमीर अमेरिकियों की सूची में बैटन को $ 2.3 billion की अनुमानित संपत्ति के साथ 190 वें स्थान पर रखा गया था।,wikinews,Television
+28,hin,hin_Deva,उन्होंने 1950 में वर्जीनिया यूनिवर्सिटी के कला और विज्ञान महाविद्यालय से स्नातक की उपाधि हासिल की थी और वे उस संस्था के अहम दानदाता थे.,wikinews,Television
+29,hin,hin_Deva,इराक की अबू ग़रीब जेल को दंगे के दौरान आग के हवाले कर दिया गया।,wikinews,crime
+30,hin,hin_Deva,"कैदी दुर्व्यवहार के पता चलने का बाद जेल कुख्यात हो गयी, उसके बाद यू एस सैन्य दलों ने पद भर संभल लिया |",wikinews,crime
+31,hin,hin_Deva,फ़र्नांडो अलोंसो के लिए एक शुरुआती पिट स्टॉप के बाद पिकेट जूनियर 2008 के सिंगापुर ग्रां प्री में दुर्घटनाग्रस्त हो गया।,wikinews,crime
+32,hin,hin_Deva,"जैसे ही अलोंसो के आगे की कारें सेफ्टी कार के नीचे ईंधन लेने के लिए चली गईं, वह जीत दर्ज करने के लिए आगे बढ़ गया।",wikinews,crime
+33,hin,hin_Deva,पिकेट जूनियर को 2009 हंगरी ग्रैंड प्री के बाद निकाल दिया गया था.,wikinews,crime
+34,hin,hin_Deva,"ठीक 8:46 बजे, सुबह पूरे शहर मे चुप्पी फैल गई, ठीक उसी पल पहले जेट ने अपना निशाना बनाया।",wikinews,accident
+35,hin,hin_Deva,रातभर आसमान की ओर देखने के लिए प्रकाश की दो किरणों को तैयार किया गया है.,wikinews,accident
+36,hin,hin_Deva,"साईट पर पांच नई गगनचुम्बी इमारतों पर काम चल रहा है, इन इमारतों के बीच में एक परिवहन केंद्र और स्मारक पार्क होगा।",wikinews,accident
+37,hin,hin_Deva,इस PBS शो को दो दर्जन से ज़्यादा एमी पुरस्कार मिल चुके हैं. नियमित प्रसारण के मामले में यह सिर्फ़ सीसेम स्ट्रीट और मिस्टर रॉजर नेबरहुड से पीछे है.,wikinews,television
+38,hin,hin_Deva,शो का हर एक एपिसोड एक ख़ास पुस्तक की थीम पर केंद्रित होगा और फिर कई कहानियों के माध्यम से उस थीम को खोजेगा.,wikinews,television
+39,hin,hin_Deva,हर शो में कुछ किताबों के बारे में सलाह भी दी जाएगी. बच्चों को अपनी लाइब्रेरी में जाकर ये किताबें पढ़नी चाहिए.,wikinews,television
+40,hin,hin_Deva,"डब्ल्यूएनईडी बफेलो से (Rainbow's home station पढ़ते हुए) जॉन ग्रांट ने कहा “रेनबो ने बच्चों को सिखाया कि पढ़ना क्यों चाहिए,.... पढने के प्रति लगाव --- (द शो) ने बच्चों को किताब उठा के पढने के लिए प्रेरित किया.",wikinews,television
+41,hin,hin_Deva,जॉन ग्रांट सहित कुछ लोगों का मानना है कि फंडिंग की कमी और शैक्षिक टेलीविज़न प्रोग्रामिंग के दर्शन में बदलाव दोनों ने इस श्रृंखला को समाप्त करने में योगदान दिया है.,wikinews,television
+42,hin,hin_Deva,"पूर्वानुमान कहते हैं कि यह तूफ़ान केप वर्डे द्वीपों के पश्चिम में लगभग 645 मील (1040 किमी) की दूरी पर स्थित है, जिसके किसी भी भूमि क्षेत्रों में नुकसान करने से पहले समाप्त होने की संभावना है.",wikinews,disaster
+43,hin,hin_Deva,इस समय फ़्रेड 105 मील प्रति घंटे (165 किमी प्रति घंटा) की हवा की गति से उत्तर-पश्चिम की ओर बढ़ रहा है.,wikinews,disaster
+44,hin,hin_Deva,सैटेलाइट इमेजरी के आगमन के बाद से फ़्रेड अटलांटिक में अब तक दक्षिण और पूर्व में दर्ज सबसे शक्तिशाली उष्णकटिबंधीय चक्रवात है और 35°W के पूर्व में केवल तीसरा प्रमुख तूफ़ान रिकॉर्ड है.,wikinews,disaster
+45,hin,hin_Deva,"24 सितंबर, 1759 को, आर्थर गिनीज़ ने डबलिन, आयरलैंड में सेंट जेम्स गेट ब्रूअरी के लिए 9,000 साल की लीज़ पर हस्ताक्षर किए.",wikinews,culture
+46,hin,hin_Deva,"250 साल बाद, गिनीज़ एक वैश्विक व्यवसाय बन चुका है जो हर साल 10 बिलियन यूरो (14.7 बिलियन अमेरिकी डॉलर) से ज़्यादा की कमाई करता है.",wikinews,culture
+47,hin,hin_Deva,आज A1GP न्यूज़ीलैंड टीम के को-ड्राइवर जॉनी रेड ने न्यूज़ीलैंड के 48 साल से अधिक पुराने ऑकलैंड हार्बर ब्रिज पर वैधानिक रूप से सबसे तेज़ गाड़ी चलाकर इतिहास बनाया.,wikinews,Sports
+48,hin,hin_Deva,"श्री रीड न्यूज़ीलैंड की A1GP कार, ब्लैक ब्यूटी को एक पुल से 160 किलोमीटर/घंटा से तेज़ रफ़्तार से सात बार ले जाने में सफल रहे.",wikinews,Sports
+49,hin,hin_Deva,"ब्लैक ब्यूटी के छोटे आकार की वजह से न्यूज़ीलैंड की पुलिस को स्पीड रडार गन का इस्तेमाल करके श्री रीड की रफ़्तार पता लगाने में कठिनाई हो रही थी. पुलिस उनकी रफ़्तार सिर्फ़ तभी माप सकी, जब वे रफ़्तार कम करके 160 किलोमीटर/घंटा पर आ गए थे.",wikinews,Sports
+50,hin,hin_Deva,"पिछले 3 महीनों में, सेंट्रल बुकिंग फ़ेसिलिटी ने 80 से ज़्यादा लोगों को बिना कोई आधिकारिक आरोप लगाए रिहा कर दिया.",wikinews,Crime and Law
+51,hin,hin_Deva,"इस साल अप्रैल में, जज ग्लिन ने जेल प्रशासन के खिलाफ अस्थाई बचाव आदेश दिया था. इसमें ऐसे लोगों को ज़बरदस्ती 24 घंटों से ज़्यादा रखने पर पाबंदी है जो जेल में आने के बाद न्यायलय कमिश्नर के सामने पेश नहीं किए गए.",wikinews,Crime and Law
+52,hin,hin_Deva,"अगर गिरफ़्‍तार करने वाले अधिकारी द्वारा दर्ज किए गए आरोपों को औपचारिक रूप और अनुमति दी जाती है, तब आयुक्त जमानत प्रदान करता है. फिर आरोपों को राज्य की कंप्यूटर प्रणाली में दर्ज किया जाता है जहाँ मामले को ट्रैक किया जाता है.",wikinews,Crime and Law
+53,hin,hin_Deva,सुनवाई में एक त्वरित परीक्षण के लिए संदिग्ध के अधिकार की तारीख भी अंकित है।,wikinews,Crime and Law
+54,hin,hin_Deva,ऑस्ट्रेलिया के ट्रेज़रार और लिबरल पार्टी के नेता के रूप में प्रधानमंत्री जॉन हॉवर्ड की जगह लेने वाले पीटर कास्टेलो ने ऑस्ट्रेलिया में न्यूक़्लियर पॉवर इंडस्ट्री को अपना समर्थन दे दिया है.,wikinews,Politics
+55,hin,hin_Deva,"मिस्टर कॉस्टेलो ने कहा कि जब परमाणु ऊर्जा उत्पादन आर्थिक रूप से व्यावहारिक हो जाता है, तो ऑस्ट्रेलिया को इसका इस्तेमाल करना चाहिए.",wikinews,Politics
+56,hin,hin_Deva,"“यदि यह वाणिज्यिक हो जाता है, तो इसे हमारे पास होना चाहिए। श्री कोस्टेलो ने कहा कि परमाणु ऊर्जा पर कोई सैद्धांतिक आपत्ति नहीं है।”",wikinews,Politics
+57,hin,hin_Deva,"अन्सा के अनुसार, “पुलिस शीर्ष स्तर के कुछ हिट्स से चिंतित थी उन्हें डर था कि वे उत्तराधिकार के लिए एक जंग छेड़ सकते हैं.",wikinews,Crime and Law
+58,hin,hin_Deva,पुलिस ने कहा कि लो पिकालो की स्थिति मज़बूत थी क्योंकि वह पलेर्मो में प्रोवेनज़ानो का दाहिना हाथ था और उसके अनुभव ने उसे पुरानी पीढ़ी के मालिकों का सम्मान दिलवाया था क्योंकि वे अपने शक्ति तंत्र को मजबूत करते हुए अपनी छवि को न्यून बनाए रखने के प्रोवेनज़ानो की नीति का अनुसरण करते थे।,wikinews,Crime and Law
+59,hin,hin_Deva,इन मालिकों को प्रोवेनज़ानो ने अपने वश में कर रखा था जब उन्होंने 1992 में राज्य के विरुद्ध रीना-द्वारा संचालित युद्ध को समाप्त किया जिसमें माफिया योद्धा जियोवानी फैल्कोन और पाओलो बोरसेलिनो की जान चली गई थी।”,wikinews,Crime and Law
+60,hin,hin_Deva,Apple के सीईओ स्टीव जॉब्स ने मंच पर चढ़ कर और अपनी जींस की जेब से आईफ़ोन निकालकर डिवाइस का अनावरण किया.,wikinews,Economy and business
+61,hin,hin_Deva,"अपने 2 घंटे के भाषण के दौरान, उन्होंने कहा कि “आज ऐपल अपने फ़ोन का फिर आविष्कार करने जा रहा है, आज हम इतिहास बनाने जा रहे हैं.",wikinews,Economy and business
+62,hin,hin_Deva,"ब्राजील, धरती पर सबसे बड़ा रोमन कैथोलिक देश है और रोमन कैथोलिक चर्च ने देश में समलैंगिक विवाह को वैध बनाने के खिलाफ हमेशा विरोध किया है.",wikinews,Crime and Law
+63,hin,hin_Deva,ब्राज़ील की नेशनल कांग्रेस इस तरह के नागरिक विवाह को कानूनी मान्यता देने के लिए 10 सालों से चर्चा कर रही है जिसे फ़िलहाल सिर्फ़ रियो ग्रांडे डो सुल मान्यता प्राप्त है.,wikinews,Crime and Law
+64,hin,hin_Deva,मूल बिल को साओ पाउलो के पूर्व मेयर मार्ता सुपीली द्वारा तैयार किया गया था। संशोधित होने के बाद प्रस्तावित कानून बन गया और अब यह रॉबर्टो जेफरसन के हाथों में है।,wikinews,Crime and Law
+65,hin,hin_Deva,प्रदर्शनकारियों को आशा है कि वो नवंबर में राष्ट्रीय कांग्रेस के सामने प्रस्तुत करने के लिए 12 लाख हस्ताक्षर एकत्र करके एक याचिका बना लेंगे।,wikinews,Crime and Law
+66,hin,hin_Deva,"ये साफ हो जाने के बाद कि कई परिवार निष्कासन से लड़ने के लिए कानूनी मदद ले रहे थे, 20 मार्च को हाउसिंग घोटले के पीड़ितों के लिए ईस्ट बे कम्युनिटी लॉ सेंटर में मीटिंग रखी गई थी.",wikinews,Crime and Law
+67,hin,hin_Deva,"जब किरायेदारों ने साझा करना शुरू किया कि उनके साथ क्या हुआ था, तो इसमें शामिल ज़्यादातर परिवारों को अचानक पता चला कि ओएचए के कैरोलिन विल्सन ने उनकी सुरक्षा जमा राशि चुरा ली थी और शहर से भाग गया था.",wikinews,Crime and Law
+68,hin,hin_Deva,"लॉकवुड गार्डन के किरायेदारों का मानना ​​है कि अन्य 40 परिवार या उससे ज़्यादा बेदखली का सामना कर सकते हैं, चूँकि उन्हें पता चला है कि ओएचए पुलिस ऑकलैंड में अन्य सार्वजनिक आवास संपत्तियों की जाँच कर रही है जो आवास घोटाले में पकड़े जा सकते हैं.",wikinews,Crime and Law
+69,hin,hin_Deva,"बैंड ने माउ के वॉर मेमोरियल स्टेडियम में होने वाले शो को रद्द कर दिया, जिसको कि 9,000 लोग देखने के लिए आने वाले थे और प्रशंसको से माफ़ी मांगी। ।",wikinews,Crime and Law
+70,hin,hin_Deva,"बैंड की प्रबंधन कंपनी, एचके मैनेजमेंट इनकॉरपोरेशन, ने 20 सितंबर को अपने कार्यक्र्म को रद्द करने का कोई प्रारंभिक कारण नहीं बताया, लेकिन अगले दिन तैयारी के कारणों को दोषी ठहराया।",wikinews,Crime and Law
+71,hin,hin_Deva,"प्रसिद्ध ग्रीक वकील साकिस केचाग्येग्लो और जॉर्ज निकोलाकोपौलोस को कोरीडल्लोस के एथेंस जेल में बंद किया गया है, क्योंकि वे रिश्वत और भ्रष्टाचार के दोषी पाए गए थे.",wikinews,Crime and Law
+72,hin,hin_Deva,"इसके परिणामस्वरूप, ग्रीक कानूनी समुदाय के भीतर एक बड़े घोटाले को अवैध कार्यों के उजागर होने के माध्यम से उठाया गया है जो न्यायाधीशों, वकीलों, सॉलिसिटर और अधिवक्ताओं ने पिछले सालों के दौरान किए हैं.",wikinews,Crime and Law
+73,hin,hin_Deva,"कुछ सप्ताह पहले, पत्रकार माकीस त्रिनताफेलोपोस द्वारा अपने लोकप्रिय टेलीविजन शो ज़ूंगला में अल्फा टीवी में प्रकाशित जानकारी के बाद, संसद के सदस्य और वकील, पेट्रोस मंतौवलोस को पदमुक्त कर दिया गया था क्योंकि उनके कार्यालय के सदस्य अवैध भ्रष्टाचार और भ्रष्टाचार में लिप्त थे। । तबाही के प्रभाव, अवसाद और भय नियमित साप्ताहिक संरचित पीए सत्रों के सशर्त नहीं थे।",wikinews,Crime and Law
+74,hin,hin_Deva,"इतना ही नहीं, टॉप जज एवेंजेलोस कालूसिस को गिरफ़्तार कर लिया गया क्योंकि उन्हें भ्रष्टाचार और दुर्व्यहार के लिए दोषी पाया गया था.",wikinews,Crime and Law
+75,hin,hin_Deva,"गर्भपात की नैतिकता पर विचार करते समय एक महत्वपूर्ण सवाल, जीवन कब शुरू होता है पर संभावित मामलों की बारीकियों पर टिप्पणी करने को अनैतिक बताते हुए रॉबर्ट्स ने इस पर अपने विचार प्रकट करने से साफ़-साफ़ मना कर दिया.",wikinews,Politics
+76,hin,hin_Deva,"हालांकि, उन्होंने अपने पहले के बयान को दोहराया कि रो वर्सस वेड “भूमि का व्यवस्थित कानून” था, जिस में उच्चतम न्यायालय के सुसंगत निर्णयों के महत्व पर जोर दिया गया था।",wikinews,Politics
+77,hin,hin_Deva,"उसने यह पुष्टि भी की है कि उसे गोपनीयता के निहित अधिकारों पर यकीन है, जिस पर कि रो निर्णय आधारित है.",wikinews,Politics
+78,hin,hin_Deva,मारूसाइडोर पहले पायदान पर आया जबकि उससे छह नंबर पीछे रहकर नूसा दूसरे पायदान पर आया।,wikinews,Sport
+79,hin,hin_Deva,दोनों पक्ष मुख्य सेमीफ़ाइनल में भिड़े जहाँ नूसा 11 अंकों से विजेता बने.,wikinews,Sport
+80,hin,hin_Deva,मारूचिडोर ने इसके बाद प्रारंभिक फाइनल में कैबुलचर को हराया।,wikinews,Sport
+81,hin,hin_Deva,"हेस्पेरोनिकस एलिजाबेथ, ड्रोमाओसौरिडी परिवार की एक प्रजाति है और वेलोसिरैप्टर का चचेरा भाई है।",wikinews,science
+82,hin,hin_Deva,"माना जाता है कि यह पूरी तरह पंख से लदे गरम खून वाले शिकारी पक्षी, वेलोसाइराप्टर जैसे पंजे के साथ दो पैरों पर सीधा चलते थे।",wikinews,science
+83,hin,hin_Deva,"इसका दूसरा पंजा बड़ा था, जिससे इसका नाम हेस्पेरोनीकस पड़ा, जिसका अर्थ है “पश्चिमी पंजा”।",wikinews,Science
+84,hin,hin_Deva,"तेज़ बर्फबारी के अलावा, मौसम की ख़राब स्थिति बचाव के प्रयासों में बाधा बन रही है।",wikinews,Weather
+85,hin,hin_Deva,पिटमैन ने सुझाव दिया कि अगले सप्ताह कुछ समय तक स्थिति में सुधार नहीं होगा.,wikinews,Weather
+86,hin,hin_Deva,"पिटमैन के अनुसार, पैक बर्फ की मात्रा और मोटाई पिछले 15 वर्षों में सीलर्स के लिए सबसे ख़राब है.",wikinews,Weather
+87,hin,hin_Deva,"जेफ वीस और नौ पीड़ितों में से तीन का अंतिम संस्कार करते समय, आज रेड लेक समुदाय में ये खबर फैल गई कि एक अन्य छात्र को 21 मार्च की स्कूल में गोलीबारी के सिलसिले में गिरफ्तार किया गया है।",wikinews,Crime and law
+88,hin,hin_Deva,अधिकारियों ने आज की गिरफ्तारी की पुष्टि करने से परे थोडा आधिकारिक तौर पर कहा.,wikinews,Crime and law
+89,hin,hin_Deva,"हालाँकि, जाँच के बारे में जानकारी रखने वाले एक सूत्र ने मिनियापोलिस स्टार-ट्रिब्यून को बताया कि ये रेड लेक ट्राइबल के अध्यक्ष फ़्लॉयड जर्सडैन के 16 वर्षीय बेटे लुई जर्सडैन थे.",wikinews,Crime and law
+90,hin,hin_Deva,"इस समय यह ज्ञात नहीं है कि क्या आरोप लगाया जाएगा या अधिकारियों ने उस बच्चे को क्यों पकड़ा, लेकिन संघीय अदालत में किशोर कार्यवाही शुरू हो गई है।",wikinews,Crime and law
+91,hin,hin_Deva,लॉडिन ने यह भी कहा कि अधिकारियों ने दूसरे चुनाव के खर्च और सुरक्षा जोखिम को बचाने के लिए न भागने का फैसला लिया है.,wikinews,Politics
+92,hin,hin_Deva,राजनीतिज्ञों ने कहा कि उन्होंने निर्णायक मत को अनावश्यक रूप से निर्धारित करने के लिए अफ़गान संविधान में काफी अस्पष्टता पाई थी.,wikinews,Politics
+93,hin,hin_Deva,"यह पहले की रिपोर्टों का खंडन करता है, जिसमें कहा गया था कि निर्णायक मत को रद्द करना संविधान के ख़िलाफ़ होगा.",wikinews,Politics
+94,hin,hin_Deva,विमान इरकुत्स्क की ओर जा रहा था और आंतरिक सैनिकों द्वारा संचालित किया जा रहा था।,wikinews,Tragety
+95,hin,hin_Deva,छानबीन के लिए एक जाँच गठित की गई थी।,wikinews,Tragety
+96,hin,hin_Deva,Il-76. 1970 के दशक से ही रूसी और सोवियत सेनाओं का मुख्य घटक रहा है. पिछले ही महीने रूस में इसकी एक गंभीर दुर्घटना देखी गई थी.,wikinews,Tragety
+97,hin,hin_Deva,बिना किसी क्षति के 7 अक्टूबर को इंजन टेकऑफ़ के दौरान अलग हो गया. रूस ने उस दुर्घटना के बाद Il-76s को कुछ समय में ही ज़मीन पर उतार दिया.,wikinews,Tragety
+98,hin,hin_Deva,"फेयरबैंक्स, अलास्का के दक्षिण में हजारों बैरल कच्चे तेल के रिसाव के बाद ट्रांस-अलास्का पाइपलाइन सिस्टम के 800 मील के हिस्से को बंद कर दिया गया था।",wikinews,Disaster
+99,hin,hin_Deva,एक नियमित फायर-कमांड सिस्टम परीक्षण के चलते बिजली चले जाने से रिलीफ वाल्व खुल गए और फोर्ट ग्रीली पंप स्टेशन 9 के पास कच्चा तेल बह गया।,wikinews,Disaster
+100,hin,hin_Deva,"वाल्व छिद्र से प्रणाली का दबाव कम हुआ और तेल एक पैड से एक टैंक में गया जिसमें 55,000 बैरल (23 लाख गैलन) आ सकता है।",wikinews,Disaster
+101,hin,hin_Deva,बुधवार की दोपहर तक टैंक के अंदर थर्मल एक्सपेंशन से शायद अभी भी टैंक वेंट लीक हो रहे थे।,wikinews,Disaster
+102,hin,hin_Deva,"टंकियों के नीचे दूसरा कंटेनमेंट एरिया 104,500 बैरल की क्षमता रखता है, जिसे अभी तक पूर्ण क्षमता के साथ भरा नहीं गया है.",wikinews,Disaster
+103,hin,hin_Deva,टेलीविज़न पर किए गए लाइव कमेंट्स में पहली बार सीनियर इरानियन सूत्रों ने यह माना था कि प्रतिबंधों को कोई प्रभाव हुआ था.,wikinews,Politics
+104,hin,hin_Deva,"इनमें वित्तीय प्रतिबंध और कच्चे तेल के निर्यात पर यूरोपीय संघ द्वारा प्रतिबंध शामिल है, जिससे ईरानी अर्थव्यवस्था को उनकी विदेशी आय का 80% प्राप्त होता है।",wikinews,Politics
+105,hin,hin_Deva,"अपनी सबसे हालिया मासिक रिपोर्ट में, ओपेक ने कहा कि कच्चे तेल का निर्यात दो दशकों के लिए 2.8 मिलियन बैरल प्रति दिन के निचले स्तर तक गिर गया था.",wikinews,Politics
+106,hin,hin_Deva,देश के सुप्रीम लीडर अयातुल्ला अली ख़ामेनी ने तेल पर निर्भरता को एक ऐसे “जाल” के रूप में परिभाषित किया है जो 1979 में इरान के इस्लामिक क्रांति के पहले से बुना जा रहा है और जिससे देश को अपने आपको आज़ाद करना चाहिए.,wikinews,Politics
+107,hin,hin_Deva,"सुबह लगभग 5 बजे (पूर्वी समय) जब कैप्सूल धरती को छूकर वायुमंडल में प्रवेश करता है, तब उत्तरी कैलिफ़ोर्निया, ऑरेगन, नेवाडा और उटाह के लोगों के लिए एक शानदार लाइट शो पेश करने की अपेक्षा होती है.",wikinews,Science
+108,hin,hin_Deva,कैप्सूल बहुत हद तक आसमान में एक उल्का की तरह दिखाई देगा.,wikinews,Science
+109,hin,hin_Deva,कैप्सूल एक मिनट में सैन फ़्रांसिस्को से लॉस एंजिलस तेज़ी से जाने के लिए लगभग 12.8 किमी या 8 मील प्रति सेकंड की यात्रा करेगा।,wikinews,Science
+110,hin,hin_Deva,"स्टारडस्ट धरती की ओर इतनी तेज़ी से वापस लौटेगा कि अब तक के सारे रिकॉर्ड टूट जाएँगे. फ़िलहाल यह रिकॉर्ड अपोलो X के कमांड मॉड्यूल के नाम है जो मई, 1969 में सबसे तेज़ गति से धरती में वापस लौटा था.",wikinews,Science
+111,hin,hin_Deva,"“यह उत्तरी कैलिफोर्निया के पश्चिमी तट पर चलेगा और कैलिफोर्निया से केंद्रीय ओरेगन और नेवादा और इदाहो तक और यूटा में आकाश को प्रकाशित करेगा,” टॉम डक्सबरी, स्टारडस्ट के परियोजना प्रबंधक ने कहा।",wikinews,Science
+112,hin,hin_Deva,"क्योटो जलवायु समझौते पर हस्ताक्षर करने के श्री रुड के निर्णय ने संयुक्त राज्य अमेरिका को अलग कर दिया है, जो अब एकमात्र विकसित राष्ट्र होगा जिसने समझौते की पुष्टि नहीं की है।",wikinews,climate
+113,hin,hin_Deva,"ऑस्ट्रेलिया की पूर्व रूढ़िवादी सरकार ने क्योटो की पुष्टि करने से मना करते हुए कहा कि जबकि भारत और चीन जैसे देश उत्सर्जन लक्ष्य से नहीं बंधे हैं, इससे कोयले के निर्यात पर भारी निर्भरता के साथ अर्थव्यवस्था को नुकसान होगा।",wikinews,climate
+114,hin,hin_Deva,यह eBay के इतिहास में सबसे बड़ा अधिग्रहण है.,wikinews,Science and technology
+115,hin,hin_Deva,"चीन, पूर्वी यूरोप और ब्राज़ील जैसे क्षेत्रों में जहाँ स्काइप की पकड़ मज़बूत है, कंपनी को अपने लाभ स्रोतों में विभिन्नता लाने और लोकप्रियता पाने की उम्मीद है.",wikinews,Science and technology
+116,hin,hin_Deva,वैज्ञानिकों ने एन्सेलेडस को भूगर्भीय रूप से सक्रिय और शनि के बर्फीले ई वलय के संभावित स्रोत के रूप में संदेह प्रकट किया है.,wikinews,Science and technology
+117,hin,hin_Deva,"एन्सेलेडस सौर प्रणाली की सबसे अधिक परावर्तक वस्तु है, जो अपने ऊपर पड़ने वाली सूर्य की लगभग 90 प्रतिशत किरणों को परावर्तित करती है।",wikinews,Science and technology
+118,hin,hin_Deva,गेम के प्रकाशक कोनामी ने आज एक जापानी अख़बार को बताया कि वे सिक्स डेज़ इन फ़ालूजा जारी नहीं करेंगे.,wikinews,Culture and entertainment
+119,hin,hin_Deva,"यह खेल फालुजा की दूसरी लड़ाई पर आधारित है, जो अमेरिका और इराक की सेनाओं के बीच एक शातिर लड़ाई है।",wikinews,Culture and entertainment
+120,hin,hin_Deva,"एसीएमए ने यह भी पाया कि वीडियो इंटरनेट पर स्ट्रीम होने के बावजूद, बिग ब्रदर ने ऑनलाइन कंटेंट सेंसरशिप कानूनों का उल्लंघन नहीं किया था क्योंकि मीडिया बिग ब्रदर की वेबसाइट पर स्टोर नहीं किया गया था.",wikinews,Politics and conflicts
+121,hin,hin_Deva,"प्रसारण सेवा अधिनियम इंटरनेट कंटेंट के लिए नियंत्रण प्रदान करता है, हालाँकि इसे इंटरनेट कंटेंट माना जाता है, लेकिन इसे सर्वर पर भौतिक रूप से रहना चाहिए.",wikinews,Politics and conflicts
+122,hin,hin_Deva,केन्या के नैरोबी स्थित यूनाइटेड स्टेट्स के दूतावास ने चेतावनी जारी की है कि “सोमालिया के अतिवादी” केन्या और इथियोपिया में आत्मघाती बम हमलों की योजना बना रहे हैं.,wikinews,Politics and conflicts
+123,hin,hin_Deva,अमेरिका का कहना है कि उसे एक अज्ञात स्रोत से जानकारी मिली है जो विशेष रूप से कहता है कि आत्मघाती हमलावरों के उपयोग से इथियोपिया और केन्या में “प्रमुख स्थलों” को उड़ा दिया जायेगा।,wikinews,Politics and conflicts
+124,hin,hin_Deva,"द डेली शो और द कोलबर्ट रिपोर्ट से बहुत पहले, जब वे 1988 में UW में छात्र थे, तो हेक और जॉनसन ने एक प्रकाशन की कल्पना की, जो समाचार और समाचार रिपोर्टिंग की पैरोडी करेगा -.",wikinews,entertainment
+125,hin,hin_Deva,"अपनी स्थापना के बाद से, द अनियन प्रिंट संस्करण के साथ एक सत्य समाचार पैरोडी साम्राज्य बन गया है, उनका एक वेबसाइट जिससे अक्टूबर के महीने में 5,000,000 अद्वितीय आगंतुक आकर्षित हुए, व्यक्तिगत विज्ञापन हैं, 24 घंटे का समाचार नेटवर्क है, पॉडकास्ट हैं, और हाल ही में हमारी मूर्ख दुनिया नामक विश्व एटलस भी लौंच हुआ है।",wikinews,entertainment
+126,hin,hin_Deva,"अल गोर और जनरल टॉमी फ्रैंक्स ने फटाफट बोलकर, अपनी पसंदीदा सुर्खियों को चुरा लिया (गोर ने बताया कि जब 2000 के इलेक्टोरल कॉलेज की हार के बाद, वह टिप्पर के साथ अपनी ज़िंदगी के सबसे अच्छे पल बिता रहे थे, तब द अनियन ने उसकी रिपोर्ट की).",wikinews,entertainment
+127,hin,hin_Deva,उनके कई लेखक जॉन स्टीवर्ट और स्टीफ़न कोलबर्ट के समाचार पैरोडी शो पर बहुत बड़ा प्रभाव डालते हैं.,wikinews,entertainment
+128,hin,hin_Deva,आर्टिस्टिक इवेंट (कलात्मक कार्यक्रम) भी बुखारेस्ट सिटी हॉल के कैंपेन का एक हिस्सा है जो रोमानिया की राजधानी की एक क्रिएटिव और रंगीन छवि को फिर से दिखाने की कोशिश है.,wikinews,entertainment
+129,hin,hin_Deva,"इस साल जून और अगस्त के बीच दुनिया का सबसे बड़ा सार्वजनिक कला कार्यक्रम, काउपरेड का आयोजन करने वाला दक्षिण-पूर्वी यूरोप का यह पहला शहरहोगा।",wikinews,entertainment
+130,hin,hin_Deva,"इसी साल मार्च में, सरकार ने माल ढुलाई करने वाले कुछ और वाहनों को वित्तीय मदद देने का वादा किया था. आज की इस घोषणा के साथ ही, सरकार का वह वादा भी पूरा हुआ.",wikinews,politics
+131,hin,hin_Deva,"300 और गाड़ियों से संख्या बनती हैं , 1,300 गाडियाँ जो मंगवाई गई हैं ै ताकिें भीड़भाड़ से निजात मिल सके।",wikinews,politics
+132,hin,hin_Deva,लॉस एंजेलिस पुलिस विभाग के एक प्रवक्ता क्रिस्टोफर गार्सिया ने कहा कि संदिग्ध पुरुष अपराधी की गुंडागिरी के बजाय अतिक्रमण के लिए जाँच की जा रही है।,wikinews,crime
+133,hin,hin_Deva,संकेत शारीरिक रूप से क्षतिग्रस्त नहीं था; “O” को बदलकर लोअरकेस “e” में पढ़ने के लिए शांति और दिल के संकेतों के साथ सजाए गए काले तिरपाल का इस्तेमाल करके संशोधन किया गया था.,wikinews,crime
+134,hin,hin_Deva,"लाल ज्वार, करेनिया ब्रेविस की सामान्य सांद्रता से ज़्यादा होने के कारण होता है, जो प्राकृतिक रूप से पाए जाने वाला एकल-कोशिका वाला समुद्री जीव है.",wikinews,environment
+135,hin,hin_Deva,"प्राकृतिक कारक आदर्श स्थितियों का निर्माण करने के लिए एक दूसरे को काट सकते हैं, जिससे इस शैवाल की संख्या नाटकीय रूप से बढ़ सकती है.",wikinews,environment
+136,hin,hin_Deva,"शैवाल, एक न्यूरोटॉक्सिन बनाता है जो मनुष्य और मछली दोनों की नसों को कमज़ोर कर सकता है.",wikinews,environment
+137,hin,hin_Deva,मछली अक्सर पानी में विष के उच्च सांद्रता के कारण मर जाती है.,wikinews,environment
+138,hin,hin_Deva,हवा और तरंगों द्वारा हवा में मिले प्रभावित जल को साँस में लेने से मनुष्य प्रभावित हो सकता है.,wikinews,environment
+139,hin,hin_Deva,"अपने चरम पर, ट्रॉपिकल साइक्लोन गोनू, मालदीव की भाषा में ताड़ के पत्तों के एक बैग के नाम पर प्रति घंटे 240 किलोमीटर (149 मील प्रति घंटे) की लगातार हवाओं तक पहुंच गया.",wikinews,environment
+140,hin,hin_Deva,"दिन की शुरुआत में, हवाएँ लगभग 83 किमी/घंटा थीं और इसके कमज़ोर रहने की अपेक्षा थी।",wikinews,environment
+141,hin,hin_Deva,कोविड-19 से जुड़ी चिंता की वजह बुधवार को यूनाइटेड स्टेट्स नेशनल बास्केटबॉल एसोसिएशन (NBA) ने अपना प्रोफ़ेशनल बास्केटबॉल सीज़न स्थगित कर दिया है.,wikinews,sport
+142,hin,hin_Deva,NBA के फैसले के बाद एक उताह जैज़ खिलाडी covid-19 पॉज़िटिव पाया गया |,wikinews,sport
+143,hin,hin_Deva,"“जीवाश्मों के आधार पर, इसका मतलब है कि विभाजन आणविक साक्ष्य द्वारा प्रत्याशित होने की तुलना में बहुत पुराना है।",wikinews,science
+144,hin,hin_Deva,"इसका मतलब है कि इस की हर कड़ी फिर से जोड़नी होगी,” ईथोपिया में रिफ़्ट वैली रिसर्च सर्विस के शोधकर्ता और अध्ययन के सह-लेखक, बरहेन अस्फ़ॉ ने कहा.",wikinews,science
+145,hin,hin_Deva,"अभी तक, अमेरिका के अंदर अपने व्यापक उपयोग की वजह से AOL अपनी खुद की रफ़्तार से IM मार्केट को आगे बढ़ाने और विकसित करने लायक हुआ है.",wikinews,business
+146,hin,hin_Deva,"अगर यही व्यवस्था कायम रही, तो यह आज़ादी ज़्यादा दिन तक टिकने वाली नहीं है.",wikinews,business
+147,hin,hin_Deva,Yahoo!और Microsoft सेवाओं के उपयोगकर्ताओं की संख्या एकसाथ AOL के ग्राहकों की संख्या का सामना करेगी.,wikinews,business
+148,hin,hin_Deva,नॉर्दर्न रॉक बैंक को यूके सरकार से आपातकालीन सहायता मिलने की बात का पता चलने के बाद इसे 2008 में राष्ट्रीयकृत कर दिया गया था.,wikinews,business
+149,hin,hin_Deva,2007 में सबप्राइम मॉर्गेज संकट के दौरान नॉर्दर्न रॉक को इसके एक्सपोज़र के कारण समर्थन की ज़रूरत थी.,wikinews,business
+150,hin,hin_Deva,सर रिचर्ड ब्रैनसन के वर्जिन समूह ने उन बैंको के लिए बोली लगाई थी जिन्हे राष्ट्रीयकरण से पहले अस्वीकार कर दिया गया था।,wikinews,business
+151,hin,hin_Deva,"2010 में, राष्ट्रीयकरण करते समय, वर्तमान उच्च स्ट्रीट बैंक उत्तरी पहाड़ी को 'बैड बैंक', उत्तरी पहाड़ी (असिस्ट मैनेजमेंट) से अलग किया गया था।",wikinews,business
+152,hin,hin_Deva,"वर्जिन ने केवल उत्तरी रॉक के 'अच्छा बैंक' को खरीदा है, न कि संपत्ति प्रबंधन करने वाली कंपनी को।",wikinews,business
+153,hin,hin_Deva,यह इतिहास में पांचवीं बार माना गया है कि लोगों ने देखा धरती पर गीरते हुए युद्ध सामग्री की रासायनिक रूप से पुष्टि की गई हैं |,wikinews,Science
+154,hin,hin_Deva,"पृथ्वी पर गिरने वाले लगभग 24,000 ज्ञात उल्कापिंडों में से केवल 34 के बारे में सत्यापित किया गया है कि वे मूल रूप से मंगल से हैं।",wikinews,Science
+155,hin,hin_Deva,इनमें से पंद्रह चट्टानें पिछली जुलाई में हुए उल्कापात की देन हैं.,wikinews,Science
+156,hin,hin_Deva,"धरती पर कुछ बहुत ही दुर्लभ चट्टानों को प्रति औंस 11,000 से लेकर 22,500 अमेरिकी डॉलर में बेचा जाता है. यह सोने के मुकाबले लगभग दस गुना ज़्यादा है.",wikinews,Science
+157,hin,hin_Deva,"रेस के बाद, 2,250 पॉइंट्स के साथ केसेलोवस्की ड्रायवर्स चैंपियनशिप लीडर बने रहे.",wikinews,Sport
+158,hin,hin_Deva,"सात अंक पीछे रहने के बाद, जॉनसन 2,243 अंक के साथ दूसरे नंबर पर है।",wikinews,Sport
+159,hin,hin_Deva,"तीसरे में, हैमलिन बीस अंकों से पीछे हैं, लेकिन बोयर से पाँच अंक आगे हैं. काहने और ट्रूएक्स, जूनियर क्रमशः 2,220 और 2,207 अंकों के साथ पाँचवें और छठे स्थान पर हैं.",wikinews,Sport
+160,hin,hin_Deva,"सीज़न की चार रेस बची रहने पर भी, स्टीवर्ट, गॉर्डन, केंसेथ और हार्विक ड्राइवर्स चैम्पियनशिप के शीर्ष-दस स्थान में जगह बना चुके हैं।",wikinews,Sport
+161,hin,hin_Deva,यूएस नेवी ने यह भी कहा था कि वे घटना की जाँच कर रही थी.,wikinews,Accident
+162,hin,hin_Deva,"उन्होंने एक बयान में यह भी कहा, “इस समय क्रू जहाज़ को सुरक्षित निकालने के सबसे बेहतरीन तरीकों का पता लगाने पर काम कर रहा है.”",wikinews,Accident
+163,hin,hin_Deva,"एवेंजर क्लास माइन काउंटरमेज़र शिप, यह जहाज़ पालवन के प्यर्टो प्रिंसेसा के रास्ते में था.",wikinews,Accident
+164,hin,hin_Deva,इसे यूएस नेवी के सातवें बेडे में तैनात कर दिया है और यह जापान में नागासाकी के सासेबो में स्थित है.,wikinews,Accident
+165,hin,hin_Deva,"26 नवम्बर 2008 को मुंबई के हमलावर नाव के द्वारा पहुँचे और अपने साथ ग्रेनेड, स्वचालित हथियार लेकर आए और भीड़भाड़ वाले छत्रपति शिवाजी टर्मिनस रेलवे स्टेशन और प्रसिद्ध ताज महल होटल सहित कई ठिकानों पर हमला किया।",wikinews,Law and crime
+166,hin,hin_Deva,डेविड हेडली की स्काउटिंग और सूचना एकत्रीकरण से पाकिस्तानी आतंकवादी समूह लश्कर-ए-तैयबा के 10 बंदूकधारियों को ऑपरेशन को सफल बनाने में मदद मिली थी।,wikinews,Law and crime
+167,hin,hin_Deva,हमले ने भारत और पाकिस्तान के रिश्तों पर भारी तनाव डाला है.,wikinews,Law and crime
+168,hin,hin_Deva,उन अधिकारियों के साथ उन्होंने टेक्सास के लोगों को भरोसा दिलाया कि उनकी सुरक्षा के लिए कदम उठाए जा रहे हैं.,wikinews,Politics
+169,hin,hin_Deva,"पेरी ने विशेष रूप से कहा, “इस मामले में सामने आई चुनौती को पूरा करने के लिए दुनिया में कम ही जगह हैं”.",wikinews,Politics
+170,hin,hin_Deva,"गवर्नर ने यह भी कहा, “आज, हमें पता चला है कि कुछ स्कूली उम्र के बच्चों की पहचान हुई है जिनका रोगी से संपर्क था”.",wikinews,Politics
+171,hin,hin_Deva,"वह कहता चला गया, “यह मामला गंभीर है. इस बात की फ़िक्र न करें कि हमारा सिस्टम उम्मीद के मुताबिक काम कर रहा है.”",wikinews,Politics
+172,hin,hin_Deva,"यदि यह साबित होता है, कि एलन ने मुसाहि की आठ साल की खोज को पूरा कर लिया है ।",wikinews,Discovery
+173,hin,hin_Deva,समुद्र सतह की मैपिंग को अनुसरण करते हुए आरओवी का इस्तेमाल कर जहाज़ के मलबे को ढूँढा गया था.,wikinews,Discovery
+174,hin,hin_Deva,दुनिया के सबसे धनी लोगों में से एक एलन ने अपनी संपत्ति का अधिकांश हिस्सा समुद्री खोज में लगाया और मुशीशी को युद्ध में आजीवन रुचि से बाहर खोजने के लिए अपनी खोज शुरू की।,wikinews,Discovery
+175,hin,hin_Deva,अटलांटा में काम करने के दौरान वे मशहूर हुईं. शहरी शिक्षा में नए तरीके अपनाने में उन्हें पहचान मिली.,wikinews,
+176,hin,hin_Deva,2009 में उन्हें (डॉ. बेवरली हॉल) राष्ट्रीय अधीक्षक की उपाधि से सम्मानित किया गया.,wikinews,Law and crime
+177,hin,hin_Deva,"पुरस्कार के समय, अटलांटा स्कूलों ने टेस्ट स्कोर में एक बड़ा सुधार देखा था.",wikinews,Law and crime
+178,hin,hin_Deva,"तुरंत बाद, टेस्ट रिज़ल्ट्स में हुई परेशानियों को बताते हुए द अटलांटा जर्नल-कॉन्स्टिट्यूशन ने एक रिपोर्ट प्रकाशित की.",wikinews,Law and crime
+179,hin,hin_Deva,"रिपोर्ट में बताया गया कि टेस्ट के अंक तेज़ गति से बढ़े, उस स्कूल ने आंतरिक तौर पर कुछ समस्याओं को पहचाना पर उन्हें ठीक करने के लिए कुछ नहीं किया.",wikinews,Law and crime
+180,hin,hin_Deva,"उसके बाद के सबूत इस ओर इशारा करते है कि हॉल ने परीक्षा के प्रश्नपत्रों से छेड़छाड़ की थी, और 2013 में उसके साथ ही 34 अन्य शिक्षा अधिकारियों पर इसका आरोप लगाया गया था।",wikinews,Law and crime
+181,hin,hin_Deva,आयरलैंड की सरकार स्थिति को सुधारने के लिए संसदीय कानून की अत्यावश्यकता पर जोर दे रही है।,wikinews,Health
+182,hin,hin_Deva,"एक सरकारी प्रवक्ता ने कहा, “सार्वजनिक स्वास्थ्य और आपराधिक न्याय दोनों दृष्टिकोणों से यह महत्वपूर्ण है कि कानून को जल्द से जल्द लागू किया जाए.”",wikinews,Health
+183,hin,hin_Deva,स्वास्थ्य मंत्री ने इसमें शामिल तत्वों की अस्थायी वैधता का फ़ायदा उठाने वाले लोगों के कल्याण के लिए चिंता ज़ाहिर की और सामयिक असंवैधानिक बदलावों के प्रभाव में आने के बाद से दवा से जुड़ी धारणाओं को आगे की पीढ़ी के लिए सौंप दिया.,wikinews,Health
+184,hin,hin_Deva,जर्क उस दिन पहले इटली के कवरकियानो में प्री-सीज़न ट्रेनिंग के दौरान अभ्यास कर रहे थे. वे रविवार को बोलोनिया के खिलाफ़ योजनाबद्ध मैच से पहले टीम होटल में ठहरे थे.,wikinews,Sports
+185,hin,hin_Deva,वह रविवार को नियोजित बोलोनिया के खिलाफ होने वाले मैच से पहले टीम के होटल में ठहरा हुआ था।,wikinews,Sports
+186,hin,hin_Deva,बस को मिसौरी में सिक्स फ़्लैग्स सेंट लुइस की ओर ले जाया गया ताकि बैंड वह शो दे सके जिसकी सारी टिकटें बिक चुकी थी.,wikinews,Disasters and accidents
+187,hin,hin_Deva,"शनिवार दोपहर 1:15 बजे, प्रत्यक्षदर्शियों के अनुसार, बस उस समय हरी बत्ती से गुज़र रही थी जब उसके सामने एक कार मुड़ी।",wikinews,Disasters and accidents
+188,hin,hin_Deva,"9 अगस्त की रात तक, मोराकोट की आँख (केंद्र) चीनी प्रांत फुजियन से लगभग सत्तर किलोमीटर दूर थी।",wikinews,Disasters and accidents
+189,hin,hin_Deva,इस तूफान का अनुमान ग्यारह किलोमीटर प्रति घंटे की दर से चीन की ओर बढ़ने का है.,wikinews,Disasters and accidents
+190,hin,hin_Deva,यात्रियों को पानी दिया गया क्योंकि वे 90 (F) - डिग्री गर्मी में इंतज़ार कर रहे थे.,wikinews,Culture and entertainment
+191,hin,hin_Deva,"फ़ायर कैप्टन स्कॉट कोनुस ने कहा, “90 के दशक में तापमान के साथ सांता क्लारा में यह एक गर्म दिन था.”",wikinews,Culture and entertainment
+192,hin,hin_Deva,यह कहना कम है कि किसी लंबे समय तक रोलर कॉस्टर में फंस जाना असहज होगा और पहले व्यक्ति को सवारी पर से उतारने में कम से कम एक घंटा लगा था.,wikinews,Culture and entertainment
+193,hin,hin_Deva,"फ़िलिप मासा के घायल हो जाने के बाद उनकी जगह, फ़ॉर्मूला-1 चैंपियनशिप को सात बार जीतने वाले माइकल शूमाकर आने वाले थे. शूमाकर ने साल 2006 में इस खेल से संन्यास ले लिया था.",wikinews,Sports
+194,hin,hin_Deva,2009 के हंगेरियन ग्रैंड प्री के दौरान दुर्घटना के बाद ब्राज़िली को सिर में गंभीर चोट लगी थी.,wikinews,Sports
+195,hin,hin_Deva,मास्सा कम से कम बाकी के 2009 सीज़न के लिए बाहर हो सकते हैं।,wikinews,Sports
+196,hin,hin_Deva,"अरियास वायरस के एक हल्के प्रकार से संक्रमित पाये गये, राष्ट्रपति मंत्री रोड्रिगो अरियास ने कहा।",wikinews,Disease
+197,hin,hin_Deva,"राष्ट्रपति की हालत स्थिर है, हालाँकि वह कई दिनों तक घर पर एकांत में रहेंगे।",wikinews,Disease
+198,hin,hin_Deva,"“बुखार और गले में खराश के अलावा, मैं अच्छी तरह से और अच्छी हालत में महसूस करता हूं ताकि टेलीकम्युटिंग करके अपना काम पूरा कर सकूं।",wikinews,Disease
+199,hin,hin_Deva,"मुझे उम्मीद है कि मैं सोमवार को अपनी सभी ज़िम्मेदारियाँ वापस संभाल लूँगा, “एरियस ने एक बयान में कहा.",wikinews,Disease
+0,tam,tam_Taml,"திங்களன்று, ஸ்டான்போர்ட் யுனிவர்சிட்டி ஸ்கூல் ஆஃப் மெடிசின் விஞ்ஞானிகள் ஒரு புதிய நோயறிதல் கருவியின் கண்டுபிடிப்பை அறிவித்தனர், இது செல்களை வகைப்படி வரிசைப்படுத்தலாம்: ஒரு சிறிய அச்சிடக்கூடிய சில்லு, தரமான இன்க்ஜெட் அச்சுப்பொறிகளைப் பயன்படுத்தி ஒவ்வொன்றும் 1 யு.எஸ்.",wikinews,health
+1,tam,tam_Taml,"இது குறைந்த வருமானம் ஈட்டும் நாடுகளில் உள்ள நோயாளிகளுக்கு புற்றுநோய், காசநோய், எச்.ஐ.வி மற்றும் மலேரியாவை முன்கூட்டியே கண்டறியும் என்று முன்னணி ஆராய்ச்சியாளர்கள் கூறுகின்றனர், மார்பக புற்றுநோய் போன்ற நோய்களுக்கான உயிர்வாழ்வு விகிதங்கள் பணக்கார நாடுகளில் பாதியாக இருக்கலாம்.",wikinews,health
+2,tam,tam_Taml,"JAS 39C க்ரப்பென் விமானம் உள்ளூர் நேரம் 9:30 AM (0230 UTC) க்கு ஓடுபாதையில் விழுந்து வெடித்தது, அதனால் வணிக விமானங்களுக்கு விமான நிலையம் மூடப்பட்டது.",wikinews,accident
+3,tam,tam_Taml,"விமானி, ஸ்குவாட்ரான் தலைவர் திலோக்ரித் பட்டாவி என அடையாளம் காணப்பட்டார்.",wikinews,accident
+4,tam,tam_Taml,தீயை அணைக்கச் சென்ற விமான நிலைய தீயணைப்பு வாகனம் கவிழ்ந்ததாக உள்ளூர் செய்தி நிறுவனங்கள் தெரிவித்தன.,wikinews,accident
+5,tam,tam_Taml,"28 வயதான விடல் மூன்று பருவங்களுக்கு முன்பாக, செவில்லாவில் இருந்து பார்காவில் சேர்ந்தார்.",wikinews,sports
+6,tam,tam_Taml,"கடலான்-கேபிடலுக்கு மாறிய பின், விடால் அந்த கிளப்பிற்காக 49 ஆட்டங்களில் விளையாடி இருக்கிறார்.",wikinews,sports
+7,tam,tam_Taml,"பிரதமரின் அதிகாரபூர்வ இல்லமான வைட் ஹாலுக்கு எதிரில், உள்ளூர் நேரமான சுமார் 11:00 மணிக்கு (UTC+1) போராட்டம் தொடங்கியது. காவல்துறை அதிகாரிகள் டவுனிங் தெருவின் நுழைவாயிலை பாதுகாத்து நின்றனர்.",wikinews,politics
+8,tam,tam_Taml,"11:00 மணிக்குப் பின்னர், எதிர்ப்பாளர்கள் ஒயிட்ஹாலில் வடக்கு நோக்கி செல்லும் வண்டிகளின் போக்குவரத்தைத் தடுத்தனர்.",wikinews,politics
+9,tam,tam_Taml,"11:20 க்கு போலீசார், அதிகரிக்கும் போக்குவரத்து நெரிசலையும் அவர்கள் போராடும் உரிமையையும் சமமாகப் பாவிக்கக் கூறி, போராட்டக்காரர்களை நடைபாதைக்கு செல்லும்படி உத்தரவிட்டனர்.",wikinews,politics
+10,tam,tam_Taml,"11:29 அளவில் அந்த போராட்டம், ஒயிட்ஹாலிலிருந்து ட்ரஃபால்கர் சதுக்கத்தைத் தாண்டி, ஸ்ட்ரான்ட், ஆல்ட்விச், கிங்ஸ் வே வழியாக ஹால்பார்ன் நோக்கிச் சென்றது. அங்கே கிராண்ட் கன்னாட் ரூம்ஸ் ஓட்டலில் கன்சர்வேட்டிவ் கட்சியினர் அவர்களது வசந்த கால மாநாட்டை நடத்திக் கொண்டிருந்தனர்.",wikinews,politics
+11,tam,tam_Taml,அந்த கனடா நாட்டவருடன் நடாலின் நேருக்கு நேர் மோதிய சாதனை 7-2 ஆகும்.,wikinews,sports
+12,tam,tam_Taml,சமீபத்தில் அவர் பிரிஸ்பேன் ஓபனில் ராயோனிக் அணிக்கு எதிராக விளையாடித் தோற்றார்.,wikinews,sports
+13,tam,tam_Taml,போட்டியை வென்ற 76 புள்ளிகளில் 88%-ஐ நடால் அந்த ஆட்டத்தில் முதல் செர்விலேயே பெற்றார்.,wikinews,sports
+14,tam,tam_Taml,"""போட்டிக்குப் பின்பு, கிங் ஆஃப் க்ளே, """"மிக முக்கியமான நிகழ்வுகளின் இறுதி சுற்றுகளில் திரும்பியிருப்பதைக் குறித்து நான் மிக மகிழ்ச்சியடைகிறேன்"""" என்றார். இதை வெற்றி பெறுவதற்கு முயற்சி செய்ய நான் இங்கு வந்துள்ளேன்.""""""",wikinews,sports
+15,tam,tam_Taml,"""""""பனாமா பேப்பர்ஸ்"""" என்பது பனாமேனியன் சட்ட நிறுவனமான மொசாக் ஃபொன்சேகாவிடமிருந்து பெறக்கூடிய சுமார் பத்து மில்லியன் ஆவணங்களுக்கான ஒரு மேக்அப் சொல், இது 2016-ஆம் ஆண்டின் இளவேனிற்காலத்தில் பத்திரிகைகளுக்குக் கசிந்தது.""",wikinews,crime
+16,tam,tam_Taml,"வரிகளையும் பிற விதிமுறைகளையும் தவிர்ப்பதற்காக, பதினான்கு வங்கிகள் செல்வ செழிப்புள்ள வாடிக்கையாளர்களுக்கு பில்லியன் கணக்கில் அமெரிக்க டாலர் செல்வத்தை மறைக்க உதவின என்று ஆவணங்கள் காட்டின.",wikinews,crime
+17,tam,tam_Taml,பிரிட்டிஷ் செய்தித்தாள் தி கார்டியன் இதை நிறைவேற்ற பயன்படுத்தப்படும் 1200 ஷெல் நிறுவனங்களில் மூன்றில் ஒரு பகுதியை டாய்ச் வங்கி கட்டுப்படுத்த பரிந்துரைத்தது,wikinews,crime
+18,tam,tam_Taml,"உலகெங்கிலும் கண்டனக் கூட்டங்கள் இருந்தன, பல குற்ற வழக்குகள் தொடரப்பட்டன, ஐஸ்லாந்து மற்றும் பாகிஸ்தான் அரசாங்கங்களின் தலைவர்கள் இருவரும் தங்கள் பதவியை இராஜினாமா செய்தனர்.",wikinews,crime
+19,tam,tam_Taml,"""மா, ஹாங்காங்கில் பிறந்து, நியூயார்க் மற்றும் ஹார்வர்ட் சட்டக் கல்லூரியில் பயின்றார் மற்றும் சிலகாலம் அமெரிக்காவின் நிரந்தரக் குடியுரிமையான """"கிரீன் கார்ட்"""" ஐயும் வைத்திருந்தார்.""",wikinews,Politics and conflicts
+20,tam,tam_Taml,"தேர்தலின் போது ஹெசே, சிக்கலான நேரத்தில் மா, நாட்டை விட்டு ஓடி விடுவார் என்று மறைமுகமாகத் தெரிவித்தார்.",wikinews,Politics and conflicts
+21,tam,tam_Taml,"அழகாய்த் தெரியும் முகமுடைய மா,  வெறும் பாங்குதான், பொருள் இல்லை என்றும் ஹெசே கூறினார்.",wikinews,Politics and conflicts
+22,tam,tam_Taml,"இந்தக் குற்றச்சாட்டுகள் இருந்தபோதிலும், சீனாவின் பிரதான நிலப்பரப்புடன் நெருக்கமான உறவுகளை ஆதரிப்பதற்கான அடிப்படையில் மா வெற்றியடைந்தார்.",wikinews,
+23,tam,tam_Taml,இன்றைய தினத்தின் ஆட்ட நாயகன் வாஷிங்டன் கேபிடல்ஸின் அலெக்ஸ் ஓவெச்கின் ஆவார்.,wikinews,sports
+24,tam,tam_Taml,வாஷிங்டனின் அட்லாண்டா டிராஷர்களுடனான 5-3 வெற்றியில் அவர் 2 கோல் அடித்தார். 2 கோலடிக்க உதவினார்.,wikinews,sports
+25,tam,tam_Taml,ஓவெச்ச்கின் உடைய இரவு முதல் உதவி ரூக்கி நிக்லஸ் பேக்ஸ்ட்ரோமின் ஆட்டத்தின் வெற்றிக்கான கோலில் இருந்தது;,wikinews,sports
+26,tam,tam_Taml,அன்று இரவு அவர் அடித்த இரண்டாவது கோல் இந்த பருவத்தில் அவரது 60 வது கோல் மட்டுமல்லாது 1995-96 ம் பருவத்தில் ஜரோமிர் ஜாக்ர் மற்றும் மரியோ லேமிக்ஸ் இருவரும் ஒரே பருவத்தில் தலா 60 கோல் அடித்துப் படைத்த சாதனையை அதன் பிறகு எட்டிய முதல் வீரரும் ஆகிறார்.,wikinews,sports
+27,tam,tam_Taml,2008ஆம் ஆண்டின் 400 பணக்கார அமெரிக்கர்கள் பட்டியலில் பேட்டன் $2.3 பில்லியன் சொத்து மதிப்புடன் 190வது இடத்தைப் பிடித்தார்.,wikinews,Television
+28,tam,tam_Taml,"அவர் 1950-இல் வர்ஜீனியா பல்கலைக்கழகத்தின் கலை மற்றும் அறிவியல் கல்லூரியில் பட்டம் பெற்றார், மேலும் அந்த நிறுவனத்திற்குக் குறிப்பிடத்தகுந்த நன்கொடையாளராக இருந்தார்.",wikinews,Television
+29,tam,tam_Taml,ஈராக்கின் அபு கிரைப் சிறை ஒரு கலவரத்தின் போது தீ வைக்கப்பட்டது.,wikinews,crime
+30,tam,tam_Taml,"இந்தச் சிறை, அமெரிக்க படைகள் பொறுப்பேற்றதும், கைதிகள் தவறாக நடத்தப்படுவது கண்டுபிடிக்கப்பட்ட பிறகு மிகவும் கெட்ட பெயரை சம்பாதித்தது.",wikinews,crime
+31,tam,tam_Taml,2008 சிங்கப்பூர் கிராண்ட் பிரிக்ஸில் பிக்கெட் ஜூனியர் விபத்துக்குள்ளானார்.,wikinews,crime
+32,tam,tam_Taml,"அலோன்ஸாவிற்கு முன்னால் சென்று கொண்டிருந்த கார்கள், பாதுகாப்பு கார் வந்ததும், எரிபொருள் நிரப்பச் சென்றதும், அவர் அந்த கூட்டத்தின் முன்னிலைக்குச் சென்று வெற்றி பெற்றார்.",wikinews,crime
+33,tam,tam_Taml,2009 ஆம் ஆண்டு ஹங்கேரிய கிராண்ட் பிரிக்ஸிற்குப் பிறகு பிக்கெட் ஜூனியர் நீக்கப்பட்டார்.,wikinews,crime
+34,tam,tam_Taml,"காலை 8:46 மணியளவில், சரியாக முதல் ஜெட் அதன் இலக்கைத் தாக்கிய அதே தருணத்தைக் குறிப்பதாக நகரம் முழுவதும் நிசப்தம் பரவியது.",wikinews,accident
+35,tam,tam_Taml,இரண்டு ஒளிக்கதிர்களும் இரவில் வானத்தை நோக்கி பயணிக்கச் செய்யப்பட்டவை.,wikinews,accident
+36,tam,tam_Taml,"இந்த இடத்தில் ஐந்து புதிய வானளாவிய கட்டிடங்களுக்கான கட்டுமானப் பணிகள் நடைபெற்று வருகின்றன, நடுவில் ஒரு போக்குவரத்து மையம் மற்றும் நினைவு பூங்கா அமைய உள்ளது.",wikinews,accident
+37,tam,tam_Taml,"PBS நிகழ்ச்சியில் இரண்டு டஜன் எம்மி விருதுகள் உள்ளன, ஆனால் சீசேம் ஸ்ட்ரீட் மற்றும் மிஸ்டர் ரோஜர்ஸ் நெய்பர்ஹூட் ஆகியவற்றை விடக் குறைவான காட்சிகளே ஓடியுள்ளது.",wikinews,television
+38,tam,tam_Taml,"நிகழ்ச்சியின் ஒவ்வொரு அத்தியாயமும் ஒரு குறிப்பிட்ட புத்தகத்தில் ஒரு கருப்பொருளை மையமாகக் கொண்டு, பின்னர் பல கதைகள் மூலம் அந்த கருப்பொருளை ஆராயும்.",wikinews,television
+39,tam,tam_Taml,"ஒவ்வொரு நிகழ்ச்சியும், குழந்தைகள் நூலகத்திற்குச் செல்லும்போது அவர்கள் கவனித்துப் படிக்கவேண்டிய புத்தகங்களுக்கான பரிந்துரைகளையும் வழங்கும்.",wikinews,television
+40,tam,tam_Taml,"""WNED Buffalo லிருந்து ஜான் கிராண்ட் (Reading Rainbow's ஹோம் ஸ்டேஷன்) அவர்கள் """"Reading Rainbow குழந்தைகளுக்கு ஏன் படிக்க வேண்டும் என்று கற்றுக் கொடுத்தது,... வாசிப்பில் ஒரு ஈடுபாட்டை ஏற்படுத்தியது— [இந்த நிகழ்ச்சி] குழந்தைகளை ஒரு புத்தகத்தை எடுத்து படிக்க ஊக்குவித்தது"""" என்று கூறினார்.""",wikinews,television
+41,tam,tam_Taml,"ஜான் கிராண்ட் உட்பட சிலர், நிதி நெருக்கடி மற்றும் கல்வி தொலைக்காட்சி நிகழ்ச்சித் தத்துவத்தில் ஏற்பட்ட மாற்றம் ஆகியவை இந்தத் தொடரை முடிவுக்குக் கொண்டு வர காரணமாக இருந்தவை என்று நம்பப்படுகிறது.",wikinews,television
+42,tam,tam_Taml,கேப் வெர்டெ தீவின் மேற்குப் பகுதியில் 645 மைல் (1040 கிமீ) தொலைவில் குடிகொண்டிருந்த புயல் எந்த நிலப்பகுதிகளையும் தாக்குவதற்கு முன்னரே மறைந்துவிடக்கூடும் என்று வானிலை முன்னறிவிப்பாளர்கள் கூறுகின்றனர்.,wikinews,disaster
+43,tam,tam_Taml,"ஃப்ரெட்டில், தற்போது மணிக்கு 105 மைல் (மணிக்கு 165 கிமீ) காற்று வீசுகிறது, மேலும் காற்று வடமேற்கு திசை நோக்கி நகர்கிறது.",wikinews,disaster
+44,tam,tam_Taml,"செயற்கைக்கோள் படங்கள் வந்ததிலிருந்து அட்லாண்டிக்கில் இதுவரை தெற்கிலும் கிழக்கிலும் இதுவரை பதிவான வலிமையான வெப்பமண்டல சூறாவளி ஃப்ரெட் ஆகும், மேலும் 35 ° W க்கு கிழக்கே பதிவான மூன்றாவது பெரிய சூறாவளி இது மட்டுமே.",wikinews,disaster
+45,tam,tam_Taml,"24 ஆம்தேதி செப்டம்பர் மாதம் 1759 ஆம் ஆண்டு ஆர்தர் கின்னஸ், அயர்லாந்தின் டூப்ளியில் உள்ள செயின்ட் ஜேம்ஸ் கேட் ப்ரீவெரியை 9,000 ஆண்டுகளுக்கு குத்தகைக்கு எடுத்தார்.",wikinews,culture
+46,tam,tam_Taml,"250 ஆண்டுகளுக்குப் பிறகு, கின்னஸ் 10 பில்லியன் யூரோக்கள் (14.7 பில்லியன் அமெரிக்க டாலர்) விற்றுமுதலுடன் ஒரு உலகளாவிய வர்த்தகமாக மாறியுள்ளது.",wikinews,culture
+47,tam,tam_Taml,"ஜானி ரீட், A1 ஜிபி நியூசிலாந்து அணியின் இணை ஓட்டுநரான ஜானி ரீட், சட்டப்படி, 48 வயதான ஆக்லாந்து துறைமுகப் பாலத்தின் மீது அதிவேகமாக வண்டி ஓட்டி இன்று சரித்திரம் படைத்தார்.",wikinews,Sports
+48,tam,tam_Taml,"திரு ரீட், நியூஜிலாந்தின் A1 ஜிபி காரான கருப்பு அழகியை 160 கிமீ / மணி வேகத்திற்கு மேல் ஏழு முறை பாலத்தின் மீது ஓட்டினார்.",wikinews,Sports
+49,tam,tam_Taml,"பிளாக் பியூட்டியின் வேகம் காரணமாக திரு.ரீட் எவ்வளவு விரைவாக காரை செலுத்தினார் என்பதை நியுசிலாந்து காவல் அதிகாரியால் கண்டறிய இயலவில்லை, மற்றும் அவர் 160km/hக்கு தனது வேகத்தை குறைத்தபோதுதான் காவல் அதிகாரியின் கடிகாரத்தால் திரு. ரீட்டின் வேகத்தை அளக்க முடிந்தது.",wikinews,Sports
+50,tam,tam_Taml,"கடந்த 3 மாதங்களில், 80-க்கும் மேற்பட்ட கைது செய்யப்பட்டவர்கள், முறையாகக் குற்றஞ்சாட்டு தாக்கல் செய்யப்படாமல், மத்திய முன்பதிவு நிலையத்திலிருந்து விடுவிக்கப்பட்டனர்.",wikinews,Crime and Law
+51,tam,tam_Taml,"அழைத்து வரப்பட்டு 24 மணிநேரத்திற்குப் பின்னும் நீதிமன்ற அலுவலரால் விசாரிக்கப்படாதவர்களை விடுதலை செய்ய, இந்த ஆண்டு ஏப்ரல் மாதத்தில்,  நீதிபதி க்லைன், சிறைச்சாலைக்கு எதிரான தாற்காலிக தடை ஆணையைப்  பிறப்பித்தார்.",wikinews,Crime and Law
+52,tam,tam_Taml,"கமிஷனர் ஜாமின் வழங்கினால் கைது செய்யும் அதிகாரிகள் தாக்கல் செய்த குற்றச்சாட்டுகளை முறைப்படுத்துவர். அந்த குற்றச்சாட்டுகளுக்கு பிறகு வழக்குகள் கண்காணிக்கப்படும், மாநில கணினி அமைப்புகளில் பதிவு செய்யப்படும்.",wikinews,Crime and Law
+53,tam,tam_Taml,"இந்த விசாரணை, சந்தேகத்திற்குரியவரின் உரிமையான விசாரணையை விரைவாக நடத்துவதற்கான தேதியையும் குறிக்கிறது.",wikinews,Crime and Law
+54,tam,tam_Taml,"ஆஸ்திரேலியப் பொருளாளரும், லிபரல் கட்சித் தலைவராகப் பிரதமர் ஜான் ஹோவர்டுக்குப் பின் வெற்றிபெற வாய்ப்புள்ளவருமான பீட்டர் கோஸ்டெல்லோ, ஆஸ்திரேலியாவில் அணு ஆற்றல் தொழிலுக்குத் தனது ஆதரவை அளித்தார்.",wikinews,Politics
+55,tam,tam_Taml,"திரு கோஸ்டெல்லோ, அணு மின் உற்பத்தி பொருளாதார ரீதியாகச் சாத்தியமானதாக மாறும்போது, ​​ஆஸ்திரேலியா அதன் பயன்பாட்டைத் தொடர வேண்டும் என்று கூறினார்.",wikinews,Politics
+56,tam,tam_Taml,"""""""இது வணிக ரீதியாக மாறினால், நாம் அதை வைத்திருக்க வேண்டும். அதாவது, அணுசக்திக்குக் கொள்கை ரீதியாக ஆட்சேபனை இல்லை """"என்று திரு கோஸ்டெல்லோ கூறினார்.""",wikinews,Politics
+57,tam,tam_Taml,"""அன்சாவின் கூற்றுப்படி, """"ஒரு முழு-வெற்றியான வாரிசு போரைத் தூண்டிவிடக்கூடும் என்று அஞ்சி, சில உயர்ந்த வெற்றிகளால் போலீசார் கவலையடைந்தனர்.""",wikinews,Crime and Law
+58,tam,tam_Taml,லோ பிக்கோலோ பலெர்மோவில் ப்ரோவென்சாநோவின் வலது கையாளாக இருந்ததால் அவரது கரம் ஓங்கி இருந்தது மற்றும் அவரது பரந்த அனுபவமும் ப்ரோவென்சாநோவின் கொள்கையான அதிகார வலையை பலப்படுத்தும் போது எவ்வளவு அமைதியாக இருக்க முடியுமோ அவ்வளவு இருக்க வேண்டும் என்பதைப் பின்பற்றியதும் அவருக்குப் பழைய தலைமுறை தலைவர்களின் மரியாதையையும் பெற்றுத் தந்திருந்தது என்று போலீஸ் தெரிவித்தது.,wikinews,Crime and Law
+59,tam,tam_Taml,"1992 ல் ரீனாவால் நடத்தப்பட்ட மாஃபியா சிலுவைப்போர் போராளிகளான ஜியோவன்னி ஃபால்கோன் மற்றும் பவுலோ போர்செலிநோ ஆகியவர்களை பலி கொண்ட, அரசாங்கத்திற்கு எதிரான போரை முடிவுக்குக் கொண்டு வந்தபோது இந்தத் தலைவர்களை ப்ரோவென்சாநோ அழைத்து வந்தார்.",wikinews,Crime and Law
+60,tam,tam_Taml,"ஆப்பிள் தலைமை நிர்வாக அதிகாரி ஸ்டீவ் ஜாப்ஸ், மேடை மீது வந்து தனது ஜீன்ஸ் பேண்ட் பாக்கெட்டிலிருந்து ஐபோனை வெளியே எடுத்து அதை வெளியிட்டார்.",wikinews,Economy and business
+61,tam,tam_Taml,"""தனது 2 மணி நேர உரையின் போது, ​​""""இன்று ஆப்பிள் நிறுவனம் மீண்டும் ஒரு தொலைபேசியை உருவாக்கப் போகிறது, இன்று வரலாற்றை உருவாக்கப் போகிறோம்"""" என்று கூறினார்.""",wikinews,Economy and business
+62,tam,tam_Taml,"பூமியிலேயே பெரிய ரோமன் கத்தோலிக்க நாடு பிரேசில், அங்கே ரோமன் கத்தோலிக்க சர்ச் தொடர்ந்து ஒரே பாலின திருமணத்தைச் சட்டபூர்வமாக்குவதை எதிர்த்து வந்துள்ளது.",wikinews,Crime and Law
+63,tam,tam_Taml,பிரேசிலின் தேசிய காங்கிரஸ் 10 வருடமாக சட்டபூர்வமாக்குவது பற்றி விவாதிக்கிறது மற்றும் அத்தகைய சிவில் திருமணங்கள் தற்பொழுது ரியோ கிராண்டே டோ சுல் லில் மட்டுமே சட்ட பூர்வமானது.,wikinews,Crime and Law
+64,tam,tam_Taml,"அசல் மசோதாவை சாவோ பாலோவின் முன்னாள் மேயர் மார்டா சுப்ளிசி தயாரித்தார். முன்மொழியப்பட்ட சட்டம், திருத்தப்பட்ட பின்பு, தற்போது ராபர்டோ ஜெஃபர்சனின் கைகளில் உள்ளது.",wikinews,Crime and Law
+65,tam,tam_Taml,போராளிகள் நவம்பர் மாதம் தேசிய காங்கிரசுக்கு சமர்ப்பிப்பதற்கு 1.2 மில்லியன் கையொப்பங்களின் மனுவை சேகரிப்பார்கள் என நம்பப்படுகின்றனர்.,wikinews,Crime and Law
+66,tam,tam_Taml,"பல குடும்பங்கள் வெளியேற்றத்திற்கு எதிராக சட்ட உதவியை நாடினர் என்பது தெரிய வந்த பின்னர், வீட்டு மோசடியில் பாதிக்கப்பட்டவர்களுக்காக கிழக்கு பே சமூக சட்ட மையத்தில் மார்ச் 20 ஆம் தேதி ஒரு கூட்டம் நடைபெற்றது.",wikinews,Crime and Law
+67,tam,tam_Taml,"குத்தகைதாரர்கள் தங்களுக்கு ஏற்பட்டதைப் பகிர்ந்துகொள்ளத் தொடங்கியபோது, ​​சம்பந்தப்பட்ட பெரும்பாலான குடும்பங்கள் திடீரென்று OHA-இன் கரோலின் வில்சன், தங்களது பாதுகாப்பு டெபாசிட்களைத் திருடியிருப்பதை உணர்ந்தனர், மேலும் நகரத்திலிருந்து வெளியேறியதையும் உணர்ந்தனர்.",wikinews,Crime and Law
+68,tam,tam_Taml,"லாக்வுட் கார்டன்ஸில் குடியிருப்பாளர்கள் இன்னும் 40 குடும்பங்கள் அல்லது அதற்கு மேற்பட்டோர் வெளியேற்றத்தை எதிர்கொள்ளக்கூடும் என்று நம்புகின்றனர். ஓக்லாந்தில் உள்ள மற்ற பொது வீட்டு சொத்துக்களையும் OHA போலீசார் விசாரணை செய்து வருகின்றனர் என்று அவர்கள் அறிந்தனர், அவை வீட்டு   முறைகேட்டில் சிக்கியிருக்கக்கூடும்.",wikinews,Crime and Law
+69,tam,tam_Taml,"மௌய் யின் போர் நினைவு அரங்கத்தில் 9,000 பேர் பார்க்க நிகழ்வதாக இருந்த நிகழ்ச்சியை அந்த பாண்ட் ரத்து செய்தது மற்றும் ரசிகர்களிடம் அதற்காக மன்னிப்பும் கேட்டது.",wikinews,Crime and Law
+70,tam,tam_Taml,"பேண்ட் நிர்வாக நிறுவனமான HK Management Inc., செப்டம்பர் 20 அன்று ரத்து செய்யப்பட்டபோது, எந்த அடிப்படை காரணத்தையும் தெரிவிக்கவில்லை. ஆனால் அதற்கடுத்த நாளில் தளவாட காரணங்களை குற்றம் கூறியது.",wikinews,Crime and Law
+71,tam,tam_Taml,"பிரபல கிரேக்க வழக்கறிஞர்களான சாகிஸ் கெச்சகியோக்லோ மற்றும் ஜார்ஜ் நிகோலகோபெளலோஸ் ஆகியோர், சட்டத்துக்கு மாறான பணம் மற்றும் ஊழல் குற்றச்சாட்டு நிரூபிக்கப்பட்டதால், கோரிடல்லஸின் ஏதென்ஸ் சிறைச்சாலையில் சிறையில் அடைக்கப்பட்டனர்.",wikinews,Crime and Law
+72,tam,tam_Taml,"இதன் விளைவாக, கிரேக்க சட்ட சமூகத்தில், முந்தைய ஆண்டுகளில் நீதிபதிகள், வழக்கறிஞர்கள், சொலிசிடர்கள் மற்றும் அட்டர்னிகள் செய்த சட்ட விரோத நடவடிக்கைகளை வெளிப்படுத்தியதால் ஒரு பெரிய ஊழல் கிளம்பி இருக்கிறது.",wikinews,Crime and Law
+73,tam,tam_Taml,"""சில வாரங்களுக்கு முன்பு, Alpha TV யில் பத்திரிகையாளர் மாகிஸ் ட்ரையன்டாஃபைலோபௌலோஸ் தனது பிரபலமான தொலைக்காட்சி நிகழ்ச்சியான """"ஜூங்க்லா"""" இல் வெளியிட்ட தகவல்களுக்குப் பிறகு, நாடாளுமன்ற உறுப்பினரும் வழக்கறிஞருமான பெட்ரோஸ் மான்டுவாலோஸ் தனது அலுவலக உறுப்பினர்கள் சட்டவிரோத ஓட்டு மற்றும் ஊழலில் ஈடுபட்டதால் பதவி நீக்கம் செய்யப்பட்டார்.""",wikinews,Crime and Law
+74,tam,tam_Taml,"மேலும், உயர் நீதிபதி இவங்சலஸ் கலௌசிஸ் ஊழல் மற்றும் சீரழிந்த நடத்தையின் காரணமாக சிறையில் அடைக்கப்பட்டார்.",wikinews,Crime and Law
+75,tam,tam_Taml,"வாழ்க்கை எப்போது தொடங்குகிறது என்பது பற்றி ராபர்ட்ஸ் வெளிப்படையாக கூற மறுத்துவிட்டார், கருக்கலைப்பு நெறிமுறையை கருத்தில் கொள்ளும்போது ஒரு முக்கியமான கேள்விக்கு, சாத்தியமான நிகழ்வுகளின் விவரக்குறிப்பு பற்றி கருத்து கூறுவது நெறியற்றதாக இருக்கும் என்று கூறினார்.",wikinews,Politics
+76,tam,tam_Taml,"""எப்படியாக இருந்தாலும், ரோ வி. வேட் """"தீர்க்கப்பட்ட நிலத்தில் சட்டம்"""" என்ற தனது முந்தைய வாக்கியத்தை மீண்டும் வலியுறுத்தினார், நிலையான உச்சநீதிமன்றத் தீர்ப்புகளின் முக்கியத்துவத்தை வலியுறுத்தினார்.""",wikinews,Politics
+77,tam,tam_Taml,"தான், ரோ வின் முடிவு சார்ந்திருந்த மறைமுக தனியுரிமை குறித்து நம்புவதாக அவர் மேலும்  உறுதி செய்தார்.",wikinews,Politics
+78,tam,tam_Taml,"மாரூச்சிடோர் சிகரத்தின் உச்சியில், நூசாவை விட ஆறு புள்ளிகள் தெளிவாக பிற்பகுதியில் முடித்தார்.",wikinews,Sport
+79,tam,tam_Taml,அந்த இரண்டு (two) அணிகளும் ஒரு பெரிய அரை இறுதியில் சந்தித்த போது நூசா 11 புள்ளிகளால் வெற்றியைத் தட்டிச் சென்றது.,wikinews,Sport
+80,tam,tam_Taml,"பின்னர் மருச்சிடோர், கபூல்சரைத் பூர்வாங்க இறுதிப் போட்டியில் தோற்கடித்தது.",wikinews,Sport
+81,tam,tam_Taml,"ஹெஸ்பெரோனிகஸ் எலிசபெதே, ட்ரோமேயோசாவ்ரிடே இனத்தைச் சேர்ந்தது மற்றும் வேலோசிராப்டரின் குடும்பம்.",wikinews,science
+82,tam,tam_Taml,இந்த இறகுகளால் நிரம்பிய இரைக்கொல்லிப் பறவை வெலோசிரேப்டரைப் போன்று நகங்களுடன் இரண்டு கால்களைக் கொண்டு நேராக நடக்கும் என நம்பப்பட்டது.,wikinews,science
+83,tam,tam_Taml,"""அதன் இரண்டாவது நகம் இன்னும் பெரிதாக இருந்தது , அதனால் தான் """"மேற்கத்திய நகம்"""" என்று பொருளுடன்  ஹெஸ்பெரோனிகஸ் என்ற பெயர் வந்தது.""",wikinews,Science
+84,tam,tam_Taml,"இந்த கடினமான பனியை தவிர, மிக மோசமான வானிலையும் மீட்பு முயற்சிகளுக்கு தடையாக உள்ளது.",wikinews,Weather
+85,tam,tam_Taml,அடுத்த வாரம் வரை நிலைமை சீராகாதென்று பிட்மேன் தெரிவித்தார்.,wikinews,Weather
+86,tam,tam_Taml,"பிட்மேனின் கூற்றுப்படி, பனிக்கட்டி தொகுப்புகளின் அளவு மற்றும் தடிமன் ஆகியவை கடந்த 15 ஆண்டுகளில் மிகவும் மோசமடைந்துள்ளதால் எடை சரி பார்ப்பாளர்களுக்கு சிக்கல் ஏற்பட்டுள்ளது.",wikinews,Weather
+87,tam,tam_Taml,"மார்ச் 21-ஆம் தேதி நடந்த பள்ளிக்கூடத் துப்பாக்கிச் சூடு தொடர்பாக மற்றொரு மாணவர் கைது செய்யப்பட்டதாக, ஜெஃப் வெயிஸ் மற்றும் பாதிக்கப்பட்ட ஒன்பது பேரில் 3 பேர் இறுதிச் சடங்குகளில், இன்று ரெட் லேக் சமூகத்தில் செய்தி பரவியது.",wikinews,Crime and law
+88,tam,tam_Taml,"இன்றைய கைது நடவடிக்கையை உறுதிப்படுத்தியதைத் தவிர, அதிகாரிகள் அதிகாரப்பூர்வமாக எதையும் கூறவில்லை.",wikinews,Crime and law
+89,tam,tam_Taml,"ஆனாலும் அது, ரெட் லேக் பழங்குடியினர் தலைவர் ஃப்ளாய்ட் ஜோர்டாய்னின் 16 வயது மகன் லூயிஸ் ஜோர்டாய்ன் என்று விசாரணையைப் பற்றிய தகவலறிந்த வட்டாரம் மின்னியாபோலிஸ் ஸ்டார் ட்ரிப்யூனிடம் தெரிவித்தனர்.",wikinews,Crime and law
+90,tam,tam_Taml,"இந்த நேரத்தில் என்ன குற்றச்சாட்டுகள் சிறுவன் மீது சுமத்தப்படும் அல்லது அதிகாரிகள் சிறுவனைக் குற்றம் சுமத்த என்ன வழிவகுத்தது என்பது தெரியவில்லை, ஆனால் கூட்டாட்சி நீதிமன்றத்தில் சிறார் வழக்கு விசாரணை தொடங்கியுள்ளது.",wikinews,Crime and law
+91,tam,tam_Taml,ஆப்கானியர்களை மற்றொரு தேர்தலின் செலவு மற்றும் மற்றும் பாதுகாப்பு ஆபத்திலிருந்து காப்பாற்றுவதற்காக வாக்குப்பதிவை ரத்து செய்ய அதிகாரிகள் முடிவு செய்துள்ளதாகவும் லோடின் கூறினார்.,wikinews,Politics
+92,tam,tam_Taml,"ரன் - ஆஃப்கள் தேவையற்றவை என்பதைத் தீர்மானிப்பதற்கு, ஆப்கன் அரசியலமைப்பில் போதுமான தெளிவின்மையைக் கண்டறிந்ததாக அரசுப் பிரதிநிதிகள் தெரிவித்தனர்.",wikinews,Politics
+93,tam,tam_Taml,"இது முந்தைய அறிக்கைகளுக்கு முரணானது, இது தேர்தலை ரத்து செய்வது அரசியலமைப்பிற்கு எதிரானதாக இருந்திருக்கும் என்று கூறியது.",wikinews,Politics
+94,tam,tam_Taml,அந்த விமானம் இர்கூட்ஸ்க் நோக்கிச் சென்று கொண்டிருந்தது மற்றும் உள்நாட்டுப் படைகளால் செலுத்தப் பட்டுக் கொண்டிருந்தது.,wikinews,Tragety
+95,tam,tam_Taml,ஆய்வு செய்வதற்காக விசாரணை நிறுவப்பட்டது.,wikinews,Tragety
+96,tam,tam_Taml,"Il-76 ஆனது 1970களிலிருந்து இரஷ்ய மற்றும் சோவியத் இராணுவத்தின் முக்கிய அங்கமாக இருந்து வருகிறது, ஏற்கனவே ரஷ்யாவில் கடந்த மாதம் ஒரு கடுமையான விபத்தைச் சந்தித்தது.",wikinews,Tragety
+97,tam,tam_Taml,"அக்டோபர் ஏழாம் நாள் காயங்கள் ஏதும் இன்றி  புறப்படும் போது, ஒரு என்ஜின் பிரிக்கப்பட்டது. ரஷ்யா அந்த விபத்திற்கு பின் II-76 s யை சீக்கிரமாக தரை இறங்கியது.",wikinews,Tragety
+98,tam,tam_Taml,அலாஸ்காவின் ஃபேர்பேங்க்ஸுக்கு தெற்கே ஆயிரக்கணக்கான பீப்பாய்கள் கச்சா எண்ணெயைக் கொட்டியதைத் தொடர்ந்து டிரான்ஸ்-அலாஸ்கா பைப்லைன் அமைப்பின் 800 மைல்கள் மூடப்பட்டன.,wikinews,Disaster
+99,tam,tam_Taml,"வழக்கமான ஃபையர்-கமாண்ட் அமைப்பு சோதனையைத் தொடர்ந்து ஏற்பட்ட மின்சார செயலிழப்பு, ரிலீவ் வால்வுகள் திறந்து, ஃபோர்ட் க்ரீலி பம்ப் ஸ்டேஷன் 9-க்கு அருகில் கச்சா எண்ணெய் நிரம்பிவழியக் காரணமாக அமைந்தது.",wikinews,Disaster
+100,tam,tam_Taml,"வால்வுகளைத் திறப்பதென்பது, அமைப்பு அழுத்தத்தில் இருந்து விடுபடுவதை அனுமதித்தது மற்றும் 55,000 பேரல்களை (2.3 மில்லியன் கேலன்கள்) வைத்திருக்கக்கூடிய ஒரு டேங்குக்கான திண்டில் எண்ணெய் பாய்ந்தது.",wikinews,Disaster
+101,tam,tam_Taml,"புதன் கிழமை மதியம் வரை, அந்த டாங்கியின்  இடைவெளியிலிருந்து, அநேகமாக உள்ளே நேர்ந்த வெப்ப நிலை விரிவாக்கத்தால், கசிந்து கொண்டிருந்தது.",wikinews,Disaster
+102,tam,tam_Taml,"104,500 பீப்பாய்கள் வைத்திருக்கும் திறன் கொண்ட தொட்டிகளுக்கு கீழே உள்ள மற்றொரு இரண்டாம் நிலை கட்டுப்பாட்டுப் பகுதி இன்னும் நிரப்பப்படவில்லை.",wikinews,Disaster
+103,tam,tam_Taml,"தொலைக்காட்சியில் நேரலையில் அறிவிக்கும்போது, மூத்த ஈரானிய அதிகாரி ஒப்புதல்களினால் பாதிப்பு ஏற்பட்டது என முதன்முறையாக ஒப்புக்கொண்டார்.",wikinews,Politics
+104,tam,tam_Taml,"நிதிக் கட்டுப்பாடுகள் மற்றும் ஐரோப்பிய ஒன்றியத்தின் கச்சா எண்ணெய் ஏற்றுமதி மீதான தடை ஆகியவை அவற்றில் அடங்கும், இதில் இருந்து ஈரானிய பொருளாதாரம் அதன் வெளிநாட்டு வருமானத்தில் 80% ஐப் பெறுகிறது.",wikinews,Politics
+105,tam,tam_Taml,"அதனுடைய மிக சமீபத்திய மாதாந்திர அறிக்கையின்படி, இரண்டு தசாப்தங்களாக இல்லாதவகையில் ஒரு நாளைக்கு 2.8 பில்லியன் பீப்பாய்களாக மிக குறைந்த அளவு கச்சா எண்ணெய் ஏற்றுமதி இருந்ததாக ஒபேக் கூறியது.",wikinews,Politics
+106,tam,tam_Taml,"""நாட்டின் உயர்ந்த தலைவர், அயதுல்லா அலி கமேனி, 1979-ஆம் ஆண்டு ஈரானின் இஸ்லாமிய புரட்சிக்கு முந்தைய காலத்திலிருந்து எண்ணெய்யைச் சார்ந்து இருப்பது, """"ஒரு பொறி"""" என்று விவரித்தார், அதிலிருந்து நாடு தன்னை விடுவித்துக் கொள்ளவேண்டும் என்றும் கூறினார்.""",wikinews,Politics
+107,tam,tam_Taml,"அந்தக் கேப்சூல் பூமியின் வளி மண்டலத்தில் நுழையும் போது, காலை 5 மணியளவில் (கிழக்கு நேரம்), அது வட கலிபோர்னியா, ஒரேகான், நெவாடா மற்றும் உதா மாகாணங்களில் மக்களுக்கு ஒரு ஒளிக்காட்சி வழங்கும்   என்று எதிர்பார்க்கப் படுகிறது.",wikinews,Science
+108,tam,tam_Taml,காப்ஸ்யூல் வானத்தைக் கடந்து செல்லும் ஒரு எரி நட்சத்திரம் போல இருக்கும்.,wikinews,Science
+109,tam,tam_Taml,"அந்த கேப்சூல் நொடிக்கு 12.8 கி மி அல்லது 8 மைல்  வேகத்தில் சென்று கொண்டிருந்தது, அதாவது சான் பிரான்சிஸ்கோவில் இருந்து லாஸ் எஞ்சலிஸ் நகருக்கு ஒரு (one) நிமிடத்தில் சென்று விடும் அளவு வேகம்.",wikinews,Science
+110,tam,tam_Taml,"மே மாதம் 1969 இல் Apollo X கட்டளை தொகுதி திரும்பிய போது செய்த முந்தைய சாதனையை உடைத்து, பூமிக்கு திரும்பும் மிக வேகமாக விண்கலம் என்ற புதிய அனைத்து நேர சாதனையை Stardust செய்யும்.",wikinews,Science
+111,tam,tam_Taml,"அது வட கலிபோர்னியாவின் மேற்குக் கடற்கரைக்கு மேலே செல்லும் மற்றும் கலிபோர்னியாவில் இருந்து மத்திய ஒரேகான் மற்றும் அடுத்து நெவாடா மற்றும் இடாஹோ பின்னர் உதாவிலும் வானத்தை ஒளி மயமாக்கும் என்று ஸ்டார்டஸ்ட்டின் திட்ட மேலாளர்,   டாம் டாக்ஸ்பரி தெரிவித்தார்.",wikinews,Science
+112,tam,tam_Taml,"கியோட்டோ காலநிலை ஒப்பந்தத்தில் கையெழுத்திட திரு. ரூட் எடுத்த முடிவு அமெரிக்காவை தனிமைப்படுத்துகிறது, இது இப்போது ஒப்பந்தத்தை ஒப்புக் கொள்ளாத ஒரே வளர்ந்த நாடாக இருக்கும்.",wikinews,climate
+113,tam,tam_Taml,"ஆஸ்திரேலியாவின் முன்னாள் பழமைவாத அரசாங்கம் கியோட்டோவை அங்கீகரிக்க மறுத்து, நிலக்கரி ஏற்றுமதியை அதிக அளவில் நம்பியிருப்பதால் பொருளாதாரத்தைச் சேதப்படுத்தும் என்று தெரிவித்தது, அதே நேரத்தில் இந்தியா, சீனா போன்ற நாடுகள் எமிஷன் இலக்குகளுக்குக் கட்டுப்படவில்லை.",wikinews,climate
+114,tam,tam_Taml,இது ebay-இன் வரலாற்றில் மிகப்பெரிய கையகப்படுத்தலாகும்.,wikinews,Science and technology
+115,tam,tam_Taml,"அந்த நிறுவனம் தனது லாபம் ஈட்டும் வழிகளை பரவலாக்கியும் மற்றும் ஸ்கைப் பலமான நிலையில் உள்ள சீனா, கிழக்கு ஐரோப்பா மற்றும் பிரேசிலில் அதிகப் புகழ் பெறவும் எண்ணுகிறது.",wikinews,Science and technology
+116,tam,tam_Taml,"விஞ்ஞானிகள் என்சிலேடஸ் புவியியல் ரீதியாக செயல் பாட்டில் இருக்கிறது என்றும், சனி கிரகத்தின் பனி இ வளையத்திற்கு காரணம் என்றும் சந்தேகப் படுகிறார்கள்.",wikinews,Science and technology
+117,tam,tam_Taml,"என்செலடஸ் என்பது சூரிய மண்டலத்தில் அதிகமாகப் பிரதிபலிக்கும் ஒரு பொருளாகும், இது தன் மேல் படும் சூரிய ஒளியில் 90 சதவிகிதத்தைப் பிரதிபலிக்கிறது.",wikinews,Science and technology
+118,tam,tam_Taml,ஃபலூஜாவில் ஆறு நாட்கள் என்ற விளையாட்டை தாங்கள் வெளியிடப் போவதில்லை என்று ஜப்பானிய செய்தித்தாளுக்கு விளையாட்டு வெளியீட்டாளர் கோனாமி இன்று தெரிவித்தார்.,wikinews,Culture and entertainment
+119,tam,tam_Taml,அமெரிக்கா மற்றும் ஈராக்கிய படைகளுக்கு இடையே நடந்த மோசமான போரான ஃபலூஜாவின் இரண்டாம் யுத்தத்தை அடிப்படையாக கொண்டது இந்த விளையாட்டு.,wikinews,Culture and entertainment
+120,tam,tam_Taml,"இணையத்தில் வீடியோ ஒளிபரப்பப்பட்டபோதிலும், பிக் பிரதர் இணையதளத்தில் மீடியா சேமிக்கப்படாததால், பிக் பிரதர் ஆன்லைன் உள்ளடக்க தணிக்கைச் சட்டங்களை மீறவில்லை என்பதையும் ACMA கண்டறிந்தது.",wikinews,Politics and conflicts
+121,tam,tam_Taml,"ஒளிபரப்பு சேவைகள் சட்டம் இணைய உள்ளடக்கத்தை ஒழுங்குபடுத்துவதற்கு விதிகளை வழங்குகிறது, எனினும் இணைய உள்ளடக்கம் என்று கருதப்படுவதற்கு, அது ஒரு சர்வரில் இருக்க வேண்டும்.",wikinews,Politics and conflicts
+122,tam,tam_Taml,"நைரோபி, கென்யாவிலுள்ள அமெரிக்க தூதரகம், சோமாலியா நாட்டு தீவிரவாதிகள், கென்யா மற்றும் எதியோப்பியா மீது தற்கொலைத் தாக்குதல் நடத்தத் திட்டமிட்டிருப்பதாக ஒரு எச்சரிக்கை வெளியிட்டிருக்கிறது.",wikinews,Politics and conflicts
+123,tam,tam_Taml,"""U.S. தற்கொலைப் படைகள், எத்தியோபியா மற்றும் கென்யாவில் """"முக்கியமான இடங்களை"""" வெடி வைத்து தகர்க்கப் போவதாக வெளியிடப்படாத ஆதாரங்களிடமிருந்து தகவல் வந்துள்ளதாக கூறுகிறது.""",wikinews,Politics and conflicts
+124,tam,tam_Taml,"தி டெய்லி ஷோ மற்றும் தி கோல்பர்ட் ரிப்போர்ட்டுக்கு நீண்ட காலத்திற்கு முன்பே, 1988 இல் UW இல் அவர்கள் மாணவர்களாக இருந்தபோது, செய்திகளையும் செய்தி அறிக்கைகளையும் நையாண்டிச் செய்யும் ஒரு வெளியீட்டை ஹெக்கும் ஜோன்சனும் காட்சிப்படுத்தினர்.",wikinews,entertainment
+125,tam,tam_Taml,"அதன் தொடக்கத்திலிருந்து, வெங்காயம் ஒரு உண்மையான போலி செய்தி சாம்ராஜ்யமாக மாறியுள்ளது, ஒரு அச்சு பதிப்பு, அக்டோபர் மாதத்தில் 5,000,000 தனிப்பட்ட பார்வையாளர்களை ஈர்த்த ஒரு வலைத்தளம், தனிப்பட்ட விளம்பரங்கள், 24 மணி நேர செய்தி நெட்வொர்க், வலையொளிகள் மற்றும் சமீபத்தில் தொடங்கப்பட்ட தேசப்பட புத்தகம் ஆகியவை எங்கள் ஊமை உலகம் என்றழைக்கப்படுகிறது.",wikinews,entertainment
+126,tam,tam_Taml,"அல் கோர் மற்றும் ஜெனெரல் டாமி ஃப்ராங்க்ஸ் தங்களுக்குப் பிடித்ததைத் தலைப்புச் செய்தியாக தட்டி விடுகிறார்கள். (கோருடையது, அவர் 2000 ஆண்டு தேர்தலில் தோற்றபிறகு , தானும் டிப்பரும் மிகச் சிறந்த படுக்கையறை நேரத்தை அனுபவித்ததாக, ஆனியன் பத்திரிகையில் அறிவித்த போது).",wikinews,entertainment
+127,tam,tam_Taml,"அவர்களின் பல எழுத்தாளர்கள், ஜோன் ஸ்டீவர்ட் மற்றும் ஸ்டிஃபன் கோல்பர்ட்டின் நையாண்டி நிகழ்ச்சியில் பெரும் செல்வாக்கு பெற்றிருக்கிறார்கள்.",wikinews,entertainment
+128,tam,tam_Taml,இந்த கலை நிகழ்ச்சி புக்கரெஸ்ட் நகர மண்டபத்தின் பிரச்சாரத்தின் ஒரு பங்காகும். அது ரோமானிய தலைநகரத்தின் மீதான பார்வையை கற்பனையோடும் வண்ண மயமாகவும் பிரதிபலிக்க எண்ணுகிறது.,wikinews,entertainment
+129,tam,tam_Taml,"தென்கிழக்கு ஐரோப்பாவின் இந்த நகரம் தான் உலகின் மிகப்பெரிய பொது கலை நிகழ்சியான மாடுகள் அணிவகுப்பை, இந்த ஆண்டு ஜூன் மற்றும் ஆகஸ்ட் இடையே நடத்த இருக்கும் முதல் நகரம் ஆகும்.",wikinews,entertainment
+130,tam,tam_Taml,"இன்றைய அறிவிப்பு, கூடுதல் கேரியேஜுகளுக்கான நிதிக்காக, இந்த ஆண்டு மார்ச் மாதம் அரசாங்கத்தின் உறுதியான முடிவில் நீட்டிப்பை ஏற்படுத்தியது.",wikinews,politics
+131,tam,tam_Taml,"கூட்ட நெரிசலை குறைக்கும் முயற்சியில், கூடுதலாக 300 வாகனங்களுடன் மொத்தம் 1,300 வாகனங்களை வாங்க உள்ளது.",wikinews,politics
+132,tam,tam_Taml,"சந்தேகிக்கும் ஆண் குற்றவாளி, திட்டமிட்ட சதிக்கு பதிலாக அத்துமீறியதற்காகவே விசாரிக்கப் படுவதாக கிறிஸ்டோபர் கார்சியா, லாஸ் எஞ்சலிஸ் போலீஸ் துறையின் செய்தித் தொடர்பாளர், கூறினார்.",wikinews,crime
+133,tam,tam_Taml,"""அடையாளத்தின் வடிவம் சேதப்படுத்தப் படவில்லை;  எழுத்து """"O"""" ஐ """"e"""" என்ற சிறிய எழுத்தாகப் படிக்க கருப்பு டார்பாலின் பயன்படுத்தி அமைதி மற்றும் இதய அலங்கரிப்புகள் செய்யப்பட்டுள்ளன.""",wikinews,crime
+134,tam,tam_Taml,"சிவப்பு அலை, வழக்கத்தை விட அதிக அளவில் கரெனியா ப்ரேவிஸ் என்ற இயற்கையாக உருவாகும் ஒற்றைச் செல் கடல் உயிரினம், ஒரே இடத்தில் இருப்பதால் நேர்கிறது.",wikinews,environment
+135,tam,tam_Taml,இயற்கை காரணிகள் சிறந்த நிலையினை உருவாக்க குறுக்கிடுவதன் காரணமாக பாசிகள் வியத்தகு அளவில் அதிகரிக்க அனுமதிக்கிறது.,wikinews,environment
+136,tam,tam_Taml,"பாசி, மனிதர்கள் மற்றும் மீன்களின் நரம்புகளை முடக்கும் நியூரோடாக்சின் எனப்படும் நச்சை உற்பத்தி செய்கிறது.",wikinews,environment
+137,tam,tam_Taml,நீரில் விஷத்தன்மை அதிக அளவில் இருப்பதால் மீன்கள் பெரும்பாலும் இறக்கின்றன.,wikinews,environment
+138,tam,tam_Taml,காற்று மற்றும் அலைகளால் காற்றில் ஈர்க்கப்பட்ட நீரை சுவாசிப்பதன் மூலம் மனிதர்கள் பாதிக்கப்படலாம்.,wikinews,environment
+139,tam,tam_Taml,மாலத்தீவின் மொழியில் ஒரு பனையோலைக் கட்டைக் குறிக்கும் வகையில் பெயரிடப்பட்ட வெப்பமண்டல சூறாவளியான கோனு உச்சத்தில் இருக்கும் போது ஒரு மணிநேரத்திற்கு 240 கிலோமீட்டர் (மணிக்கு 149 மைல்) வேகத்தில் காற்று வீசியது.,wikinews,environment
+140,tam,tam_Taml,"இன்று அதிகாலை, மணிக்கு சுமார் 83 km வேகத்தில் காற்று வீசியது, மேலும் அது பலவீனமடையக்கூடும் என எதிர்பார்க்கப்படுகிறது.",wikinews,environment
+141,tam,tam_Taml,"COVID-19 தொடர்பான பிரச்சனைகள் காரணமாகப் புதன்கிழமை, அமெரிக்காவின் தேசிய கூடைப்பந்து சங்கம் (NBA) தனது தொழில்முறை கூடைப்பந்து சீசனை நிறுத்தியுள்ளது.",wikinews,sport
+142,tam,tam_Taml,என்.பி. ஏ வின் தீர்மானம் விளையாட்டு வீரர் உட்டா ஜாஸின் கோவிட்-19 வைரஸ் பரிசோதனை முடிவு பாஸிட்டிவ் என வந்ததும் வெளியானது.,wikinews,sport
+143,tam,tam_Taml,"""""""இந்த புதைபடிவத்தின் அடிப்படையில், மூலக்கூறு ஆதாரங்கள் எதிர்பார்த்ததை விட பிளவு என்பது மிகவும் முந்தையது என்று அர்த்தமாகும்.""",wikinews,science
+144,tam,tam_Taml,"""அதாவது எல்லாவற்றையும் மீட்டெடுக்கவேண்டும்"""", என்று எத்தியோப்பியாவில் உள்ள ரிஃப்ட் வேலி ரிசர்ச் சேவையின் ஆராய்ச்சியாளரும், ஆய்வின் இணை ஆசிரியருமான பெர்ஹேன் அஸ்பாவ் கூறினார்.""",wikinews,science
+145,tam,tam_Taml,"இப்போது வரை, AOL அமெரிக்காவிற்குள் பரவலாகப் பயன்படுத்தப்படுவதால், IM சந்தையை அதனுடைய வேகத்தில் நகர்த்தவும் மேம்படுத்தவும் முடிகிறது.",wikinews,business
+146,tam,tam_Taml,"இந்த ஏற்பாடு நடைமுறையில் இருப்பதால், இந்தச் சுதந்திரம் முடிவுக்கு வரக்கூடும்.",wikinews,business
+147,tam,tam_Taml,Yahoo! மற்றும் Microsoft சேவை பயனர்களின் எண்ணிக்கை ஒருங்கிணைந்து AOL வாடிக்கையாளர்களின் எண்ணிக்கையை எதிர்த்து நிற்கும்.,wikinews,business
+148,tam,tam_Taml,2008 ஆம் ஆண்டு இங்கிலாந்து அரசிடமிருந்து நிறுவனம் அவசர உதவி பெற்று விட்டது என்ற தகவல் வெளியானதைத் தொடர்ந்து வடக்கு ராக் வங்கி தேசியமாக்கப்பட்டிருக்கிறது.,wikinews,business
+149,tam,tam_Taml,"2007 ஆம் ஆண்டில் சப்பிரைம் அடமான நெருக்கடியின் போது, அதன் வெளிப்பாடுக் காரணமாக வடக்கு ராக்குக்கு ஆதரவு தேவைப்பட்டிருக்கிறது.",wikinews,business
+150,tam,tam_Taml,"சர் ரிச்சர்ட் பிரான்சனின் விர்ஜின் குழு, வங்கி தேசீயமயமாக்களுக்கு முன்னர் நிராகரிக்கப்பட்ட வங்கி உத்தரவை வைத்திருந்தனர்.",wikinews,business
+151,tam,tam_Taml,"2010 இல், தேசீயமயமாக்கப்பட்ட போது, தற்போதைய ஹை ஸ்ட்ரீட் வங்கி Northern Rock plc  'மோசமான வங்கி’, Northern Rock (சொத்து நிர்வாகம்) இலிருந்து பிரிக்கப்பட்டது.",wikinews,business
+152,tam,tam_Taml,"விர்ஜின் குட் பாங்க் ஆப் நோர்த் இன் ராக்கை மட்டுமே வாங்கியுள்ளது, அந்த சொத்து நிர்வகிக்கும் நிறுவனத்தை வாங்கவில்லை.",wikinews,business
+153,tam,tam_Taml,வரலாற்றில் ஐந்தாவது முறையாக பூமியில் விழும் வேதியியலால் உறுதிப்படுத்தப்பட்ட செவ்வாய் கிரகப் பொருளை மக்கள் கவனித்துள்ளனர்.,wikinews,Science
+154,tam,tam_Taml,"பூமியின் மீது விழுந்த சுமார் 24,000 அறியப்பட்ட விண்கற்களில், சுமார் 34 மட்டுமே செவ்வாய் கிரகத்தை மூலமாகக் கொண்டவை என உறுதிப்படுத்தப்பட்டுள்ளன.",wikinews,Science
+155,tam,tam_Taml,கடந்த ஜூலை மாதம் விண்கற்கள் பொழிந்ததற்கு இவற்றின் பதினைந்து பாறைகள் காரணமாக இருந்தது.,wikinews,Science
+156,tam,tam_Taml,"பூமியின் அரிய பாறைகள் சில, தங்கத்தை விட 10 மடங்கு அதிகமான அவுன்சிற்கு US$11.000 முதல் US$22,500 வரை விற்கப்படுகின்றன.",wikinews,Science
+157,tam,tam_Taml,"பந்தயத்தைத் தொடர்ந்து, Keselowski டிரைவர்கள் சாம்பியன்ஷிப்பில் 2,250 புள்ளிகளுடன் முன்னனியில் தொடர்கிறது.",wikinews,Sport
+158,tam,tam_Taml,"7 புள்ளிகளுக்கு பின்னால் ஜான்சன் 2,243 புள்ளிகளுடன் இரண்டாவது இடத்தில் உள்ளார்.",wikinews,Sport
+159,tam,tam_Taml,"மூன்றாவது இடத்தில், ஹாம்லின் இருபது புள்ளிகள் பின்தங்கியும், போயரை விட ஐந்து முன்னிலையிலும் உள்ளார். கஹ்னே மற்றும் ட்ரூயெக்ஸ், ஜூனியர் முறையே 2,220 மற்றும் 2,207 புள்ளிகளுடன் ஐந்தாவது மற்றும் ஆறாவது இடத்தில் உள்ளனர்.",wikinews,Sport
+160,tam,tam_Taml,"பருவத்தின் பந்தயம் இன்னும் நான்கு மீதமிருக்கையில் டிரைவர்கள் சாம்பியன் ஷிப்பில் ஸ்டூவர்ட், கார்டன், கென்செத் மற்றும் ஹார்விக் முதல் பத்து இடங்களில் சுற்றியுள்ளனர்.",wikinews,Sport
+161,tam,tam_Taml,இச்சம்பவம் குறித்து விசாரணை நடத்தி வருவதாகவும் US கடற்படை கூறியது.,wikinews,Accident
+162,tam,tam_Taml,"""ஒரு அறிக்கையில் அவர்கள், """"தற்சமயம் குழுவினர் கப்பலின் பாதுகாப்பில் சிறப்பானதை தீர்மானிக்க பணியாற்றி வருகின்றனர்"""" எனவும் கூறினர்.""",wikinews,Accident
+163,tam,tam_Taml,"கப்பல், பலவானில் புயர்டோ பிரின்செசாவிற்குச் சென்று கொண்டிருந்த சமயம் அவெஞ்சர் கிளாஸ் சுரங்கம் கப்பலுக்கு எதிரான நடவடிக்கைகளை மேற்கொண்டது.",wikinews,Accident
+164,tam,tam_Taml,இது அமெரிக்க கடற்படையின் ஏழாவது கடற்படைக்கு ஒதுக்கப்பட்டுள்ளது மற்றும் ஜப்பானில் நாகசாகியின் சசெபோவில் அமைந்துள்ளது.,wikinews,Accident
+165,tam,tam_Taml,"மும்பை தாக்குதல் நடத்தியவர்கள், நவம்பர் 26, 2008-ஆம் ஆண்டில் படகு வழியாக வந்ததுடன், அவர்களுடன் கையெறி குண்டுகள், தானியங்கி ஆயுதங்களைக் கொண்டுவந்து, நெரிசலான சத்ரபதி சிவாஜி டெர்மினஸ் ரயில் நிலையம் மற்றும் புகழ்பெற்ற தாஜ்மஹால் ஹோட்டல் உள்ளிட்ட பல இலக்குகளைத் தாக்கினர்.",wikinews,Law and crime
+166,tam,tam_Taml,"டேவிட் ஹெட்லியின் சாரணர் மற்றும் தகவல் சேகரிப்பானது, பாகிஸ்தான் தீவிரவாத குழுவான லஸ்கர்-இ-தைபாவைச் சேர்ந்த 10 துப்பாக்கி ஏந்திய வீரர்கள் இந்த நடவடிக்கையை மேற்கொள்ள உதவியுள்ளது.",wikinews,Law and crime
+167,tam,tam_Taml,இந்த தாக்குதல் இந்தியா மற்றும் பாகிஸ்தான் இடையேயான உறவில் பெரும் நெருக்கடியை ஏற்படுத்தியது.,wikinews,Law and crime
+168,tam,tam_Taml,"அந்த அதிகாரிகளுடன் சேர்ந்து, டெக்சாஸ் குடிமக்களுக்கு பொதுமக்களின் பாதுகாப்பைப் பாதுகாக்க நடவடிக்கை எடுக்கப்படுவதாக உறுதியளித்தார்.",wikinews,Politics
+169,tam,tam_Taml,’இந்த நிகழ்வில் முன்வைக்கப்படும் சவால்களை எதிர்கொள்ள இந்த உலகில் சில குறிப்பிட்ட இடங்கள் உள்ளன’ என்று பெர்ரி குறிப்பிட்டு கூறினார்.,wikinews,Politics
+170,tam,tam_Taml,"""கவர்னர் மேலும், """"இன்று, சில பள்ளி செல்லும் வயது குழந்தைகள் கூட நோயாளியுடன் தொடர்பு கொண்டிருந்ததாக அடையாளம் காணப்பட்டதை நாங்கள் அறிந்தோம்."""" என்று கூறினார்.""",wikinews,Politics
+171,tam,tam_Taml,"""அவர் மேலும் தொடர்ந்து கூறியதாவது,"""" இது தீவிரமான வழக்கு. இதில் எங்கள் அமைப்பு சிறப்பாக செயல்படுவது உறுதி"""". """,wikinews,Politics
+172,tam,tam_Taml,"உறுதிப்படுத்தப்பட்டால், முசாஷிக்கான ஆலனின் எட்டு-ஆண்டு தேடலை இந்த கண்டுபிடிப்பு நிறைவு செய்கிறது.",wikinews,Discovery
+173,tam,tam_Taml,"கடற்பரப்பு வரைபடத்தைத் தொடர்ந்து, ஒரு ROV-ஐப் பயன்படுத்தி சிதைவு ஒன்று கண்டுபிடிக்கப்பட்டது.",wikinews,Discovery
+174,tam,tam_Taml,"உலகின் மிகப்பெரிய செல்வந்தர்களில் ஒருவரான ஆலன், தனது செல்வத்தின் பெரும்பகுதியை கடல் ஆராய்ச்சிக்கு செலவிட்டதாகவும் போரின் வாழ்நாள் முழுதும் முசாஷியைக் கண்டுபிடிப்பதில் ஆர்வம் காட்டியதாகவும் கூறப்படுகிறது.",wikinews,Discovery
+175,tam,tam_Taml,அட்லாண்டாவில் அவர் இருந்த காலத்தில் விமர்சன ரீதியான பாராட்டைப் பெற்றார் மற்றும் புதுமையான நகர்ப்புற கல்விக்காக அங்கீகரிக்கப்பட்டார்.,wikinews,
+176,tam,tam_Taml,2009 ஆம் ஆண்டு அவர் ஆண்டின் தேசிய கண்காணிப்பாளராக விருது பெற்றார்.,wikinews,Law and crime
+177,tam,tam_Taml,"விருது வழங்கும் சமயத்தில், அட்லாண்டா பள்ளிகள் தேர்வு மதிப்பெண்களில் பெரிய முன்னேற்றத்தைக் காட்டியது.",wikinews,Law and crime
+178,tam,tam_Taml,"சிறிது நேரத்திற்குப் பிறகு, அட்லாண்டா ஜர்னல்-அரசியலமைப்பு சோதனை முடிவுகளில் சிக்கல்களைக் காட்டும் ஒரு அறிக்கையை வெளியிட்டது.",wikinews,Law and crime
+179,tam,tam_Taml,"தேர்வு மதிப்பெண்கள் நம்ப முடியாத அளவிற்கு வேகமாக அதிகரித்துள்ளதாகவும், பள்ளி உள்பிரச்சனைகளை அடையாளம் கண்டுள்ளதாகவும் ஆனால் அதில் செயல்படவில்லை என்றும் அறிக்கை காட்டியது.",wikinews,Law and crime
+180,tam,tam_Taml,"தேர்வு அறையிலேயே முறைகேடு நடைபெற்றதாகச் சாட்சியங்களால் குறிக்கப்பட்டதும், 34 கல்வி அதிகாரிகள் மீது, 2013-இல் குற்றஞ்சாட்டப்பட்டன.",wikinews,Law and crime
+181,tam,tam_Taml,நிலைமையைச் சரிசெய்ய பாராளுமன்ற சட்டத்தின் அவசர நிலையை ஐரிஷ் அரசாங்கம் வலியுறுத்துகிறது.,wikinews,Health
+182,tam,tam_Taml,"""""""பொது சுகாதாரம் மற்றும் குற்றவியல் நீதிகள் தற்போது விரைவில் இயற்றப்பட வேண்டிய சட்டங்களில் முக்கியமானது"""" என அரசாங்க செய்தி தொடர்பாளர் தெரிவித்தார். """,wikinews,Health
+183,tam,tam_Taml,சம்பந்தப்பட்ட பொருட்களின் தற்காலிக சட்டபூர்வத்தன்மையை சாதகமாகப் பயன்படுத்திக் கொள்ளும் தனிநபர்களின் நலன் மற்றும் தற்போதைய விதிமுறைகளுக்கு ஒவ்வாத மாற்றங்கள் நடைமுறைக்கு வந்த பின்னர் போதைமருந்து தொடர்பான தண்டனைகள் குறித்து சுகாதார அமைச்சர் கவலை தெரிவித்தார்.,wikinews,Health
+184,tam,tam_Taml,முந்தைய நாள் இத்தாலியின் கவர்சியானோவில் சீசனுக்கு முந்தைய பயிற்சியில் ஜார்கு பயிற்சி செய்துக் கொண்டிருந்தார். ஞாயிறன்று பொலானாவுக்கு எதிராக திட்டமிடப்பட்டுள்ள போட்டிக்கு முன்னதாக அவர் அணி ஹோட்டலில் தங்கியிருந்தார்.,wikinews,Sports
+185,tam,tam_Taml,அவர் ஞாயிறு போலோனியாவிகு எதிராக திட்டமிடப்பட்டுள்ள போட்டிக்கு முன்னரே குழு அணியின் ஹோட்டலில் தங்கியிருந்தார்.,wikinews,Sports
+186,tam,tam_Taml,பெருந்திரளான மக்களுக்கு இடையே இசைப்பதற்காக இசைக்குழு பேருந்து மூலம் மிசௌரியில் Six ஃப்ளாக்ஸ் செயின்ட் லூயிசுக்கு சென்று கொண்டிருந்தது.,wikinews,Disasters and accidents
+187,tam,tam_Taml,"சனிக்கிழமை அதிகாலை 1:15 மணியளவில், சாட்சிகளின் கூற்றுப்படி, பேருந்தின் முன் கார் திரும்பிக் கொண்டிருந்தபோது பச்சை விளக்கு எரிந்து கொண்டிருந்ததால் பேருந்து அதன் வழியாக சென்றது.",wikinews,Disasters and accidents
+188,tam,tam_Taml,"ஆகஸ்ட் 9-ஆம் தேதி இரவு நிலவரப்படி, மொராக்கோட்டின் மையப்பகுதி, சீன மாகாணமான புஜியனில் இருந்து எழுபது கிலோமீட்டர் தொலைவில் இருந்தது.",wikinews,Disasters and accidents
+189,tam,tam_Taml,"சூறாவளி, மணிக்கு பதினொரு கி.மீ வேகத்தில் சீனாவை நோக்கி நகரும் என்று மதிப்பிடப்பட்டுள்ளது.",wikinews,Disasters and accidents
+190,tam,tam_Taml,பயணிகள் 90(F) - டிகிரி வெப்பத்தில் காத்திருந்ததால் அவர்களுக்கு குடிநீர் வழங்கப்பட்டது.,wikinews,Culture and entertainment
+191,tam,tam_Taml,"""""""தீயணைப்பு கேப்டன் ஸ்காட் கௌன்ஸ், """"""""வெப்பநிலை 90களில் சாண்டா கிளாராவில் இது ஒரு சூடான நாள்.""""""""""",wikinews,Culture and entertainment
+192,tam,tam_Taml,"""ரோலர் கோஸ்டரில் சிக்கியிருக்கும் எந்நேரமும் அசௌகரியமாக இருக்கலாம், சொல்லப்போனால், சவாரியில் இருந்து முதல் நபரை விடுவிப்பதற்கு குறைந்தபட்சம் ஒரு மணி நேரம் எடுத்தது.""""""",wikinews,Culture and entertainment
+193,tam,tam_Taml,"ஃபார்முலா 1 சாம்பியன்ஷிப்பை ஏழு முறை வென்ற பிறகு 2006 இல் ஓய்வு பெற்ற ஸ்கூமேக்கர், காயமடைந்த ஃபெலிப் மாஸாவை மாற்றுவதற்கான தருணம்.",wikinews,Sports
+194,tam,tam_Taml,பிரேசிலியருக்கு 2009 ஹங்கேரிய கிராண்ட் பிரிக்ஸின் போது ஏற்பட்ட விபத்தில் தலையில் பலத்த காயம் ஏற்பட்டது.,wikinews,Sports
+195,tam,tam_Taml,மாஸா குறைந்தது மீதமுள்ள 2009 சீசனுக்கு வெளியே இருக்கவுள்ளார்.,wikinews,Sports
+196,tam,tam_Taml,"அரியாஸுக்கு பரிசோதனை செய்ததில் லேசான வைரஸ் தொற்று இருப்பது உறுதி செய்யப்பட்டது என்று, ஜனாதிபதி ரோட்ரிகோ அரியாஸ் கூறினார்.",wikinews,Disease
+197,tam,tam_Taml,"ஜனாதிபதியின் நிலைமை நிலையாக உள்ளது, இருப்பினும் அவர் பல நாட்கள் வீட்டில் தனிமைப்படுத்தப்படுவார்.",wikinews,Disease
+198,tam,tam_Taml,"""""""காய்ச்சல் மற்றும் தொண்டை புண்ணைத் தவிர, தொலைதொடர்பு மூலம் என் வேலையைச் செய்வதற்கான நல்ல உடல்நிலையில் இருக்கிறேன்.""",wikinews,Disease
+199,tam,tam_Taml,"""அரியாஸ் அறிக்கையில்,"""" திங்கட் கிழமையன்று எனது அனைத்து கடமைகளுக்கும் திரும்புவேன் என எதிர்பார்க்கிறேன்"""" என்று கூறியுள்ளார். """,wikinews,Disease
+0,tel,tel_Telu,"సోమవారం, స్టాన్ఫోర్డ్ యూనివర్శిటీ స్కూల్ ఆఫ్ మెడిసిన్ శాస్త్రవేత్తలు కణాల రకాన్ని క్రమబద్ధీకరించగల కొత్త రోగనిర్ధారణ సాధనం యొక్క ఆవిష్కరణను ప్రకటించారు: ప్రామాణిక ఇంక్జెట్ ప్రింటర్లను ఉపయోగించి 1 యు.ఎస్.",wikinews,health
+1,tel,tel_Telu,"ఇది తక్కువ ఆదాయం ఉన్న దేశాల్లోని రోగులకు క్యాన్సర్, క్షయ, హెచ్ ఐవి మరియు మలేరియాలను ముందస్తుగా గుర్తించవచ్చని లీడ్ పరిశోధకులు చెబుతున్నారు, రొమ్ము క్యాన్సర్ వంటి అస్వస్థతల కొరకు మనుగడ రేట్లు సంపన్న దేశాల్లో నివసిస్తుంది.",wikinews,health
+2,tel,tel_Telu,"సుమారు ఉదయం 9:30 గంటలకు స్థానిక సమయం (0230 UTC) వద్ద JAS 39C గ్రిపెన్ రన్వే పైకి దూసుకెళ్లి పేలిపోయింది, వాణిజ్య విమానాలు రాకుండా విమానాశ్రయాన్ని మూసివేయడం జరిగింది.",wikinews,accident
+3,tel,tel_Telu,పైలట్‌ను స్క్వాడ్రన్ లీడర్ దిలోక్రిత్ పట్టావీగా గుర్తించారు.,wikinews,accident
+4,tel,tel_Telu,స్థానిక మీడియా ప్రతిస్పందిస్తున్నసమయంలో ఒక ఎయిర్ పోర్ట్ ఫైర్ వాహనం దొర్లినట్లు గా నివేదించింది.,wikinews,accident
+5,tel,tel_Telu,28 ఏళ్ల విడాల్ 3 సీజన్‌ల క్రితం Sevilla నుండి Barçaలో చేరాడు.,wikinews,sports
+6,tel,tel_Telu,"కాటలాన్-రాజధానికి వచ్చినప్పటి నుండి, విడాల్ క్లబ్ తరఫున 49 ఆటలు ఆడాడు.",wikinews,sports
+7,tel,tel_Telu,ప్రధాని అధికారిక నివాసమైన డౌనింగ్ స్ట్రీట్ కు పోలీసు కాపలా ఉన్న ప్రవేశ ద్వారానికి ఎదురుగా శ్వేత హాల్ లో 11:00 స్థానిక సమయం (UTC+1) ఈ నిరసన ప్రారంభమైంది.,wikinews,politics
+8,tel,tel_Telu,"11:00 తరువాత, నిరసనకారులు వైట్‌హాల్‌‌‌లోని నార్త్‌బౌండ్ క్యారేజీపై ట్రాఫిక్‌ను అడ్డుకున్నారు.",wikinews,politics
+9,tel,tel_Telu,"11:20 కి, పోలీసులు నిరసనకారులను పేవ్ మెంట్ పై తిరిగి కదలమని కోరారు, వారు ట్రాఫిక్ ను నిర్మించడానికి నిరసన తెలిపే హక్కును సమతుల్యం చేయాల్సిన అవసరం ఉందని పేర్కొన్నారు.",wikinews,politics
+10,tel,tel_Telu,"సుమారు 11:29 గంటలకు, నిరసన వైట్‌హాల్ వైపుకు వెళ్ళి, ట్రాఫాల్గర్ స్క్వేర్ దాటి, స్ట్రాండ్ వెంట, ఆల్డ్‌విచ్ మరియు కింగ్స్‌వే మీదుగా కన్జర్వేటివ్ పార్టీ వారు తమ స్ప్రింగ్ ఫోరమ్‌ నిర్వహిస్తోన్న గ్రాండ్ కన్నాట్ రూమ్స్ హోటల్ ఉన్న హోల్బోర్న్ వైపుకు వెళ్ళింది.",wikinews,politics
+11,tel,tel_Telu,నాదల్ యొక్క హెడ్ టు హెడ్ టు హెడ్ రికార్డ్ కెనడియన్ వ్యతిరేకంగా 7–2.,wikinews,sports
+12,tel,tel_Telu,ఇటీవల అతను బ్రిస్బేన్ ఓపెన్ లో రావోనిక్ తో జరిగిన పోటీలో ఓడిపోయాడు.,wikinews,sports
+13,tel,tel_Telu,"తొలి సెర్వ్‌లో 76 పాయింట్లు గెలుచుకున్న నాదల్, మ్యాచ్‌లో మొత్తం 88% పాయింట్లు గెలుపొందాడు.",wikinews,sports
+14,tel,tel_Telu,"మ్యాచ్ తర్వాత, King of Clay అని పిలవబడే రాఫెల్ నాదల్ ఇలా అన్నారు, “నాకు చాలా ముఖ్యమైన ఈవెంట్‌‌లలో‌ చివరి రౌండ్ వరకు ఉండడం చాలా ఉత్సాహంగా అనిపిస్తుంది. దీంట్లో తప్పకుండా గెలవడానికి నేను ప్రయత్నిస్తాను.”",wikinews,sports
+15,tel,tel_Telu,"""“Panama Papers"""" అనేది, 2016 వసంతకాలంలో పత్రికలకు లీక్ అయిన Panamanian న్యాయ సంస్థ Mossack Fonsecaకు చెందిన సుమారు 10 మిలియన్ డాక్యుమెంట్‌లను సూచించే నిర్ధిష్ట పదం.""",wikinews,crime
+16,tel,tel_Telu,పన్నులు మరియు ఇతర నియమాలను నివారించడానికి పద్నాలుగు బ్యాంకులు ధనిక ఖాతాదారులకు బిలియన్ యు‌ఎస్ డాలర్ల సంపదని దాచడంలో సహాయపడ్డాయని డాక్యుమెంట్‌లు చూపించాయి.,wikinews,crime
+17,tel,tel_Telu,1200 షెల్ కంపెనీలలో మూడవ వంతు సాధించడానికి డ్యూయిష్ బ్యాంక్  నియంత్రించిందని బ్రిటిష్ వార్తాపత్రిక ది గార్డియన్ సూచించింది.,wikinews,crime
+18,tel,tel_Telu,"ప్రపంచవ్యాప్తంగా నిరసనలు, అనేక నేర విచారణలు జరిగాయి, ఐస్లాండ్ మరియు పాకిస్తాన్ ప్రభుత్వాల నాయకులు ఇద్దరూ రాజీనామా చేశారు.",wikinews,crime
+19,tel,tel_Telu,"""హాంకాంగ్‌లో పుట్టిన  మా, న్యూయార్క్ విశ్వవిద్యాలయం మరియు హార్వర్డ్ లా స్కూల్‌లో చదువుకున్నారు  మరియు ఒకప్పుడు అమెరికన్ శాశ్వత నివాసి """"గ్రీన్ కార్డ్"""" ను కలిగి ఉన్నారు.""",wikinews,Politics and conflicts
+20,tel,tel_Telu,సంక్షోభ సమయంలో మా దేశం విడిచి పారిపోవచ్చని ఎన్నికల సమయంలో హెచ్ సీహ్ చెప్పాడు.,wikinews,Politics and conflicts
+21,tel,tel_Telu,"ఫోటోజెనిక్ మా, పదార్ధం కంటే స్టైల్ అని కూడా హ్సీహ్ వాదించాడు.",wikinews,Politics and conflicts
+22,tel,tel_Telu,"ఈ ఆరోపణలు ఉన్నప్పటికీ, చైనా ప్రధాన భూభాగంతో సన్నిహిత సంబంధాలను బలపరిచడంలో ఒక వేదికపై మా విజయం సాధించారు.",wikinews,
+23,tel,tel_Telu,టుడేస్ ప్లేయర్ ఆఫ్ ది డే అనేది వాషింగ్టన్ క్యాపిటల్స్ కు చెందిన అలెక్స్ ఓవెచ్కిన్.,wikinews,sports
+24,tel,tel_Telu,అట్లాంటా థ్రాసర్స్ పై వాషింగ్టన్ 5-3 విజయంలో అతను 2 గోల్స్  2 అసిస్ట్ లను కలిగి ఉన్నాడు.,wikinews,sports
+25,tel,tel_Telu,రాత్రి సమయంలో ఒవెచ్కిన్ మొదటి సహాయం రూకీ నిక్లాస్ బ్యాక్ స్ట్రోమ్ చేసిన  గేమ్-విన్నింగ్ గోల్ పై ఉంది;,wikinews,sports
+26,tel,tel_Telu,"జరోమిర్ జాగర్ మరియు మ్యారియో లెమియక్స్ ఇద్దరూ ఆ మైలురాయిని చేరుకున్నప్పుడు, రాత్రికి అతని రెండవ గోల్ ఈ సీజన్లో అతని 60వది, 1995-96 నుండి ఒక సీజన్లో 60 లేదా అంతకంటే ఎక్కువ గోల్స్ చేసిన మొదటి ఆటగాడిగా పేరు గాంచాడు.",wikinews,sports
+27,tel,tel_Telu,2008 400 మంది రిచెస్ట్ అమెరికన్స్ జాబితాలో 2.3 బిలియన్ డాలర్ల సంపాదనతో బాటెన్ 190వ స్థానంలో నిలిచింది.,wikinews,Television
+28,tel,tel_Telu,అతను 1950లో వర్జీనియా విశ్వవిద్యాలయం యొక్క కాలేజ్ ఆఫ్ ఆర్ట్స్ & సైన్సెస్ నుండి పట్టభద్రుడయ్యాడు మరియు ఆ సంస్థకు గణనీయమైన దాత.,wikinews,Television
+29,tel,tel_Telu,అల్లర్ల సమయంలో ఇరాక్ లోని  అబూ ఘ్రెయిబ్ జైలుకు నిప్పు అంటించారు.,wikinews,crime
+30,tel,tel_Telu,U.S. దళాలు స్వాధీనం చేసుకున్న తరువాత అక్కడ ఖైదీ వేధింపులను కనుగొనడంతో జైలు అపఖ్యాతి కి గురయింది.,wikinews,crime
+31,tel,tel_Telu,"2008 సింగపూర్ గ్రాండ్ ప్రిక్స్​లో ఫెర్నాండో అలోన్సో కోసం పిట్ స్టాప్ చేసిన తరువాత పికెట్ జూనియర్ క్రాష్ అయ్యాడు, భద్రతా కారును బయటకు తీసుకువచ్చారు.",wikinews,crime
+32,tel,tel_Telu,"అలోన్సో ముందున్న కార్లు సేఫ్టీ కారు కింద ఇంధనం కోసం వెళ్తోంటే, అతను విజయం కోసం ప్యాక్ పైకి వెళ్లాడు.",wikinews,crime
+33,tel,tel_Telu,2009 హంగేరియన్ గ్రాండ్ ప్రిక్స్ తరువాత పిక్వెట్ జూనియర్ ను తొలగించారు.,wikinews,crime
+34,tel,tel_Telu,సరిగ్గా  ఉదయం 8:46 గంటలకు మొదటి జెట్ దాని లక్ష్యాన్ని తాకిన క్షణంలో నగరం అంతా నిశబ్దంగా మారిపోయింది.,wikinews,accident
+35,tel,tel_Telu,రాత్రిపూట ఆకాశం వైపు ప్రకాశింపచేయడానికి 2 కాంతి కిరణాలు అమర్చబడ్డాయి.,wikinews,accident
+36,tel,tel_Telu,"సైట్ దగ్గర ఐదు కొత్త స్కై‌స్కేపర్ల నిర్మాణం జరుగుతోంది, మధ్యలో ఒక రవాణా కేంద్రం మరియు  స్మారక ఉద్యానవనం ఉన్నాయి.",wikinews,accident
+37,tel,tel_Telu,"పిబిఎస్ షోకు రెండు-డజనుకు పైగా ఎమ్మీ అవార్డులు ఉన్నాయి, మరియు అది సిసేమ్ స్ట్రీట్ మరియు మిస్టర్ రోజర్స్ కంటే తక్కువే నడిచింది.",wikinews,television
+38,tel,tel_Telu,ప్రదర్శన యొక్క ప్రతి ఎపిసోడ్ ఒక నిర్దిష్ట పుస్తకంలోని ఒక నేపథ్యంపై దృష్టి కేంద్రీకరిస్తుంది తరువాత బహుళ కథల ద్వారా ఆ నేపథ్యమును అన్వేషిస్తాము.,wikinews,television
+39,tel,tel_Telu,ప్రతి ప్రదర్శన కూడా పిల్లలు వారి లైబ్రరీకి వెళ్ళినప్పుడు చూడాల్సిన పుస్తకాల కోసం సిఫార్సులు కూడా అందిస్తుంది.,wikinews,television
+40,tel,tel_Telu,"""""""WNED బఫెలో (రెయిన్ బో యొక్క హోమ్ స్టేషన్ ను చదవడం) నుండి జాన్ గ్రాంట్ ఇలా అన్నాడు"""""""" రెయిన్ బో చదవడం పిల్లలకు ఎందుకు చదవాలో పిల్లలకు నేర్పించింది,... చదవడ౦ లోని ప్రేమ — [ప్రదర్శన] పిల్లలను ఒక పుస్తక౦ ఎ౦పిక చేసుకోవడానికి, చదవమని ప్రోత్సహి౦చేది.""""""""""""""",wikinews,television
+41,tel,tel_Telu,"నిధుల కొరత మరియు విద్యా టెలివిజన్ ప్రోగ్రామింగ్ యొక్క తత్వంలో మార్పు, ఈ రెండూ సిరీస్‌ను ముగించడానికి దోహదపడ్డాయి అని జాన్ గ్రాంట్‌తో సహా కొందరు నమ్ముతారు.",wikinews,television
+42,tel,tel_Telu,"కేప్ వెర్డే దీవులకు పశ్చిమాన 645 మైళ్ల (1040 కిలోమీటర్లు) దూరంలో ఉన్న ఈ తుఫాను, ఏదైనా భూ భాగపు ప్రాంతాలను బెదిరించే ముందు, అది అంతరి౦చిపోయే అవకాశ౦ ఉ౦ది అని వాతావరణ నిపుణులు చెబుతున్నారు.",wikinews,disaster
+43,tel,tel_Telu,ఫ్రెడ్ ప్రస్తుతం గంటకు 105 మైళ్ల వేగంతో (165 కి.మీ./గం) గాలులు వీచి వాయువ్య దిశ వైపు కదులుతోంది.,wikinews,disaster
+44,tel,tel_Telu,ఉపగ్రహం నుండి అందిన చిత్రాల ప్రకారం అట్లాంటిక్‌లో ఫ్రెడ్ మాత్రమే ఇప్పటివరకు దక్షిణ మరియు తూర్పున నమోదైన బలమైన ఉష్ణమండల తుఫాను మరియు 35°W తూర్పున నమోదైన మూడవ అతి పెద్ద తుఫాను.,wikinews,disaster
+45,tel,tel_Telu,"సెప్టెంబరు 24 1759 న ఐర్లాండ్ లోని డబ్లిన్ లో ఉన్న సెయింట్ జేమ్స్ గేట్ బ్రూవరీ కోసం 9,000 సంవత్సరాల లీజుకు ఆర్థర్ గిన్నిస్ సంతకం చేశారు.",wikinews,culture
+46,tel,tel_Telu,"250 సంవత్సరాల తరువాత, గిన్నిస్ ప్రతి సంవత్సరానికి 10 బిలియన్ యూరోలతో (US$ 14.7 బిలియన్) ప్రపంచ వ్యాపారంగా ఎదిగింది.",wikinews,culture
+47,tel,tel_Telu,"A1GP న్యూజిలాండ్ జట్టుకు సహ డ్రైవర్ అయిన జానీ రీడ్, ఈ రోజు చట్టబద్దంగా న్యూజిలాండ్‌లోని 48 సంవత్సరాల చరిత్ర గల ఆక్లాండ్ హార్బర్ వంతెనపై వేగంగా డ్రైవింగ్ చేసి చరిత్ర సృష్టించాడు.",wikinews,Sports
+48,tel,tel_Telu,"మిస్టర్ రీడ్ న్యూజిలాండ్‌కు చెందిన A1GP కారు, Black Beautyను వంతెనపై 7 సార్లు 160km/h వేగంతో నడిపించగలిగాడు.",wikinews,Sports
+49,tel,tel_Telu,"Black Beauty ఎంత తక్కువ వేగంతో వెళుతుందని తెలిసినప్పటికీ, మిస్టర్ రీడ్ ఎంత వేగంగా వెళ్తున్నాడో చూడటానికి న్యూజిలాండ్ పోలీసులు తమ స్పీడ్ రాడార్ తుపాకులను ఉపయోగించడంలో ఇబ్బంది పడ్డారు, మరియు మిస్టర్ రీడ్‌ కారు వేగాన్ని 160km/hకు తగ్గించినప్పుడు మాత్రమే పోలీసులు అతన్ని పట్టుకోగలరు.",wikinews,Sports
+50,tel,tel_Telu,"గత 3 నెలల్లో, సెంట్రల్ బుకింగ్ సదుపాయం నుంచి 80 మంది అరెస్ట్ లు లాంఛనప్రాయంగా ఛార్జ్ చేయబడకుండా విడుదల చేయబడ్డాయి.",wikinews,Crime and Law
+51,tel,tel_Telu,"ఈ ఏడాది ఏప్రిల్ లో, కోర్టు కమిషనర్ ద్వారా విచారణ పొందని 24 గంటల కంటే ఎక్కువ సమయం ఉన్న వారిని విడుదల చేసే సదుపాయాన్ని అమలు చేసే సౌకర్యాన్ని జడ్జి గ్లిన్ జారీ చేశారు.",wikinews,Crime and Law
+52,tel,tel_Telu,"ఒకవేళ మంజూరు చేసినట్లయితే, కమిషనర్ బెయిల్ సెట్ చేసి, అరెస్ట్ చేసిన అధికారి ద్వారా దాఖలు చేయబడ్డ అభియోగాలను లాంఛనప్రాయంగా లాంఛనప్రాయంగా నమోదు చేస్తుంది. ఆ తర్వాత కేసు ను ట్రాక్ చేసే రాష్ట్ర కంప్యూటర్ వ్యవస్థలోకి ఛార్జీలను నమోదు చేస్తున్నారు.",wikinews,Crime and Law
+53,tel,tel_Telu,ఈ విచారణ వేగవంతమైన న్యాయవిచారణకు నిందితుడికి ఉన్న హక్కు కోసం కూడా తేదీని సూచిస్తుంది.,wikinews,Crime and Law
+54,tel,tel_Telu,ఆస్ట్రేలియా కోశాధికారి మరియు  ప్రధాన మంత్రి జాన్ హోవార్డ్ తరువాత లిబరల్ పార్టీ నాయకుడిగా వచ్చే అవకాశం ఉన్న పీటర్ కాస్టెల్లో ఆస్ట్రేలియాలో అణు విద్యుత్ పరిశ్రమకు తన మద్దతును ప్రకటించారు .,wikinews,Politics
+55,tel,tel_Telu,"అణు విద్యుత్ ఉత్పత్తి ఆర్థికంగా సాధ్యం అయినప్పుడు, మిస్టర్ కోస్టెల్లో ఆస్ట్రేలియా దాని ఉపయోగాన్ని కొనసాగించాలని  అన్నారు.",wikinews,Politics
+56,tel,tel_Telu,"""""""""""""""అది వాణిజ్యపరంగా మారితే, మనం దానిని కలిగి ఉండాలి. అంటే అణుశక్తివిషయంలో ఎలాంటి సూత్రప్రాయమైన అభ్యంతరం లేదు'' అని మిస్టర్ కోస్టెల్లో తెలిపారు.""""""",wikinews,Politics
+57,tel,tel_Telu,"""Ansa ప్రకారం, """"ఇటలీలో ఇద్దరు పెద్ద మాఫియా లీడర్‌లను అరెస్ట్ చేసిన తర్వాత పూర్తి స్థాయి వరుస యుద్ధాలకి దారి తీస్తుందని వారు భయపడ్డారు.""",wikinews,Crime and Law
+58,tel,tel_Telu,"లో పికోలో పాలెర్మోలో అతను నిరూపించబడిన జానో యొక్క కుడి-చేతి వ్యక్తి ఎందుకంటే అతను పై చేయి కలిగి ఉన్నాడు మరియు అతని గొప్ప అనుభవం పాత తరం బాస్ ల గౌరవాన్ని గెలుచుకుంది, ఎందుకంటే వారి పవర్ నెట్వర్క్ ను బలోపేతం చేసేటప్పుడు వారు సాధ్యమైనంత తక్కువ ఉంచాలనే Provenzano యొక్క విధానాన్ని అనుసరించారు.",wikinews,Crime and Law
+59,tel,tel_Telu,"""""""1992లో మాఫియా క్రుసేడర్లు గియోవన్నీ ఫాల్కోన్ మరియు పావోలో బోర్సెల్లీనో ల ప్రాణాలను బలిగొన్న రాజ్యానికి వ్యతిరేకంగా రైనా-ఆధారిత యుద్ధానికి ముగింపు పలకడానికి ఈ యజమానులు Provenzano ద్వారా తిరిగి వచ్చింది.""""""""""""""",wikinews,Crime and Law
+60,tel,tel_Telu,యాపిల్ సీఈవో స్టీవ్ జాబ్స్ వేదికపైకి వచ్చి ఐఫోన్ ను తన జీన్స్ జేబులో నుంచి తీసి బయటకు తీసి డివైస్ ను ఆవిష్కరించారు.,wikinews,Economy and business
+61,tel,tel_Telu,"""""""తన 2 గంటల ప్రసంగంలో ఆయన ఇలా పేర్కొన్నారు"""" ఈ రోజు యాపిల్ ఫోన్ ను తిరిగి ఆవిష్కరించి, ఈ రోజు చరిత్ర చేయబోతున్నాను"""" అని అన్నాడు.""",wikinews,Economy and business
+62,tel,tel_Telu,"ఈ భూమిపై అతిపెద్ద రోమన్ క్యాథలిక్ దేశం బ్రెజిల్, మరియు రోమన్ క్యాథలిక్ చర్చి దేశంలో స్వలింగ వివాహం చట్టబద్ధం చేయడాన్ని నిరంతరం వ్యతిరేకించింది.",wikinews,Crime and Law
+63,tel,tel_Telu,"బ్రెజిల్ యొక్క నేషనల్ కాంగ్రెస్ 10 సంవత్సరాలుగా చట్టబద్ధతపై చర్చించింది, మరియు ఇటువంటి పౌర వివాహాలు ప్రస్తుతం రియో ​​గ్రాండే దో సుల్ లో మాత్రమే చట్టబద్ధమైనవి.",wikinews,Crime and Law
+64,tel,tel_Telu,"అసలు బిల్లు సావో పాలో మాజీ మేయర్ మార్టా సుప్లికీచే ముసాయిదా చేయబడింది. ప్రతిపాదిత చట్టం, సవరించబడిన తదనంతరం, ఇప్పుడు రాబర్టో జెఫర్సన్ చేతిలో కలదు.",wikinews,Crime and Law
+65,tel,tel_Telu,నిరసనకారులు నవంబర్ లో జాతీయ కాంగ్రెస్ కు సమర్పించడానికి 1.2 మిలియన్ ల సంతకాలతో ఒక పిటిషన్ ను సేకరించవచ్చని భావిస్తున్నారు.,wikinews,Crime and Law
+66,tel,tel_Telu,"అనేక కుటుంబాలు స్వాధీనపరచుకోవాలని చేసిన  పోరాటంలో న్యాయ సహాయం కోరుతున్నట్లు స్పష్టంగా తెలిసాకా, హౌసింగ్ కుంభకోణం బాధితుల కోసం ఈస్ట్ బే కమ్యూనిటీ లా సెంటర్ లో మార్చి 20న ఒక సమావేశం జరిగింది.",wikinews,Crime and Law
+67,tel,tel_Telu,"అద్దెకు ఉండేవారు తమకు జరిగిన వాటిని పంచుకోవడం ప్రారంభించినప్పుడు, వారిలో చాలా కుటుంబాలు OHAకి చెందిన Carolyn Wilson తమ భద్రతా నిక్షేపాలను దొంగిలించి, పట్టణం నుండి వెళ్లిపోయారని హఠాత్తుగా గ్రహించారు.",wikinews,Crime and Law
+68,tel,tel_Telu,"లాక్వుడ్ గార్డెన్స్ వద్ద అద్దెదారులు మరో 40 కుటుంబాలు లేదా అంతకంటే ఎక్కువ కుటుంబాలు బహిష్కరణను ఎదుర్కోవలసి ఉంటుందని నమ్ముతున్నారు, ఎందుకంటే  గృహ కుంభకోణంలో చిక్కుకుని ఉండవచ్చని ఓక్లాండ్ లోని ఇతర పబ్లిక్ హౌసింగ్ ఆస్తులను కూడా ఒహ పోలీసులు పరిశీలిస్తున్నారని వారు తెలుసుకున్నారు.",wikinews,Crime and Law
+69,tel,tel_Telu,"Maui War Memorial Stadiumలో 9000 మంది హాజరు కాబోయే ప్రదర్శనను బ్యాండ్ రద్దు చేసింది, అలాగే అభిమానులకు క్షమాపణలు చెప్పింది.",wikinews,Crime and Law
+70,tel,tel_Telu,"బ్యాండ్ యొక్క నిర్వహణ సంస్థ, HK మేనేజ్మెంట్ ఇంక్., వారు సెప్టెంబరు 20న రద్దు చేసినప్పుడు ఎటువంటి ప్రాథమిక కారణాన్ని చెప్పలేదు, కానీ మరుసటి రోజు నాటికి లాజిస్టిక్ కారణాలను చూపించింది.",wikinews,Crime and Law
+71,tel,tel_Telu,"ప్రసిద్ధ గ్రీకు న్యాయవాదులు Sakis Kechagioglou, George Nikolakopoulosలను Athensలోని Korydallus జైలులో ఖైదు చేసారు, ఎందుకంటే వారు అవినీతి అక్రమార్జనకు పాల్పడినట్లు తేలింది.",wikinews,Crime and Law
+72,tel,tel_Telu,"దీని ఫలితంగా, గత సంవత్సరాలలో న్యాయమూర్తులు, న్యాయవాదులు, వకీలులు చేసిన చట్టవిరుద్ధ చర్యలను బహిర్గతం చేయడం ద్వారా గ్రీకు న్యాయ సమాజంలో ఒక పెద్ద కుంభకోణం బయటపడింది.",wikinews,Crime and Law
+73,tel,tel_Telu,"""""""కొన్ని వారాల క్రితం, పాత్రికేయుడు మాకిస్ ట్రియాంటాఫైలోపౌలోస్ ప్రచురించిన సమాచారం తరువాత, ఆల్ఫా TVలో తన పాపులర్ టెలివిజన్ షో """"""""జౌంగ్లా""""""""లో పార్లమెంటు సభ్యుడు మరియు న్యాయవాది అయిన పెట్రోస్ మాంట్యూలోస్ తన కార్యాలయంలో నిస్సంహించిన అవినీతి మరియు అవినీతిలో పాలుపంచుకున్నందున అతని కార్యాలయ సభ్యులు విడిపింపబడ్డారు.""""""",wikinews,Crime and Law
+74,tel,tel_Telu,"అ౦తేకాక, అవినీతి, దిగజారిన ప్రవర్తనకు పాల్పడినట్లు గారుజువైన ౦దున టాప్ జడ్జి ఇవా౦జెలోస్ కలౌసిస్ జైల్లో ఉ౦టాడు.",wikinews,Crime and Law
+75,tel,tel_Telu,"జీవితం ఎప్పుడు ప్రారంభమవుతుందనే దాని గురించి తాను  నమ్మేది  చెప్పడానికి  రాబర్ట్స్ నిరాకరించారు, గర్భస్రావం యొక్క నైతిక విలువలను పరిగణనలోకి తీసుకునేటప్పుడు ఒక ముఖ్యమైన ప్రశ్న గురించి  వాస్తవ కేసుల యొక్క నిర్దిష్టతల గురించి వ్యాఖ్యానించడం అనైతికమని చెప్పారు.",wikinews,Politics
+76,tel,tel_Telu,"""అయినప్పటికీ, రో వి. వేడ్ """"సుప్రీంకోర్టు తీర్పుల యొక్క ప్రాముఖ్యతను నొక్కిచెప్పే """"భూమి యొక్క స్థిర చట్టం"""", అని తన మునుపటి ప్రకటనను పునరుద్ఘాటించాడు.""",wikinews,Politics
+77,tel,tel_Telu,"అతను కూడా అతను గోప్యతా హక్కుపై నమ్మకం కలిగి ఉన్నట్లు కూడా ధ్రువీకరించాడు, ఇది రో నిర్ణయం ఆధారపడి ఉంటుంది.",wikinews,Politics
+78,tel,tel_Telu,"Maroochydore పాయింట్ల పట్టికలో అగ్రస్థానంలో ఉన్నారు, 6 పాయింట్‌లతో Noosa రెండో స్థానంలో నిలిచారు.",wikinews,Sport
+79,tel,tel_Telu,"ప్రధాన సెమీ ఫైనల్ లో ఇరుజట్లు తలపపంచుకోగా, నూసా 11 పాయింట్లతో విజేతలను మట్టికరిపించింది.",wikinews,Sport
+80,tel,tel_Telu,మారూచిడోర్ ప్రిలిమినరీ ఫైనల్లో కాబూల్చర్‌ను ఓడించాడు.,wikinews,Sport
+81,tel,tel_Telu,"Hesperonychus elizabethae, Dromaeosauridae కుటుంబానికి చెందిన ఒక జాతి, Velociraptor యొక్క తర్వాతి తరంకు చెందిన డైనోసార్.",wikinews,science
+82,tel,tel_Telu,"పూర్తిగా ఈకలు, వెచ్చని రక్త౦తో ఉన్న ఈ పక్షి వెలోసిరాప్టర్ లా౦టి రెండు కాళ్లపై నిటారుగా నడిచి౦దని విశ్వసి౦చబడి౦ది.",wikinews,science
+83,tel,tel_Telu,"""""""దాని రెండవ పంజా పెద్దదిగా ఉంది, దీని పేరు """"""""పశ్చిమ పంజా"""""""" అని అర్ధం.""""""",wikinews,Science
+84,tel,tel_Telu,"మంచుతో పాటు, తీవ్రమైన వాతావరణ పరిస్థితులు సహాయక చర్యలకు ఆటంకం కలిగిస్తున్నాయి.",wikinews,Weather
+85,tel,tel_Telu,పిట్ మాన్ వచ్చే వారం వరకు పరిస్థితులు మెరుగుపడవని సూచించాడు.,wikinews,Weather
+86,tel,tel_Telu,"ప్యాక్ మంచు మొత్తం మరియు మందం, పిట్మాన్ ప్రకారం, గత 15 ఏళ్లలో సీలర్లకు ఇది చాలా దారుణంగా ఉంది.",wikinews,Weather
+87,tel,tel_Telu,జెఫ్ వీజ్ కు అంత్యక్రియలు మరియు తొమ్మిది మంది బాధితుల్లో ముగ్గురు మార్చి 21న జరిగిన స్కూలు కాల్పులకు సంబంధించి మరో విద్యార్థి అరెస్టు చేయబడ్డారని రెడ్ లేక్ కమ్యూనిటీలో నేడు వార్తలు వ్యాపించాయి.,wikinews,Crime and law
+88,tel,tel_Telu,"అధికారులు నేటి అరెస్ట్‌ ధ్రువీకరణ గురించి తప్ప, అధికారికంగా ఎక్కువ సమాచారం ఇవ్వలేదు.",wikinews,Crime and law
+89,tel,tel_Telu,"అయితే, దర్యాప్తుకు సంబంధించిన ఒక ఆధారం, ఇది రెడ్ లేక్ ట్రైబల్ ఛైర్మన్ ఫ్లాయిడ్ జౌర్డాన్ యొక్క 16 సంవత్సరాల తనయుడు లూయిస్ జోర్డాన్ అని మిన్నియాపాలిస్ స్టార్-ట్రిబ్యూన్ కు తెలిపింది.",wikinews,Crime and law
+90,tel,tel_Telu,ఈ సమయంలో ఎలాంటి ఆరోపణలు మోపబడతందో లేదా అధికారులు బాలుడికి దారి తీసిందో తెలియదు కానీ జువెనైల్ ప్రొసీడింగ్స్ ఫెడరల్ కోర్టులో ప్రారంభమయ్యాయి.,wikinews,Crime and law
+91,tel,tel_Telu,"మరో ఎన్నికల ఖర్చు, భద్రత ప్రమాదం నుండి ఆఫ్ఘన్లు కాపాడేందుకు అధికారులు ఎన్నికలను రద్దు చేయాలని నిర్ణయించినట్లు లోదిన్ తెలిపారు.",wikinews,Politics
+92,tel,tel_Telu,ఆఫ్ఘన్ రాజ్యాంగంలో నిర్బ౦ద౦గా ఉ౦డడ౦ అనవసర౦గా ఉ౦దని నిర్ణయి౦చుకోవడానికి తగిన స౦దిగ్దత ఉ౦దని దౌత్యాధికారులు చెప్పారు.,wikinews,Politics
+93,tel,tel_Telu,"ఇది మునుపటి రిపోర్ట్‌లకు విరుద్ధంగా ఉంది, ఇది రెండవ దశ ఎన్నికలను రద్దు చేయడం రాజ్యాంగానికి విరుద్ధమని పేర్కొంది.",wikinews,Politics
+94,tel,tel_Telu,ఎయిర్ క్రాఫ్ట్ Irkutsk వైపు వెళ్ళింది మరియు అది లోపల ఉన్న ట్రూప్‌ల చేత నడపబడుతూ ఉంది.,wikinews,Tragety
+95,tel,tel_Telu,విచారణ కోసం ఒక విచారణ ఏర్పాటు చేశారు.,wikinews,Tragety
+96,tel,tel_Telu,"1970 ల నుండి రష్యన్ మరియు సోవియట్ సైనిక దళం రెండింటిలో Il-76 ప్రధాన భాగంగా ఉంది, మరియు గత నెలలో రష్యాలో ఇప్పటికే ఒక తీవ్రమైన దుర్ఘటన ను చూసింది.",wikinews,Tragety
+97,tel,tel_Telu,"అక్టోబర్ 7న టేకాఫ్ అయిన సమయంలో ఒక ఇంజిన్ ను వేరు చేసి, ఎలాంటి గాయాలు లేకుండా చేశారు. ఆ ప్రమాదం తర్వాత రష్యా క్లుప్తంగా Il-76s ను నేలమట్టం చేసింది.",wikinews,Tragety
+98,tel,tel_Telu,800 మైళ్ళ ట్రాన్స్ అలాస్కా పైప్ లైన్ సిస్టమ్ అలాస్కాలోని  ఫెయిర్ బ్యాంక్స్ కి దక్షిణంగా వేలాది బ్యారెల్స్ ముడి చమురు లీకైన తరువాత  మూసివేయబడింది.,wikinews,Disaster
+99,tel,tel_Telu,రొటీన్ ఫైర్ కమాండ్ సిస్టమ్ టెస్ట్ తరువాత పవర్ విఫలం కావడం వల్ల రిలీఫ్ వాల్వ్ లు తెరుచుకున్నాయి   మరియు ఫోర్ట్ గ్రీలీ పంప్ స్టేషన్ 9 దగ్గర  ముడి చమురు ఎక్కువగా పొంగింది.,wikinews,Disaster
+100,tel,tel_Telu,"వాల్వులు తెరుచుకోవడం వల్ల సిస్టమ్ లో ప్రెషర్ విడుదలయ్యింది మరియు ఆయిల్  ప్యాడ్ మీదుగా 55,000 బ్యారెల్స్ (2.3 మిలియన్ గ్యాలన్లు) నిల్వచేయగల ట్యాంకులోకి ప్రవహించింది.",wikinews,Disaster
+101,tel,tel_Telu,"బుధవారం మధ్యాహ్నం నాటికి, ట్యాంకు వెంట్ లు ఇప్పటికీ ట్యాంకు లోపల థర్మల్ విస్తరణ నుంచి లీక్ అయి ఉండవచ్చు.",wikinews,Disaster
+102,tel,tel_Telu,"ట్యాంక్‌ల కింద ఉండే 104,500 బారెల్స్‌ను ఉంచగలిగే సామర్థ్యం కలిగిన రెండవ కంటైన్‌మెంట్ ఏరియా దాని సామర్థ్యానికి తగినట్లుగా ఇంకా పూర్తిగా నింపబడలేదు.",wikinews,Disaster
+103,tel,tel_Telu,"ఈ వ్యాఖ్యలు టెలివిజన్ లో ప్రత్యక్షప్రసారం, సీనియర్ ఇరాన్ వర్గాలు ఈ ఆంక్షల ప్రభావం ఏమైనా ఉన్నాయని అంగీకరించడం ఇదే మొదటిసారి.",wikinews,Politics
+104,tel,tel_Telu,"వాటిలో ఆర్థిక ఆంక్షలు మరియు ముడి చమురు ఎగుమతిపై యూరోపియన్ యూనియన్‌కు నిషేధం ఉన్నాయి, దీని నుండి ఇరాన్ ఆర్థిక వ్యవస్థ దాని విదేశీ ఆదాయంలో 80% పొందుతుంది.",wikinews,Politics
+105,tel,tel_Telu,"తన అత్యంత ఇటీవల నెలవారీ నివేదికలో, క్రూడాయిల్ ఎగుమతులు రోజుకు 2.8 మిలియన్ బ్యారల్స్ వద్ద రెండు దశాబ్దాల కనిష్ట స్థాయికి పడిపోయాయని ఒపెక్ పేర్కొంది.",wikinews,Politics
+106,tel,tel_Telu,"""""""1979లో ఇరాన్ ఇస్లామిక్ ఉద్యమానికి ముందు నుండి ఆయిల్ మీద ఆధారపడటం """"ఒక ఉచ్చు"""" అని, దాని నుండి దేశం స్వత్రంత్రం పొందాలని"""" ఆ దేశ అత్యుత్తమ నాయకుడు అయతోల్లా అలీ ఖమేనీ వర్ణించారు.""",wikinews,Politics
+107,tel,tel_Telu,"క్యాప్సూల్ భూమికి దగ్గరగా వచ్చి వాతావరణంలోకి ప్రవేశించినప్పుడు, సుమారు ఉదయం 5 గంటల (తూర్పు సమయం) సమయంలో, ఇది ఉత్తర కాలిఫోర్నియా, ఒరెగాన్, నెవాడా మరియు ఉతాలోని ప్రజలకి లైట్ షో ప్రదర్శిస్తుందని ఊహించబడింది.",wikinews,Science
+108,tel,tel_Telu,ఆ క్యాప్సూల్ ఆకాశంలో వెళ్ళే ఉల్క లాగా కనిపిస్తుంది.,wikinews,Science
+109,tel,tel_Telu,"ఈ క్యాప్సూల్ ఒక సెకనుకు 12.8 km లేదా 8 miles వేగంతో ప్రయాణిస్తుంది, 1 నిమిషంలో అత్యధిక వేగంతో ఇది San Francisco నుండి Los Angelesకు చేరుకోగలదు.",wikinews,Science
+110,tel,tel_Telu,"అపోలో ఎక్స్ కమాండ్ మాడ్యూల్ తిరిగి వచ్చినప్పుడు 1969 మేలో నెలకొల్పిన మునుపటి రికార్డును బద్దలు కొట్టి, స్టార్‌డస్ట్ భూమికి తిరిగి వచ్చిన వేగవంతమైన అంతరిక్ష నౌకగా కొత్త ఆల్-టైమ్ రికార్డ్‌ను నెలకొల్పుతుంది.",wikinews,Science
+111,tel,tel_Telu,"""""""ఇది ఉత్తర కాలిఫోర్నియా యొక్క పశ్చిమ తీరం మీదుగా కదులుతుంది మరియు కాలిఫోర్నియా నుండి మధ్య ఒరెగాన్ గుండా మరియు నెవాడా మరియు ఇడాహో గుండా మరియు ఉటాలోకి ఆకాశాన్ని వెలిగిస్తుంది"""" అని స్టార్‌డస్ట్ యొక్క ప్రాజెక్ట్ మేనేజర్ టామ్ డక్స్‌బరీ చెప్పారు.""",wikinews,Science
+112,tel,tel_Telu,"క్యోటో శీతోష్ణస్థితి ఒప్పందంపై సంతకం చేయాలన్న మిస్టర్ రూడ్ నిర్ణయం యునైటెడ్ స్టేట్స్ ను వేరుచేస్తుంది, ఇది ఇప్పుడు ఒప్పందాన్ని ఆమోదించని ఏకైక అభివృద్ధి చెందిన దేశం అవుతుంది.",wikinews,climate
+113,tel,tel_Telu,"ఆస్ట్రేలియా మాజీ సంప్రదాయవాద ప్రభుత్వం క్యోటోను ఆమోదించడానికి నిరాకరించింది, ఎందుకంటే బొగ్గు ఎగుమతులపై అధికంగా ఆధారపడటంతో ఆర్థిక వ్యవస్థను దెబ్బతీస్తుందని, భారత్, చైనా వంటి దేశాలు ఉద్గార లక్ష్యాలకు కట్టుబడి ఉండవని చెప్పింది.",wikinews,climate
+114,tel,tel_Telu,ఇది eBay చరిత్రలోనే అతి పెద్ద స్వాధీనం.,wikinews,Science and technology
+115,tel,tel_Telu,"ఈ కంపెనీ దాని యొక్క లాభాలను వివిధ రకాలుగా వెచ్చించడం ద్వారా Skypeకు బాగా డిమాండ్ ఉన్న చైనా, తూర్పు ఐరోపా, బ్రెజిల్ లాంటి దేశాలలో జనాదరణను పొందాలని ఆశిస్తోంది.",wikinews,Science and technology
+116,tel,tel_Telu,ఎన్సెలాడస్ భూవిజ్ఞానపరంగా చురుకుగా మరియు శని యొక్క ఐక్E ఉంగరం యొక్క సంభావ్య వనరుగా శాస్త్రవేత్తలు అనుమానించారు.,wikinews,Science and technology
+117,tel,tel_Telu,"ఎన్సెలాడస్ అనేది సోలార్ సిస్టమ్ అత్యంతగా ప్రతిబింబించే ఉపగ్రహం, ఇది తన మీద పడే సూర్యకాంతిని 90 శాతం ప్రతిబింబించేట్లు చేస్తుంది.",wikinews,Science and technology
+118,tel,tel_Telu,Fallujahలో 6 రోజుల గేమ్‌ను విడుదల చేయబోమని గేమ్ పబ్లిషర్ Konami ఈరోజు Japanese వారపత్రికలో తెలిపారు.,wikinews,Culture and entertainment
+119,tel,tel_Telu,అమెరికన్ మరియు ఇరాకీ దళాల మధ్య జరిగిన దుర్మార్గపు యుద్ధం అయిన ఫలుజా రెండవ యుద్ధంపై ఈ గేమ్ ఆధారపడి ఉంటుంది.,wikinews,Culture and entertainment
+120,tel,tel_Telu,"వీడియోను ఇంటర్నెట్‌లో ప్రసారం చేసినప్పటికీ, Big Brother వెబ్‌సైట్‌లో మీడియాను స్టోర్ చేయకపోవడం వలన Big Brother ఆన్‌లైన్ కంటెంట్ సెన్సార్‌షిప్ చట్టాలను ఉల్లంఘించలేదని ACMA కూడా కనుక్కుంది.",wikinews,Politics and conflicts
+121,tel,tel_Telu,"ప్రసార సేవల చట్టం ఇంటర్నెట్ విషయం యొక్క నియంత్రణను అందిస్తుంది, అయితే ఇంటర్నెట్ కంటెంట్ గా పరిగణించబడుతుంది, ఇది భౌతికంగా సర్వర్ లో ఉంటుంది.",wikinews,Politics and conflicts
+122,tel,tel_Telu,"""Kenyaలోని Nairobiలో ఉన్న United States రాయబారి కార్యాలయం Kenya మరియు Ethiopiaలో """"Somalia నుండి ఉగ్రవాదుల"""" ఆత్మహుతి బాంబు దాడులను నిర్వహించాలని ఆలోచిస్తున్నట్లు హెచ్చరిక జారీ చేసింది.""",wikinews,Politics and conflicts
+123,tel,tel_Telu,"""Ethiopia మరియు Kenyaలో """"ప్రముఖ స్థలాలను"""" పేల్చివేయడానికి ఆత్మహుతి దళాల వాడకాన్ని ప్రతేకంగా పేర్కొన్నట్లు ఒక తెలియని సోర్స్ నుండి సమాచారం అందుకున్నట్లు U.S. తెలిపింది.""",wikinews,Politics and conflicts
+124,tel,tel_Telu,"ది డైలీ షో మరియు ది కోల్బర్ట్ రిపోర్ట్ కు చాలా కాలం ముందు, హెక్ అండ్ జాన్సన్ 1988లో UWలో విద్యార్థులుగా ఉన్నప్పుడు వార్తలను-మరియు న్యూస్ రిపోర్టింగ్ ను హాస్యాస్పర౦గా ఉ౦చే ఒక ప్రచురణను ఊహి౦చారు.",wikinews,entertainment
+125,tel,tel_Telu,"ఆరంభం నుండి, ది ఆనియన్ ఒక నిజమైన వ్యంగ వార్తా సామ్రాజ్యంగా మారింది, ఒక ప్రింట్ ఎడిషన్, ఒక వెబ్సైటుతో అక్టోబర్ నెలలో 5,000,000 మంది వేర్వేరు సందర్శకులను ఆకర్షించింది, వ్యక్తిగత ప్రకటనలు, 24 గంటల న్యూస్ నెట్‌వర్క్, పాడ్‌కాస్ట్‌లు మరియు ఇటీవల అవర్ డంబ్ వరల్డ్ అనే ప్రపంచ అట్లాసును ప్రారంభించింది.",wikinews,entertainment
+126,tel,tel_Telu,"Al Gore మరియు General Tommy Franks తమ అభిమాన హెడ్‌లైన్‌లను సాధారణంగా తీసుకోరు (2000 ఎలెక్టోరల్ కాలేజీ ఓటమి తర్వాత Gore మరియు Tipper వారి జీవితాలలో అత్యంత సుఖమయ జీవితాన్ని అనుభవించారని The Onion మ్యాగజైన్ రిపోర్ట్ చేసినప్పుడు, Gore రాసినవి).",wikinews,entertainment
+127,tel,tel_Telu,వారి రచయితలలో చాలామంది జాన్ స్టీవర్ట్ మరియు స్టీఫెన్ కోల్బర్ట్ యొక్క వార్తా హాస్య ప్రదర్శనలపై గొప్ప ప్రభావాన్ని చూపడానికి వెళ్ళారు.,wikinews,entertainment
+128,tel,tel_Telu,"ఈ కళాత్మకమైన ఈవెంట్, Romanian రాజధాని యొక్క రూపురేఖలను సృజనాత్మకంగా మరియు రంగు రంగుల మహానగరంగా పునరుద్ధరించాలని కోరుకొనే Bucharest City Hall ప్రచారంలోని భాగమే.",wikinews,entertainment
+129,tel,tel_Telu,"ఈ సంవత్సరం జూన్ మరియు ఆగస్టు మధ్యలో జరగబోయే, ప్రపంచంలోనే అతిపెద్ద  పబ్లిక్ ఆర్ట్ కార్యక్రమం కౌపరేడ్‌ కు ఆతిథ్యం ఇస్తున్న ఈ నగరం ఆగ్నేయ ఐరోపాలో మొదటిది.",wikinews,entertainment
+130,tel,tel_Telu,ఈ ఏడాది మార్చిలో ప్రభుత్వము హామీ ఇచ్చినట్లుగా అదనపు క్యారేజీలకు నిధులు సమకూరుస్తున్నట్లు అని కూడా నేటి ప్రకటనలో వచ్చింది.,wikinews,politics
+131,tel,tel_Telu,"అదనంగా 300, రద్దీని తొలగించడం కొరకు 1,300 క్యారేజీలను కొనుగోలు చేయాల్సి ఉంటుంది.",wikinews,politics
+132,tel,tel_Telu,"లాస్ ఏంజిల్స్ పోలీస్ డిపార్ట్‌మెంట్ ప్రతినిధి క్రిస్టోఫర్ గార్సియా మాట్లాడుతూ, అనుమానిత పురుష నేరస్థుడిని విధ్వంసానికి బదులు అతిక్రమించినందుకు దర్యాప్తు చేస్తున్నారు అని అన్నారు.",wikinews,crime
+133,tel,tel_Telu,"""గుర్తు భౌతికంగా దెబ్బతినలేదు; చిన్న """"ఇ"""" చదవడానికి """"ఓ"""" ను మార్చడానికి శాంతి మరియు హృదయ సంకేతాలతో అలంకరించబడిన నల్ల టార్పాలిన్‌లను ఉపయోగించి ఈ మార్పు జరిగింది.""",wikinews,crime
+134,tel,tel_Telu,"Red tide అనేది సాధారణ గాఢత కన్నా ఎక్కువ మొత్తంలో ఉండే Karenia Brevis ద్వారా సంభవిస్తుంది, karenia Brevis సహజంగా ఏర్పడే ఏక కణ సముద్రపు జీవి.",wikinews,environment
+135,tel,tel_Telu,"ఆదర్శ పరిస్థితులను తేవడానికి సహజ కారకాలు కలిసి, పాచి యొక్క సంఖ్యను గణనీయంగా పెరగడానికి దోహదపడుతుంది.",wikinews,environment
+136,tel,tel_Telu,సిల్మద్రలు ఒక న్యూరోటాక్సిన్ను ఉత్పత్తి చేస్తాయి ఇది మనుషులలో మరియు చేపలలో నరాలు పనిచేయకుండా చేస్తుంది.,wikinews,environment
+137,tel,tel_Telu,నీటిలో విషతుల్యం అధిక గాఢత కారణంగా చేపలు తరచుగా మరణిస్తాయి.,wikinews,environment
+138,tel,tel_Telu,వాయువు మరియు అలల ద్వారా గాలిలోకి కలిసి ప్రభావితమైన నీటిని పీల్చడం వలన మనుషులపై ప్రభావం చూపవచ్చు.,wikinews,environment
+139,tel,tel_Telu,"దాని శిఖరాగ్రంవద్ద, ఉష్ణమండల తుఫాను గోను, మాల్దీవుల భాషలో నివసిస్తుంది, గంటకు 240 కిలోమీటర్ల (149 మైళ్ళు) స్థిరమైన గాలులను చేరుకుంది.",wikinews,environment
+140,tel,tel_Telu,"ఈ రోజు ప్రారంభంలో, గాలులు గంటకు 83కి.మీ/గం. తో వీచి, మరియు బలహీనపడతాయని భావించారు.",wikinews,environment
+141,tel,tel_Telu,కోవిడ్-19 కు సంబంధించిన ఆందోళనల కారణంగా యునైటెడ్ స్టేట్స్ నేషనల్ బాస్కెట్‌బాల్ అసోసియేషన్ (ఎన్‌బి‌ఏ) తన ప్రొఫెషనల్ బాస్కెట్‌బాల్ సీజన్‌ను బుధవారం నిలిపివేసింది.,wikinews,sport
+142,tel,tel_Telu,"Utah Jazzకు COVID-19 పరీక్షలో పాజిటివ్ అని నిర్ధారణ అయినందున, NBA యొక్క నిర్ణయాన్ని అనుసరించింది.",wikinews,sport
+143,tel,tel_Telu,"""""""ఈ శిలాజం ఆధారంగా, ఈ విభజన పరమాణు ఆధారాల కంటే ముందుగా గ్రహించబడింది.""",wikinews,science
+144,tel,tel_Telu,"""అంటే ప్రతీదాన్ని అలాగే పెట్టవలసి ఉంటుంది"""" అని ఇథియోపియాలోని రిఫ్ట్ వ్యాలీ రీసెర్చ్ సర్వీస్ దగ్గర పరిశోధకుడు మరియు అధ్యయనం యొక్క సహ-రచయిత  బెర్హానే అస్ఫావ్ అన్నారు.""",wikinews,science
+145,tel,tel_Telu,"ఇప్పటి వరకు, United Statesలో AOLను విస్తృతంగా వినియోగించడం  వలన IM మార్కెట్‌ను దాని సొంతంగా మంచి స్థాయికి తీసుకొని వచ్చి, అభివృద్ధి చేయగలిగింది.",wikinews,business
+146,tel,tel_Telu,"ఈ స్థానంలో అమరికతో, ఈ స్వేచ్ఛ అంతం కావచ్చు.",wikinews,business
+147,tel,tel_Telu,"Yahoo! మరియు Microsoft సర్వీస్‌ల యొక్క వినియోగదారుల సంఖ్య కలిపితే, AOL యొక్క వినియోగదారుల సంఖ్యకు పోటీగా ఉంటుంది.",wikinews,business
+148,tel,tel_Telu,సంస్థ UK ప్రభుత్వం నుండి అత్యవసర మద్దతు ను పొందినట్లు వెల్లడించిన తరువాత నార్తర్న్ రాక్ బ్యాంకును 2008లో జాతీయం చేశారు.,wikinews,business
+149,tel,tel_Telu,2007 లో సబ్‌ప్రైమ్ తనఖా సంక్షోభం సమయంలో బహిర్గతం కావడంతో నార్తర్న్ రాక్‌కు మద్దతు అవసరం.,wikinews,business
+150,tel,tel_Telu,సర్ రిచర్డ్ బ్రాన్సన్ యొక్క వర్జిన్ గ్రూప్ బ్యాంక్ జాతీయం చేయడానికి ముందు బిడ్ వేసి తిరస్కరించబడింది.,wikinews,business
+151,tel,tel_Telu,"2010లో, జాతీయం చేయబడినప్పుడు, ప్రస్తుత హై స్ట్రీట్ బ్యాంక్ నార్తర్న్ రాక్ plc 'బ్యాడ్ బ్యాంకు' నార్తర్న్ రాక్ (అసెట్ మేనేజ్మెంట్) నుండి విడిపోయింది.",wikinews,business
+152,tel,tel_Telu,"Northern Rock యొక్క 'good bank'ను మాత్రమే Virgin కొనుగోలు చేసింది, దాని అసెట్ మేనేజ్‌మెంట్ కంపెనీని కాదు.",wikinews,business
+153,tel,tel_Telu,అంగారక పదార్థం భూమిమీద పడటం అనేది రసాయనికంగా నిర్ధారించబడిన ట్లు ప్రజలు గమనించడం చరిత్రలో ఇది ఐదవసారి అని భావిస్తున్నారు.,wikinews,Science
+154,tel,tel_Telu,"భూమి మీద  పడిన  సుమారు 24,000 ఉల్కలలో, కేవలం 34కు మాత్రమే అంగారక గ్రహం నుంచి  వచ్చాయని ధృవీకరించబడ్డాయి.",wikinews,Science
+155,tel,tel_Telu,గత జూలైలో ఉల్కాపాతానికి ఈ రాళ్లలో పదిహేను  కేటాయించబడ్డాయి.,wikinews,Science
+156,tel,tel_Telu,"భూమి మీద ఉండే కొన్ని అరుదైన రాళ్ళు ఒక ఔన్స్‌కు US$11,000 నుండి $22,500 వరకు అమ్ముడవుతున్నాయి, అంటే దీని ధర బంగారం కంటే 10 రెట్లు ఎక్కువ.",wikinews,Science
+157,tel,tel_Telu,"రేసు తరువాత, కెసెలోస్కీ 2,250 పాయింట్లతో డ్రైవర్స్ ఛాంపియన్ షిప్ నాయకుడిగా కొనసాగుతున్నాడు.",wikinews,Sport
+158,tel,tel_Telu,"ఏడు పాయింట్లు వెనకబడి, జాన్సన్ 2,243 తో రెండో స్థానంలో నిలిచాడు.",wikinews,Sport
+159,tel,tel_Telu,"మూడవ స్థానంలో, హామ్లిన్ ఇరవై పాయింట్ల వెనుకబడి ఉన్నాడు, కాని బౌయర్ కంటే ఐదు ముందు ఉన్నాడు. కహ్నే మరియు ట్రూక్స్, జూనియర్ 2,220 ఇంకా 2,207 పాయింట్లతో వరుసగా ఐదవ మరియు ఆరవ స్థానంలో ఉన్నారు.",wikinews,Sport
+160,tel,tel_Telu,"ఈ సీజన్‌లో ఇంకా నాలుగు రేసులు మిగిలి ఉన్నా, డ్రైవర్స్ ఛాంపియియన్‌ షిప్‌లో స్టీవర్ట్, గోర్డాన్, కెన్సేత్, ఇంకా హార్విక్ మొదటి పది స్థానాలలో నిలిచారు.",wikinews,Sport
+161,tel,tel_Telu,US నావికాదళం కూడా ఈ సంఘటనపై దర్యాప్తు చేస్తున్నట్లు తెలిపింది.,wikinews,Accident
+162,tel,tel_Telu,"""వారు కూడా ఒక ప్రకటనలో, """"సిబ్బంది ప్రస్తుతం ఓడను సురక్షితంగా తీయడానికి ఉత్తమమైన పద్ధతిని నిర్ణయించడానికి కృషి చేస్తున్నారు""""అని చెప్పారు.""",wikinews,Accident
+163,tel,tel_Telu,"అవెంజర్ క్లాస్ గని ప్రతిచర్య నౌక, ఈ ఓడ పలావాన్ లోని ప్యూర్టో ప్రిన్ససాకు వెళ్తుండగా.",wikinews,Accident
+164,tel,tel_Telu,ఇది U.S. Navy యొక్క ఏడవ నౌకాదళానికి‌ కేటాయించబడింది మరియు ఇది జపాన్‌లో నాగసాకిలోని సాసెబోకు చెందినది.,wikinews,Accident
+165,tel,tel_Telu,"ముంబై దాడి చేసినవారు నవంబర్ 26, 2008న పడవ ద్వారా వచ్చారు, వారితో గ్రెనేడ్లు, ఆటోమేటిక్ ఆయుధాలు తీసుకువచ్చారు మరియు రద్దీగా ఉన్న ఛత్రపతి శివాజీ టెర్మినస్ రైల్వే స్టేషన్ మరియు ప్రసిద్ధ తాజ్ మహల్ హోటల్తో పాటు చాల  లక్ష్యాలను చేధించారు.",wikinews,Law and crime
+166,tel,tel_Telu,"పాకిస్తాన్‌కు చెందిన ఉగ్రవాదుల గ్రూప్ లష్కర్-ఎ-తైబా నుండి 10 మంది ముష్కరులు ఆపరేషన్‌ను ప్రారంభించడానికి, David Headley యొక్క స్కౌటింగ్ మరియు సమాచార సేకరణ సహాయపడింది.",wikinews,Law and crime
+167,tel,tel_Telu,ఈ దాడి భారత్- పాకిస్థాన్ ల మధ్య సంబంధాలపై తీవ్ర ఒత్తిడి చేసింది.,wikinews,Law and crime
+168,tel,tel_Telu,ప్రజల భద్రతను కాపాడేందుకు చర్యలు తీసుకుంటున్నట్లు ఆ అధికారులతో కలిసి ఆయన టెక్సాస్ పౌరులకు హామీ ఇచ్చారు.,wikinews,Politics
+169,tel,tel_Telu,"""""""పెర్రీ ప్రత్యేకంగా ఇలా అన్నాడు, """"ఈ సందర్భంలో ఎదురయ్యే సవాలును ఎదుర్కొనడానికి ప్రపంచంలో కొన్ని ప్రదేశాలు మెరుగ్గా సన్నద్ధంతో ఉన్నాయి.""""""",wikinews,Politics
+170,tel,tel_Telu,"""""""కొంతమంది పాఠశాల వయస్సు పిల్లలు రోగిని ముట్టుకున్నట్లు గుర్తించారని మేము ఈ రోజు తెలుసుకున్నాము"""", అని గవర్నర్ కూడా పేర్కొన్నారు.""",wikinews,Politics
+171,tel,tel_Telu,"""అతను చెప్పడానికి వెళ్ళాడు, """"ఈ కేసు తీవ్రమైనది. మిగిలినవి మా సిస్టమ్ అది ఎలా పని చేయాలో అలాగే పనిచేస్తుందని భరోసా ఇవ్వండి.""""""",wikinews,Politics
+172,tel,tel_Telu,"ఒకవేళ నిర్ధారణయితే, Musashi కోసం Allen యొక్క 8 సంవత్సరాల అన్వేషణ పూర్తవుతుంది.",wikinews,Discovery
+173,tel,tel_Telu,సముద్రతీర మ్యాపింగ్‌ను అనుసరిస్తూ ROVను ఉపయోగించి శిథిలాలను కనుగొన్నారు.,wikinews,Discovery
+174,tel,tel_Telu,"ప్రపంచంలోని అత్యంత ధన్యవంతులలో Allen ఒకరు. ఆయన తన సంపదలో ఎక్కువ భాగాన్ని సముద్ర అన్వేషణ మీద పెట్టుబడి పెట్టి, తనకి యుద్ధం పట్ల ఉన్న చిరకాల మక్కువతో Musashiని కనుగొనాలనే తపన మొదలైందని నివేదించబడింది.",wikinews,Discovery
+175,tel,tel_Telu,అట్లాంటాలో ఉన్న సమయంలో  ఆమె విమర్శకుల నుంచి  ప్రశంసలు పొందింది మరియు వినూత్న  పట్టణ విద్యకోసం ఆమెకి గుర్తింపు లభించింది,wikinews,
+176,tel,tel_Telu,2009 లో ఆమెకు నేషనల్ సూపరింటెండెంట్ ఆఫ్ ది ఇయర్ బిరుదు లభించింది.,wikinews,Law and crime
+177,tel,tel_Telu,"అవార్డు సమయంలో, అట్లాంటా పాఠశాలలు టెస్ట్ స్కోర్లలో పెద్ద మెరుగుదలను చూశాయి.",wikinews,Law and crime
+178,tel,tel_Telu,"కొద్ది కాలం తరువాత, ది అట్లాంటా జర్నల్-రాజ్యాంగం పరీక్షా ఫలితాలతో సమస్యలను చూపుతూ ఒక నివేదికను ప్రచురించింది.",wikinews,Law and crime
+179,tel,tel_Telu,"నివేదిక టెస్ట్ స్కోర్లు వేగంగా పెరిగినట్లు చూపించింది, మరియు పాఠశాల అంతర్గతంగా సమస్యలను గుర్తించింది కానీ కనుగొన్న దానిపై చర్య తీసుకోలేదు.",wikinews,Law and crime
+180,tel,tel_Telu,"ఆ తర్వాత సాక్ష్య౦, 34 ఇతర విద్యాశాఖ అధికారులతో కలిసి హాల్ పరీక్షపత్రాలను ట్యా౦పర్ చేసినట్లు సూచించింది, 2013లో నేరారోపణ చేయబడ్డారు.",wikinews,Law and crime
+181,tel,tel_Telu,ఐరిష్ ప్రభుత్వం పరిస్థితిని సరిచేయడానికి పార్లమెంటరీ చట్టం యొక్క ఆవశ్యకతను గట్టిగా చెబుతోంది.,wikinews,Health
+182,tel,tel_Telu,"""""""ప్రజా ఆరోగ్యం  క్రిమినల్ జస్టిస్ దృక్కోణం నుండి చట్టం సాధ్యమైనంత త్వరగా అమలు చేయడం చాలా ముఖ్యం"""" అని ప్రభుత్వ ప్రతినిధి ఒకరు చెప్పారు.""",wikinews,Health
+183,tel,tel_Telu,"ఇమిడి ఉన్న పదార్థాల తాత్కాలిక చట్టబద్ధతను ఉపయోగించుకుని, ఆరోగ్య మంత్రి ప్రస్తుత రాజ్యాంగ విరుద్ధమైన మార్పులు అమల్లోకి వచ్చినప్పటి నుండి మాదక ద్రవ్యాలకు సంబంధించిన నేరారోపణలను స్వీకరించే వ్యక్తుల సంక్షేమంపై ఆందోళన వ్యక్తం చేశారు.",wikinews,Health
+184,tel,tel_Telu,జార్క్ అంతకు ముందు రోజు ఇటలీలోని Coverciano లో ప్రీ-సీజన్ శిక్షణ సమయంలో ప్రాక్టీస్ చేశారు. బొలోనియాతో ఆదివారం జరిగే మ్యాచ్ కు ముందు అతను జట్టు హోటల్ లో బస చేశాడు.,wikinews,Sports
+185,tel,tel_Telu,బొలోనియాతో ఆదివారం జరిగే మ్యాచ్ కు ముందు అతను జట్టు హోటల్ లో బస చేశాడు.,wikinews,Sports
+186,tel,tel_Telu,ప్రేక్షకుల ముందు ప్రదర్శన ఇవ్వడానికి Missouriలోని Six Flags St. Louisకు బస్సు బయలుదేరింది.,wikinews,Disasters and accidents
+187,tel,tel_Telu,"సాక్షులు తెలిపిన దాని ప్రకారం, శనివారం ఉదయం 1:15 గంటల సమయంలో బస్సు గ్రీన్ లైట్‌లో వెళ్తునప్పుడు దాని ఎదురుగా ఒక కారు మలుపు తీసుకుంది.",wikinews,Disasters and accidents
+188,tel,tel_Telu,"ఆగస్టు 9 రాత్రి నాటికి, మొరాకోట్ యొక్క కన్ను ఫుజియాన్ లోని చైనీస్ ప్రావిన్స్ నుండి డెబ్బై కిలోమీటర్ల దూరంలో ఉంది.",wikinews,Disasters and accidents
+189,tel,tel_Telu,పదకొండు kph వేగంతో తుఫాను China వైపు వెళ్తుందని అంచనా వేయబడింది.,wikinews,Disasters and accidents
+190,tel,tel_Telu,"90(F)-డిగ్రీ వేడిలో వేచి ఉన్నందున, ప్రయాణికులకు మంచి నీళ్ళు ఇచ్చారు.",wikinews,Culture and entertainment
+191,tel,tel_Telu,"""""""90లలో  ఉష్ణోగ్రతలతో శాంటా క్లారాలో ఈరోజు బాగా ఎండగా  ఉందని ఫైర్ కెప్టెన్ స్కాట్ కౌన్స్ అన్నారు.""",wikinews,Culture and entertainment
+192,tel,tel_Telu,"రోలర్ కోస్టర్ లో గడిచిన ఏ సమయమైనా అసౌకర్యంగా ఉంటుంది, అసలు చెప్పాలంటే, మొదటి వ్యక్తిని రైడ్ నుంచి బయటకు తీసుకురావడానికి  కనీసం ఒక గంట పడుతుంది.",wikinews,Culture and entertainment
+193,tel,tel_Telu,"Formula 1 ఛాంపియన్‌షిప్‌లో 7 సార్లు గెలిచిన తర్వాత 2006లో  పదవి విరమణ చేసిన Schumacher, గాయపడిన Felipe Massa స్థానాన్ని భర్తీ చేయడానికి ఉన్నారు.",wikinews,Sports
+194,tel,tel_Telu,2009 హంగేరియన్ గ్రాండ్ ప్రిక్స్ సమయంలో ఒక క్రాష్ తరువాత బ్రెజిలియన్ తలకు తీవ్రమైన గాయం తగిలింది.,wikinews,Sports
+195,tel,tel_Telu,మాసా కనీసం 2009 సీజన్ లో మిగిలిన కోసం అవుట్ చేయాల్సి ఉంది.,wikinews,Sports
+196,tel,tel_Telu,తేలికపాటి వైరస్ సందర్భంలో అరియాస్ పాజిటివ్ గా పరీక్షలో తేలిందని రాష్ట్రపతి మంత్రి రోడ్రిగో అరియాస్ తెలిపారు.,wikinews,Disease
+197,tel,tel_Telu,"అధ్యక్షుడి పరిస్థితి నిలకడగా ఉంది, అయితే అతను చాలా రోజుల పాటు ఇంటి వద్ద ఒంటరిగా ఉంటారు.",wikinews,Disease
+198,tel,tel_Telu,"""""""జ్వరం ఇంకా గొంతు నొప్పి కాకుండా, నేను బాగా మంచి ఆకారంలో ఉన్నాను, టెలికమ్యుటింగ్ ద్వారా నా పనిని పూర్తి చేస్తాను.""""""",wikinews,Disease
+199,tel,tel_Telu,సోమవారం నాడు నా అన్ని విధులకు తిరిగి రావాలని నేను ఆశిస్తున్నాను' అని ఆరియాస్ ఒక ప్రకటనలో తెలిపారు.,wikinews,Disease
